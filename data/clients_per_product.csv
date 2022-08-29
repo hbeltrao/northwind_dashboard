@@ -1,0 +1,1686 @@
+product_name;origin_country;customer_id;ship_country;revenue;total_orders;revenue_share(%)
+Côte de Blaye;France;QUICK;Germany;22924.5;2;0.0181
+Côte de Blaye;France;HANAR;Brazil;18076.1;3;0.0143
+Côte de Blaye;France;RATTC;USA;16864.0;2;0.0133
+Thüringer Rostbratwurst;Germany;HUNGO;Ireland;16711.65;3;0.0132
+Thüringer Rostbratwurst;Germany;SAVEA;USA;12046.59;3;0.0095
+Côte de Blaye;France;GREAL;USA;11264.625;2;0.0089
+Côte de Blaye;France;SIMOB;Denmark;10540.0;1;0.0083
+Raclette Courdavault;France;ERNSH;Austria;8514.0;2;0.0067
+Côte de Blaye;France;PICCO;Austria;8432.0;1;0.0067
+Côte de Blaye;France;MEREP;Canada;8263.36;1;0.0065
+Côte de Blaye;France;KOENE;Germany;7905.0;1;0.0062
+Tarte au sucre;Canada;RATTC;USA;7884.3;4;0.0062
+Alice Mutton;Australia;SAVEA;USA;7392.450000000001;3;0.0058
+Camembert Pierrot;France;QUICK;Germany;6800.0;4;0.0054
+Côte de Blaye;France;WHITC;USA;6587.5;1;0.0052
+Côte de Blaye;France;QUEEN;Brazil;6324.0;1;0.005
+Wimmers gute Semmelknödel;Germany;ERNSH;Austria;6290.9;4;0.005
+Manjimup Dried Apples;Australia;ERNSH;Austria;6042.0;1;0.0048
+Raclette Courdavault;France;SAVEA;USA;6006.0;3;0.0047
+Camembert Pierrot;France;ERNSH;Austria;5440.0;2;0.0043
+Schoggi Schokolade;Germany;QUICK;Germany;5268.0;1;0.0042
+Rössle Sauerkraut;Germany;ERNSH;Austria;5054.28;3;0.004
+Carnarvon Tigers;Australia;FOLIG;France;5000.0;2;0.004
+Thüringer Rostbratwurst;Germany;QUICK;Germany;4951.6;1;0.0039
+Raclette Courdavault;France;HUNGO;Ireland;4713.5;3;0.0037
+Perth Pasties;Australia;SAVEA;USA;4673.999999999999;2;0.0037
+Manjimup Dried Apples;Australia;FOLKO;Sweden;4664.0;3;0.0037
+Thüringer Rostbratwurst;Germany;FOLKO;Sweden;4642.125;1;0.0037
+Raclette Courdavault;France;HILAA;Venezuela;4565.0;2;0.0036
+Tarte au sucre;Canada;BOTTM;Canada;4522.475;3;0.0036
+Gnocchi di nonna Alice;Italy;SAVEA;USA;4503.0;4;0.0036
+Thüringer Rostbratwurst;Germany;RICSU;Switzerland;4456.4400000000005;1;0.0035
+Raclette Courdavault;France;KOENE;Germany;4279.0;3;0.0034
+Sirop d'érable;Canada;ERNSH;Austria;4163.85;2;0.0033
+Uncle Bob's Organic Dried Pears;USA;QUICK;Germany;4050.0;2;0.0032
+Côte de Blaye;France;ERNSH;Austria;4005.2;1;0.0032
+Côte de Blaye;France;SPLIR;USA;4005.2;1;0.0032
+Côte de Blaye;France;TORTU;Mexico;3952.5;1;0.0031
+Tarte au sucre;Canada;QUICK;Germany;3942.3999999999996;2;0.0031
+Raclette Courdavault;France;FRANK;Germany;3938.0;2;0.0031
+Gnocchi di nonna Alice;Italy;RATTC;USA;3936.8;4;0.0031
+Manjimup Dried Apples;Australia;QUICK;Germany;3911.4;2;0.0031
+Raclette Courdavault;France;QUICK;Germany;3850.0;2;0.003
+Sir Rodney's Marmalade;UK;AROUT;UK;3847.5;1;0.003
+Vegie-spread;Australia;ERNSH;Austria;3818.0;2;0.003
+Queso Manchego La Pastora;Spain;SAVEA;USA;3800.0;1;0.003
+Alice Mutton;Australia;ERNSH;Austria;3730.35;4;0.0029
+Mishi Kobe Niku;Japan;HUNGO;Ireland;3637.5;1;0.0029
+Camembert Pierrot;France;SAVEA;USA;3604.0;3;0.0028
+Gnocchi di nonna Alice;Italy;ERNSH;Austria;3572.0;2;0.0028
+Côte de Blaye;France;BERGS;Sweden;3557.25;1;0.0028
+Carnarvon Tigers;Australia;QUICK;Germany;3500.0;2;0.0028
+Thüringer Rostbratwurst;Germany;BLONP;France;3465.0;1;0.0027
+Tarte au sucre;Canada;ERNSH;Austria;3352.4;1;0.0026
+Tarte au sucre;Canada;SAVEA;USA;3327.75;3;0.0026
+Gumbär Gummibärchen;Germany;QUICK;Germany;3216.69;2;0.0025
+Sir Rodney's Marmalade;UK;ERNSH;Austria;3159.0;1;0.0025
+Pâté chinois;Canada;SAVEA;USA;3120.0;3;0.0025
+Queso Manchego La Pastora;Spain;ERNSH;Austria;3062.8;3;0.0024
+Gudbrandsdalsost;Norway;ERNSH;Austria;3051.0;2;0.0024
+Uncle Bob's Organic Dried Pears;USA;EASTC;UK;3000.0;2;0.0024
+Thüringer Rostbratwurst;Germany;KOENE;Germany;2970.96;1;0.0023
+Gnocchi di nonna Alice;Italy;MEREP;Canada;2926.0;2;0.0023
+Chartreuse verte;France;ERNSH;Austria;2916.0;2;0.0023
+Thüringer Rostbratwurst;Germany;ERNSH;Austria;2797.206;2;0.0022
+Chang;UK;SAVEA;USA;2775.9;5;0.0022
+Ipoh Coffee;Singapore;BERGS;Sweden;2760.0;1;0.0022
+Sir Rodney's Marmalade;UK;QUICK;Germany;2754.0;2;0.0022
+Raclette Courdavault;France;SUPRD;Belgium;2750.0;1;0.0022
+Ikura;Japan;SAVEA;USA;2728.0;2;0.0022
+Ipoh Coffee;Singapore;QUICK;Germany;2668.0;2;0.0021
+Gnocchi di nonna Alice;Italy;CHOPS;Switzerland;2667.6;3;0.0021
+Raclette Courdavault;France;RATTC;USA;2640.0;1;0.0021
+Ikura;Japan;ERNSH;Austria;2635.0;1;0.0021
+Côte de Blaye;France;THEBI;USA;2635.0;1;0.0021
+Lakkalikööri;Finland;QUICK;Germany;2539.44;3;0.002
+Boston Crab Meat;USA;QUICK;Germany;2531.8999999999996;3;0.002
+Gudbrandsdalsost;Norway;PICCO;Austria;2520.0;2;0.002
+Alice Mutton;Australia;PICCO;Austria;2496.0;2;0.002
+Thüringer Rostbratwurst;Germany;GODOS;Spain;2475.8;1;0.002
+Sir Rodney's Marmalade;UK;SUPRD;Belgium;2462.4;1;0.0019
+Rössle Sauerkraut;Germany;VAFFE;Denmark;2462.4;1;0.0019
+Carnarvon Tigers;Australia;BONAP;France;2450.0;2;0.0019
+Wimmers gute Semmelknödel;Germany;QUICK;Germany;2433.9;2;0.0019
+Alice Mutton;Australia;WHITC;USA;2418.0;2;0.0019
+Scottish Longbreads;UK;SAVEA;USA;2400.0;4;0.0019
+Vegie-spread;Australia;SAVEA;USA;2386.7999999999997;1;0.0019
+Thüringer Rostbratwurst;Germany;LAMAI;France;2352.01;1;0.0019
+Camembert Pierrot;France;BOTTM;Canada;2337.5;2;0.0018
+Wimmers gute Semmelknödel;Germany;LEHMS;Germany;2327.5;2;0.0018
+Flotemysost;Norway;SAVEA;USA;2322.0;3;0.0018
+Singaporean Hokkien Fried Mee;Singapore;QUICK;Germany;2310.0;4;0.0018
+Alice Mutton;Australia;RATTC;USA;2305.6800000000003;4;0.0018
+Louisiana Fiery Hot Pepper Sauce;USA;ERNSH;Austria;2280.3875;3;0.0018
+Gnocchi di nonna Alice;Italy;FOLKO;Sweden;2280.0;1;0.0018
+Camembert Pierrot;France;RICAR;Brazil;2278.0;2;0.0018
+Camembert Pierrot;France;MEREP;Canada;2261.0;1;0.0018
+Flotemysost;Norway;FRANK;Germany;2257.5;2;0.0018
+Gumbär Gummibärchen;Germany;SAVEA;USA;2244.15;2;0.0018
+Northwoods Cranberry Sauce;USA;QUICK;Germany;2240.0;1;0.0018
+Thüringer Rostbratwurst;Germany;LEHMS;Germany;2228.2200000000003;1;0.0018
+Thüringer Rostbratwurst;Germany;OLDWO;USA;2227.5;1;0.0018
+Schoggi Schokolade;Germany;RATTC;USA;2195.0;1;0.0017
+Raclette Courdavault;France;RICAR;Brazil;2194.5;1;0.0017
+Uncle Bob's Organic Dried Pears;USA;RATTC;USA;2188.5;3;0.0017
+Ikura;Japan;HANAR;Brazil;2170.0;1;0.0017
+Gnocchi di nonna Alice;Italy;QUEEN;Brazil;2166.0;1;0.0017
+Mozzarella di Giovanni;Italy;SAVEA;USA;2157.6;2;0.0017
+Rössle Sauerkraut;Germany;BERGS;Sweden;2143.2;2;0.0017
+Manjimup Dried Apples;Australia;GODOS;Spain;2120.0;1;0.0017
+Manjimup Dried Apples;Australia;HILAA;Venezuela;2120.0;2;0.0017
+Rössle Sauerkraut;Germany;SUPRD;Belgium;2111.2;2;0.0017
+Côte de Blaye;France;SANTG;Norway;2108.0;1;0.0017
+Côte de Blaye;France;BLONP;France;2108.0;1;0.0017
+Raclette Courdavault;France;MAISD;Belgium;2090.0;1;0.0017
+Mozzarella di Giovanni;Italy;LINOD;Venezuela;2088.0;1;0.0016
+Thüringer Rostbratwurst;Germany;EASTC;UK;2079.0;1;0.0016
+Alice Mutton;Australia;MEREP;Canada;2074.7999999999997;1;0.0016
+Pâté chinois;Canada;QUICK;Germany;2073.6;1;0.0016
+Chartreuse verte;France;QUICK;Germany;2067.84;2;0.0016
+Camembert Pierrot;France;SEVES;UK;2067.2;1;0.0016
+Perth Pasties;Australia;RICSU;Switzerland;2066.4;1;0.0016
+Chai;UK;SAVEA;USA;2034.0;3;0.0016
+Tarte au sucre;Canada;KOENE;Germany;2033.625;2;0.0016
+Pavlova;Australia;ERNSH;Austria;2007.865;3;0.0016
+Thüringer Rostbratwurst;Germany;SPLIR;USA;1980.0;1;0.0016
+Raclette Courdavault;France;LILAS;Venezuela;1980.0;1;0.0016
+Tarte au sucre;Canada;VICTE;France;1972.0;1;0.0016
+Perth Pasties;Australia;WARTH;Finland;1965.0;3;0.0016
+Louisiana Fiery Hot Pepper Sauce;USA;QUICK;Germany;1938.96;2;0.0015
+Camembert Pierrot;France;QUEEN;Brazil;1938.0;2;0.0015
+Raclette Courdavault;France;FOLKO;Sweden;1925.0;1;0.0015
+Sasquatch Ale;USA;ERNSH;Austria;1911.0;2;0.0015
+Jack's New England Clam Chowder;USA;SAVEA;USA;1910.6999999999998;4;0.0015
+Pavlova;Australia;OLDWO;USA;1875.875;3;0.0015
+Tarte au sucre;Canada;WHITC;USA;1873.4;2;0.0015
+Thüringer Rostbratwurst;Germany;BOLID;Spain;1856.8500000000001;1;0.0015
+Carnarvon Tigers;Australia;HUNGO;Ireland;1856.25;2;0.0015
+Manjimup Dried Apples;Australia;BONAP;France;1855.0;2;0.0015
+Steeleye Stout;USA;QUICK;Germany;1845.0;2;0.0015
+Vegie-spread;Australia;CHOPS;Switzerland;1843.8;2;0.0015
+Chang;UK;QUICK;Germany;1828.75;3;0.0014
+Sir Rodney's Marmalade;UK;BERGS;Sweden;1814.3999999999999;1;0.0014
+Inlagd Sill;Sweden;SAVEA;USA;1805.0;2;0.0014
+Uncle Bob's Organic Dried Pears;USA;FOLKO;Sweden;1800.0;1;0.0014
+Manjimup Dried Apples;Australia;HUNGO;Ireland;1787.1599999999999;2;0.0014
+Pavlova;Australia;SAVEA;USA;1786.8000000000002;3;0.0014
+Camembert Pierrot;France;FRANK;Germany;1774.8;2;0.0014
+Vegie-spread;Australia;VAFFE;Denmark;1756.0;1;0.0014
+Schoggi Schokolade;Germany;MAISD;Belgium;1756.0;1;0.0014
+Schoggi Schokolade;Germany;OLDWO;USA;1755.0;1;0.0014
+Grandma's Boysenberry Spread;USA;MEREP;Canada;1750.0;1;0.0014
+Carnarvon Tigers;Australia;PICCO;Austria;1750.0;1;0.0014
+Sirop d'érable;Canada;SAVEA;USA;1744.2;1;0.0014
+Mascarpone Fabioli;Italy;WANDK;Germany;1736.0;2;0.0014
+Thüringer Rostbratwurst;Germany;FRANR;France;1733.0600000000002;1;0.0014
+Gorgonzola Telino;Italy;ERNSH;Austria;1730.0;4;0.0014
+Gudbrandsdalsost;Norway;RICSU;Switzerland;1713.6;2;0.0014
+Rössle Sauerkraut;Germany;SEVES;UK;1713.2;2;0.0014
+Gudbrandsdalsost;Norway;SAVEA;USA;1710.0;1;0.0014
+Gula Malacca;Singapore;QUICK;Germany;1701.875;3;0.0013
+Sir Rodney's Marmalade;UK;HUNGC;USA;1701.0;1;0.0013
+Camembert Pierrot;France;EASTC;UK;1700.0;1;0.0013
+Manjimup Dried Apples;Australia;TOMSP;Germany;1696.0;1;0.0013
+Rössle Sauerkraut;Germany;QUEEN;Brazil;1686.0;2;0.0013
+Northwoods Cranberry Sauce;USA;WHITC;USA;1680.0;1;0.0013
+Boston Crab Meat;USA;ERNSH;Austria;1674.3999999999999;1;0.0013
+Flotemysost;Norway;WARTH;Finland;1651.2;3;0.0013
+Perth Pasties;Australia;HILAA;Venezuela;1650.6000000000001;1;0.0013
+Raclette Courdavault;France;WHITC;USA;1650.0;1;0.0013
+Raclette Courdavault;France;DRACD;Germany;1650.0;1;0.0013
+Thüringer Rostbratwurst;Germany;FRANK;Germany;1646.4070000000002;1;0.0013
+Tofu;Japan;HUNGO;Ireland;1627.5;1;0.0013
+Thüringer Rostbratwurst;Germany;VAFFE;Denmark;1603.8;1;0.0013
+Northwoods Cranberry Sauce;USA;GOURL;Brazil;1600.0;1;0.0013
+Mascarpone Fabioli;Italy;LILAS;Venezuela;1600.0;1;0.0013
+Carnarvon Tigers;Australia;MEREP;Canada;1600.0;1;0.0013
+Gnocchi di nonna Alice;Italy;SUPRD;Belgium;1596.0;2;0.0013
+Uncle Bob's Organic Dried Pears;USA;OTTIK;Germany;1590.0;2;0.0013
+Flotemysost;Norway;HUNGO;Ireland;1588.85;4;0.0013
+Gnocchi di nonna Alice;Italy;WARTH;Finland;1577.0;2;0.0012
+Tarte au sucre;Canada;LAMAI;France;1576.0;1;0.0012
+Gudbrandsdalsost;Norway;HILAA;Venezuela;1569.6;3;0.0012
+Grandma's Boysenberry Spread;USA;BONAP;France;1562.5;2;0.0012
+Carnarvon Tigers;Australia;RICAR;Brazil;1562.5;1;0.0012
+Gnocchi di nonna Alice;Italy;OLDWO;USA;1558.0;2;0.0012
+Camembert Pierrot;France;RICSU;Switzerland;1550.3999999999999;1;0.0012
+Gumbär Gummibärchen;Germany;KOENE;Germany;1539.639;2;0.0012
+Steeleye Stout;USA;SAVEA;USA;1518.3;3;0.0012
+Uncle Bob's Organic Dried Pears;USA;BONAP;France;1515.0;2;0.0012
+Manjimup Dried Apples;Australia;CHOPS;Switzerland;1510.5;1;0.0012
+Boston Crab Meat;USA;SAVEA;USA;1508.8;2;0.0012
+Flotemysost;Norway;SUPRD;Belgium;1505.0;2;0.0012
+Chef Anton's Gumbo Mix;USA;SAVEA;USA;1494.5;1;0.0012
+Thüringer Rostbratwurst;Germany;COMMI;Brazil;1485.0;1;0.0012
+Manjimup Dried Apples;Australia;GOURL;Brazil;1484.0;1;0.0012
+Gula Malacca;Singapore;SAVEA;USA;1472.5;1;0.0012
+Wimmers gute Semmelknödel;Germany;SAVEA;USA;1463.0;2;0.0012
+Mozzarella di Giovanni;Italy;QUICK;Germany;1461.6;2;0.0012
+Rhönbräu Klosterbier;Germany;SAVEA;USA;1460.1;3;0.0012
+Tarte au sucre;Canada;MORGK;Germany;1458.8;2;0.0012
+Gumbär Gummibärchen;Germany;LILAS;Venezuela;1456.65;2;0.0012
+Lakkalikööri;Finland;SAVEA;USA;1440.0;1;0.0011
+Gudbrandsdalsost;Norway;CHOPS;Switzerland;1440.0;1;0.0011
+Chef Anton's Gumbo Mix;USA;ERNSH;Austria;1428.0;2;0.0011
+Perth Pasties;Australia;QUICK;Germany;1410.56;2;0.0011
+Ipoh Coffee;Singapore;QUEEN;Brazil;1407.6;1;0.0011
+Gorgonzola Telino;Italy;AROUT;UK;1406.25;3;0.0011
+Konbu;Japan;SAVEA;USA;1404.0;4;0.0011
+Alice Mutton;Australia;BOTTM;Canada;1404.0;2;0.0011
+Raclette Courdavault;France;GREAL;USA;1402.5;1;0.0011
+Ipoh Coffee;Singapore;BONAP;France;1398.3999999999999;1;0.0011
+Mishi Kobe Niku;Japan;WELLI;Brazil;1396.8;1;0.0011
+Ipoh Coffee;Singapore;BSBEV;UK;1380.0;1;0.0011
+Boston Crab Meat;USA;BERGS;Sweden;1379.9999999999998;2;0.0011
+Tarte au sucre;Canada;OTTIK;Germany;1379.9499999999998;2;0.0011
+Original Frankfurter grüne Soße;Germany;QUICK;Germany;1379.3000000000002;2;0.0011
+Tarte au sucre;Canada;FOLIG;France;1379.0;1;0.0011
+Tarte au sucre;Canada;BLONP;France;1379.0;1;0.0011
+Raclette Courdavault;France;LEHMS;Germany;1375.0;1;0.0011
+Gumbär Gummibärchen;Germany;QUEEN;Brazil;1371.6;2;0.0011
+Queso Manchego La Pastora;Spain;KOENE;Germany;1368.0;1;0.0011
+Sir Rodney's Marmalade;UK;LEHMS;Germany;1360.8000000000002;1;0.0011
+Gorgonzola Telino;Italy;SAVEA;USA;1357.5;3;0.0011
+Uncle Bob's Organic Dried Pears;USA;SAVEA;USA;1350.0;1;0.0011
+Queso Cabrales;Spain;ANTON;Mexico;1348.2;2;0.0011
+Louisiana Fiery Hot Pepper Sauce;USA;HANAR;Brazil;1338.27;3;0.0011
+Ikura;Japan;BOTTM;Canada;1326.8;2;0.001
+Pâté chinois;Canada;ERNSH;Austria;1326.0;1;0.001
+Raclette Courdavault;France;RICSU;Switzerland;1320.0;1;0.001
+Mishi Kobe Niku;Japan;QUICK;Germany;1319.2;1;0.001
+Rogede sild;Denmark;SAVEA;USA;1318.6;2;0.001
+Côte de Blaye;France;SPECD;France;1317.5;1;0.001
+Vegie-spread;Australia;FOLIG;France;1317.0;1;0.001
+Schoggi Schokolade;Germany;ERNSH;Austria;1317.0;1;0.001
+Camembert Pierrot;France;LEHMS;Germany;1300.5;2;0.001
+Sir Rodney's Marmalade;UK;TRADH;Brazil;1296.0;1;0.001
+Mozzarella di Giovanni;Italy;FRANK;Germany;1278.8000000000002;2;0.001
+Ikura;Japan;VAFFE;Denmark;1277.2;2;0.001
+Manjimup Dried Apples;Australia;BOTTM;Canada;1272.0;1;0.001
+Nord-Ost Matjeshering;Germany;HUNGO;Ireland;1267.3799999999999;2;0.001
+Louisiana Fiery Hot Pepper Sauce;USA;HUNGO;Ireland;1263.0;2;0.001
+Manjimup Dried Apples;Australia;HANAR;Brazil;1261.3999999999999;1;0.001
+Mozzarella di Giovanni;Italy;REGGC;Italy;1252.8;1;0.001
+Tarte au sucre;Canada;MEREP;Canada;1251.1;2;0.001
+Carnarvon Tigers;Australia;WHITC;USA;1250.0;1;0.001
+Carnarvon Tigers;Australia;HANAR;Brazil;1250.0;1;0.001
+Gravad lax;Sweden;SAVEA;USA;1248.0;1;0.001
+Alice Mutton;Australia;SUPRD;Belgium;1248.0;1;0.001
+Manjimup Dried Apples;Australia;SEVES;UK;1240.1999999999998;2;0.001
+Thüringer Rostbratwurst;Germany;WARTH;Finland;1237.9;1;0.001
+Thüringer Rostbratwurst;Germany;PRINI;Portugal;1237.9;1;0.001
+Flotemysost;Norway;RATTC;USA;1225.5;2;0.001
+Mozzarella di Giovanni;Italy;BOTTM;Canada;1218.0;1;0.001
+Sir Rodney's Marmalade;UK;OCEAN;Argentina;1215.0;1;0.001
+Northwoods Cranberry Sauce;USA;PRINI;Portugal;1200.0;1;0.0009
+Northwoods Cranberry Sauce;USA;KOENE;Germany;1200.0;1;0.0009
+Maxilaku;Finland;LINOD;Venezuela;1200.0;1;0.0009
+Escargots de Bourgogne;France;HUNGO;Ireland;1197.8000000000002;2;0.0009
+Wimmers gute Semmelknödel;Germany;HILAA;Venezuela;1197.0;2;0.0009
+Boston Crab Meat;USA;HILAA;Venezuela;1196.0;2;0.0009
+Gumbär Gummibärchen;Germany;BERGS;Sweden;1193.2875;2;0.0009
+Manjimup Dried Apples;Australia;SIMOB;Denmark;1192.5;1;0.0009
+Chai;UK;LEHMS;Germany;1188.0;2;0.0009
+Tofu;Japan;FRANK;Germany;1185.75;2;0.0009
+Ipoh Coffee;Singapore;SUPRD;Belgium;1177.6;2;0.0009
+Maxilaku;Finland;SAVEA;USA;1175.0;3;0.0009
+Carnarvon Tigers;Australia;LINOD;Venezuela;1171.875;1;0.0009
+Uncle Bob's Organic Dried Pears;USA;REGGC;Italy;1170.0;2;0.0009
+Ravioli Angelo;Italy;AROUT;UK;1170.0;2;0.0009
+Alice Mutton;Australia;BOLID;Spain;1170.0;1;0.0009
+Raclette Courdavault;France;WARTH;Finland;1168.75;1;0.0009
+Flotemysost;Norway;EASTC;UK;1161.0;2;0.0009
+Queso Cabrales;Spain;SEVES;UK;1155.0;2;0.0009
+Ipoh Coffee;Singapore;PICCO;Austria;1150.0;1;0.0009
+Tofu;Japan;SAVEA;USA;1143.9;2;0.0009
+Inlagd Sill;Sweden;SEVES;UK;1140.0;1;0.0009
+Inlagd Sill;Sweden;KOENE;Germany;1140.0;2;0.0009
+Gnocchi di nonna Alice;Italy;HUNGO;Ireland;1140.0;1;0.0009
+Gula Malacca;Singapore;ERNSH;Austria;1133.825;1;0.0009
+Mascarpone Fabioli;Italy;HUNGO;Ireland;1130.88;2;0.0009
+Sir Rodney's Scones;UK;FRANK;Germany;1129.0;3;0.0009
+Camembert Pierrot;France;LILAS;Venezuela;1126.08;2;0.0009
+Carnarvon Tigers;Australia;OLDWO;USA;1125.0;1;0.0009
+Gnocchi di nonna Alice;Italy;FURIB;Portugal;1117.2;2;0.0009
+Spegesild;Denmark;SAVEA;USA;1116.0;3;0.0009
+Ikura;Japan;SEVES;UK;1116.0;1;0.0009
+Ikura;Japan;BONAP;France;1116.0;2;0.0009
+Gudbrandsdalsost;Norway;WANDK;Germany;1116.0;2;0.0009
+Pâté chinois;Canada;KOENE;Germany;1113.6;2;0.0009
+Mozzarella di Giovanni;Italy;VICTE;France;1112.0;1;0.0009
+Mozzarella di Giovanni;Italy;KOENE;Germany;1112.0;1;0.0009
+Ipoh Coffee;Singapore;OLDWO;USA;1104.0;1;0.0009
+Ipoh Coffee;Singapore;HANAR;Brazil;1104.0;1;0.0009
+Schoggi Schokolade;Germany;SUPRD;Belgium;1097.5;1;0.0009
+Gnocchi di nonna Alice;Italy;BLONP;France;1094.4;1;0.0009
+Sir Rodney's Marmalade;UK;SEVES;UK;1093.5;1;0.0009
+Rössle Sauerkraut;Germany;BLONP;France;1092.0;1;0.0009
+Gustaf's Knäckebröd;Sweden;ERNSH;Austria;1092.0;1;0.0009
+Guaraná Fantástica;Brazil;ERNSH;Austria;1090.8;4;0.0009
+Camembert Pierrot;France;SUPRD;Belgium;1088.0;1;0.0009
+Camembert Pierrot;France;BERGS;Sweden;1088.0;2;0.0009
+Sir Rodney's Scones;UK;ERNSH;Austria;1086.0;3;0.0009
+Steeleye Stout;USA;SUPRD;Belgium;1080.0;1;0.0009
+Pâté chinois;Canada;SIMOB;Denmark;1080.0;1;0.0009
+Lakkalikööri;Finland;QUEEN;Brazil;1080.0;1;0.0009
+Gudbrandsdalsost;Norway;HANAR;Brazil;1080.0;1;0.0009
+Nord-Ost Matjeshering;Germany;KOENE;Germany;1071.75;2;0.0008
+Gnocchi di nonna Alice;Italy;TOMSP;Germany;1064.0;1;0.0008
+Manjimup Dried Apples;Australia;AROUT;UK;1060.0;1;0.0008
+Manjimup Dried Apples;Australia;PERIC;Mexico;1060.0;1;0.0008
+Manjimup Dried Apples;Australia;LONEP;USA;1060.0;1;0.0008
+Chai;UK;QUICK;Germany;1058.4;2;0.0008
+Uncle Bob's Organic Dried Pears;USA;FOLIG;France;1050.0;1;0.0008
+Carnarvon Tigers;Australia;SPLIR;USA;1050.0;1;0.0008
+Perth Pasties;Australia;SEVES;UK;1048.0;1;0.0008
+Raclette Courdavault;France;MEREP;Canada;1045.0;1;0.0008
+Chef Anton's Cajun Seasoning;USA;FOLKO;Sweden;1045.0;1;0.0008
+Mozzarella di Giovanni;Italy;MORGK;Germany;1044.0;1;0.0008
+Nord-Ost Matjeshering;Germany;LEHMS;Germany;1042.0725;3;0.0008
+Flotemysost;Norway;ERNSH;Austria;1036.3;3;0.0008
+Nord-Ost Matjeshering;Germany;BERGS;Sweden;1035.6;2;0.0008
+Ipoh Coffee;Singapore;MAISD;Belgium;1035.0;1;0.0008
+Steeleye Stout;USA;ERNSH;Austria;1031.4;3;0.0008
+Gorgonzola Telino;Italy;BLONP;France;1031.25;2;0.0008
+Lakkalikööri;Finland;FOLKO;Sweden;1030.32;2;0.0008
+Boston Crab Meat;USA;VAFFE;Denmark;1030.0;2;0.0008
+Steeleye Stout;USA;QUEDE;Brazil;1026.0;3;0.0008
+Teatime Chocolate Biscuits;UK;QUICK;Germany;1021.0;2;0.0008
+Raclette Courdavault;France;BOTTM;Canada;1020.8;2;0.0008
+Camembert Pierrot;France;TRADH;Brazil;1020.0;1;0.0008
+Camembert Pierrot;France;OTTIK;Germany;1020.0;1;0.0008
+Singaporean Hokkien Fried Mee;Singapore;SUPRD;Belgium;1008.0;3;0.0008
+Gustaf's Knäckebröd;Sweden;SAVEA;USA;1008.0;1;0.0008
+Grandma's Boysenberry Spread;USA;QUEDE;Brazil;1000.0;1;0.0008
+Gula Malacca;Singapore;TORTU;Mexico;991.95;3;0.0008
+Thüringer Rostbratwurst;Germany;GROSR;Venezuela;990.0;1;0.0008
+Outback Lager;Australia;QUICK;Germany;990.0;2;0.0008
+Chef Anton's Cajun Seasoning;USA;QUICK;Germany;990.0;1;0.0008
+Outback Lager;Australia;LINOD;Venezuela;985.5;2;0.0008
+Gula Malacca;Singapore;FURIB;Portugal;975.625;2;0.0008
+Queso Manchego La Pastora;Spain;LILAS;Venezuela;969.0;1;0.0008
+Gumbär Gummibärchen;Germany;RICSU;Switzerland;961.884;2;0.0008
+Northwoods Cranberry Sauce;USA;QUEEN;Brazil;960.0;1;0.0008
+Northwoods Cranberry Sauce;USA;LEHMS;Germany;960.0;1;0.0008
+Carnarvon Tigers;Australia;BLONP;France;956.25;1;0.0008
+Jack's New England Clam Chowder;USA;HUNGO;Ireland;955.3500000000001;2;0.0008
+Chai;UK;LINOD;Venezuela;954.0;2;0.0008
+Mascarpone Fabioli;Italy;RATTC;USA;953.6;2;0.0008
+Chang;UK;HILAA;Venezuela;950.0;1;0.0008
+Tarte au sucre;Canada;CHOPS;Switzerland;946.56;2;0.0007
+Röd Kaviar;Sweden;FRANK;Germany;942.0;2;0.0007
+Thüringer Rostbratwurst;Germany;TRADH;Brazil;940.804;1;0.0007
+Raclette Courdavault;France;VAFFE;Denmark;940.5;1;0.0007
+Louisiana Fiery Hot Pepper Sauce;USA;FURIB;Portugal;940.3875;2;0.0007
+Boston Crab Meat;USA;KOENE;Germany;938.4;1;0.0007
+Tarte au sucre;Canada;GREAL;USA;936.6999999999999;1;0.0007
+Tarte au sucre;Canada;GODOS;Spain;936.6999999999999;1;0.0007
+Alice Mutton;Australia;BLONP;France;936.0;1;0.0007
+Chef Anton's Cajun Seasoning;USA;BONAP;France;935.0;1;0.0007
+Gumbär Gummibärchen;Germany;QUEDE;Brazil;934.38;2;0.0007
+Nord-Ost Matjeshering;Germany;ERNSH;Austria;931.5;1;0.0007
+Wimmers gute Semmelknödel;Germany;GREAL;USA;931.0;1;0.0007
+Chang;UK;FOLKO;Sweden;931.0;3;0.0007
+Gumbär Gummibärchen;Germany;ERNSH;Austria;929.0925;1;0.0007
+Thüringer Rostbratwurst;Germany;BERGS;Sweden;928.4250000000001;1;0.0007
+Vegie-spread;Australia;HUNGO;Ireland;921.375;1;0.0007
+Ipoh Coffee;Singapore;WELLI;Brazil;920.0;1;0.0007
+Boston Crab Meat;USA;LINOD;Venezuela;920.0;2;0.0007
+Ipoh Coffee;Singapore;WARTH;Finland;919.9999999999999;1;0.0007
+Pavlova;Australia;BONAP;France;918.7425000000001;3;0.0007
+Gudbrandsdalsost;Norway;WHITC;USA;918.0;1;0.0007
+Rössle Sauerkraut;Germany;MAISD;Belgium;912.0;1;0.0007
+Rössle Sauerkraut;Germany;HILAA;Venezuela;912.0;1;0.0007
+Rössle Sauerkraut;Germany;LILAS;Venezuela;912.0;1;0.0007
+Rössle Sauerkraut;Germany;LINOD;Venezuela;912.0;1;0.0007
+Gnocchi di nonna Alice;Italy;COMMI;Brazil;912.0;1;0.0007
+Outback Lager;Australia;SUPRD;Belgium;900.0;2;0.0007
+Lakkalikööri;Finland;PICCO;Austria;900.0;1;0.0007
+Mozzarella di Giovanni;Italy;MAGAA;Italy;887.4;1;0.0007
+Ipoh Coffee;Singapore;WANDK;Germany;883.1999999999999;1;0.0007
+Raclette Courdavault;France;GOURL;Brazil;880.0;1;0.0007
+Vegie-spread;Australia;ALFKI;Germany;878.0;1;0.0007
+Vegie-spread;Australia;FOLKO;Sweden;878.0;1;0.0007
+Wimmers gute Semmelknödel;Germany;BONAP;France;877.8;2;0.0007
+Schoggi Schokolade;Germany;HILAA;Venezuela;877.5;1;0.0007
+Alice Mutton;Australia;SEVES;UK;877.5;1;0.0007
+Mozzarella di Giovanni;Italy;QUEEN;Brazil;875.7;1;0.0007
+Louisiana Fiery Hot Pepper Sauce;USA;GODOS;Spain;873.5475;2;0.0007
+Pavlova;Australia;QUICK;Germany;872.5;1;0.0007
+Ikura;Japan;VICTE;France;868.0;2;0.0007
+Röd Kaviar;Sweden;FOLKO;Sweden;867.0;2;0.0007
+Pavlova;Australia;RICAR;Brazil;865.2249999999999;2;0.0007
+Tunnbröd;Sweden;FRANK;Germany;864.0;3;0.0007
+Pâté chinois;Canada;LILAS;Venezuela;864.0;1;0.0007
+Gudbrandsdalsost;Norway;EASTC;UK;864.0;1;0.0007
+Chartreuse verte;France;BLONP;France;864.0;1;0.0007
+Wimmers gute Semmelknödel;Germany;RATTC;USA;862.505;2;0.0007
+Sasquatch Ale;USA;WHITC;USA;862.4;2;0.0007
+Ravioli Angelo;Italy;ERNSH;Austria;858.0;2;0.0007
+Sirop d'érable;Canada;ISLAT;UK;855.0;1;0.0007
+Gudbrandsdalsost;Norway;FRANK;Germany;855.0;1;0.0007
+Gnocchi di nonna Alice;Italy;BONAP;France;855.0;1;0.0007
+Gnocchi di nonna Alice;Italy;PRINI;Portugal;851.1999999999999;1;0.0007
+Louisiana Hot Spiced Okra;USA;FOLKO;Sweden;850.0;1;0.0007
+Manjimup Dried Apples;Australia;SAVEA;USA;848.0;1;0.0007
+Manjimup Dried Apples;Australia;OLDWO;USA;848.0;1;0.0007
+Vegie-spread;Australia;WHITC;USA;842.88;1;0.0007
+Uncle Bob's Organic Dried Pears;USA;BSBEV;UK;840.0;2;0.0007
+Queso Cabrales;Spain;RATTC;USA;840.0;1;0.0007
+Pâté chinois;Canada;EASTC;UK;840.0;1;0.0007
+Gustaf's Knäckebröd;Sweden;MEREP;Canada;840.0;1;0.0007
+Gustaf's Knäckebröd;Sweden;MAGAA;Italy;840.0;1;0.0007
+Mozzarella di Giovanni;Italy;SIMOB;Denmark;835.1999999999999;1;0.0007
+Mozzarella di Giovanni;Italy;FOLKO;Sweden;835.1999999999999;1;0.0007
+Pavlova;Australia;LINOD;Venezuela;834.1099999999999;2;0.0007
+Chartreuse verte;France;FOLKO;Sweden;828.0;2;0.0007
+Raclette Courdavault;France;ALFKI;Germany;825.0;1;0.0007
+Gorgonzola Telino;Italy;RATTC;USA;821.25;3;0.0006
+Perth Pasties;Australia;ANTON;Mexico;819.9999999999999;1;0.0006
+Queso Cabrales;Spain;ERNSH;Austria;819.0;2;0.0006
+Louisiana Hot Spiced Okra;USA;ERNSH;Austria;816.0;1;0.0006
+Original Frankfurter grüne Soße;Germany;HANAR;Brazil;812.5;2;0.0006
+Chai;UK;BOTTM;Canada;810.0;1;0.0006
+Rogede sild;Denmark;QUICK;Germany;807.5;1;0.0006
+Northwoods Cranberry Sauce;USA;ISLAT;UK;800.0;1;0.0006
+Maxilaku;Finland;TOMSP;Germany;800.0;1;0.0006
+Gorgonzola Telino;Italy;HUNGO;Ireland;800.0;2;0.0006
+Wimmers gute Semmelknödel;Germany;CHOPS;Switzerland;798.0;1;0.0006
+Gumbär Gummibärchen;Germany;ANTON;Mexico;796.365;1;0.0006
+Manjimup Dried Apples;Australia;FOLIG;France;795.0;1;0.0006
+Inlagd Sill;Sweden;FRANK;Germany;790.4000000000001;2;0.0006
+Original Frankfurter grüne Soße;Germany;VAFFE;Denmark;787.15;4;0.0006
+Raclette Courdavault;France;WELLI;Brazil;783.75;1;0.0006
+Ipoh Coffee;Singapore;VICTE;France;782.0;1;0.0006
+Ravioli Angelo;Italy;OTTIK;Germany;780.0;1;0.0006
+Perth Pasties;Australia;FAMIA;Brazil;778.9999999999999;1;0.0006
+Nord-Ost Matjeshering;Germany;RICSU;Switzerland;776.7;1;0.0006
+Nord-Ost Matjeshering;Germany;HILAA;Venezuela;776.7;1;0.0006
+Nord-Ost Matjeshering;Germany;FAMIA;Brazil;776.7;1;0.0006
+Genen Shouyu;Japan;SAVEA;USA;775.0;1;0.0006
+Wimmers gute Semmelknödel;Germany;GODOS;Spain;773.0625;2;0.0006
+Queso Cabrales;Spain;FOLKO;Sweden;772.8;2;0.0006
+Boston Crab Meat;USA;BONAP;France;772.8;2;0.0006
+Rhönbräu Klosterbier;Germany;HILAA;Venezuela;765.7;3;0.0006
+Lakkalikööri;Finland;OLDWO;USA;765.0;1;0.0006
+Gorgonzola Telino;Italy;HANAR;Brazil;762.5;3;0.0006
+Queso Manchego La Pastora;Spain;LONEP;USA;760.0;1;0.0006
+Chang;UK;ERNSH;Austria;760.0;2;0.0006
+Chang;UK;OTTIK;Germany;760.0;1;0.0006
+Gula Malacca;Singapore;BOTTM;Canada;758.575;2;0.0006
+Gnocchi di nonna Alice;Italy;LETSS;USA;758.0999999999999;1;0.0006
+Gnocchi di nonna Alice;Italy;SPLIR;USA;756.9599999999999;2;0.0006
+Pâté chinois;Canada;FOLKO;Sweden;756.0;2;0.0006
+Maxilaku;Finland;QUEEN;Brazil;756.0;1;0.0006
+Manjimup Dried Apples;Australia;OTTIK;Germany;755.25;1;0.0006
+Grandma's Boysenberry Spread;USA;GOURL;Brazil;750.0;1;0.0006
+Alice Mutton;Australia;GODOS;Spain;748.8;2;0.0006
+Wimmers gute Semmelknödel;Germany;FRANK;Germany;748.125;1;0.0006
+Gumbär Gummibärchen;Germany;SUPRD;Belgium;747.0;1;0.0006
+Chang;UK;WHITC;USA;744.8;2;0.0006
+Thüringer Rostbratwurst;Germany;THECR;USA;742.74;1;0.0006
+Raclette Courdavault;France;ANTON;Mexico;742.5;1;0.0006
+Original Frankfurter grüne Soße;Germany;MEREP;Canada;741.0;1;0.0006
+Alice Mutton;Australia;REGGC;Italy;741.0;1;0.0006
+Tarte au sucre;Canada;VAFFE;Denmark;739.5;1;0.0006
+Pavlova;Australia;SEVES;UK;739.4799999999999;1;0.0006
+Ipoh Coffee;Singapore;HUNGO;Ireland;736.0;1;0.0006
+Outback Lager;Australia;FOLKO;Sweden;735.0;2;0.0006
+Gustaf's Knäckebröd;Sweden;PICCO;Austria;735.0;1;0.0006
+Boston Crab Meat;USA;FRANK;Germany;735.0;1;0.0006
+Perth Pasties;Australia;RATTC;USA;733.6;1;0.0006
+Mozzarella di Giovanni;Italy;RICSU;Switzerland;730.8;1;0.0006
+Rössle Sauerkraut;Germany;MORGK;Germany;728.0;1;0.0006
+Gorgonzola Telino;Italy;QUICK;Germany;726.875;2;0.0006
+Sirop d'érable;Canada;VICTE;France;726.75;1;0.0006
+Gudbrandsdalsost;Norway;LAMAI;France;725.76;2;0.0006
+Queso Manchego La Pastora;Spain;WANDK;Germany;722.0;1;0.0006
+Steeleye Stout;USA;HILAA;Venezuela;720.0;1;0.0006
+Spegesild;Denmark;FRANK;Germany;720.0;1;0.0006
+Chai;UK;SEVES;UK;720.0;1;0.0006
+Chai;UK;WELLI;Brazil;720.0;2;0.0006
+Pavlova;Australia;MEREP;Canada;719.725;2;0.0006
+Wimmers gute Semmelknödel;Germany;BLONP;France;718.2;1;0.0006
+Escargots de Bourgogne;France;QUICK;Germany;715.5;1;0.0006
+Camembert Pierrot;France;ISLAT;UK;714.0;1;0.0006
+Camembert Pierrot;France;BLAUS;Germany;714.0;1;0.0006
+Sirop d'érable;Canada;WHITC;USA;712.5;1;0.0006
+Inlagd Sill;Sweden;LINOD;Venezuela;712.5;1;0.0006
+Gumbär Gummibärchen;Germany;MAGAA;Italy;709.65;1;0.0006
+Alice Mutton;Australia;ANTON;Mexico;702.0;1;0.0006
+Nord-Ost Matjeshering;Germany;QUEEN;Brazil;699.0300000000001;2;0.0006
+Wimmers gute Semmelknödel;Germany;MEREP;Canada;698.25;2;0.0006
+Mozzarella di Giovanni;Italy;EASTC;UK;696.0;1;0.0005
+Inlagd Sill;Sweden;QUICK;Germany;695.4;2;0.0005
+Mozzarella di Giovanni;Italy;LEHMS;Germany;695.0;1;0.0005
+Louisiana Hot Spiced Okra;USA;SUPRD;Belgium;693.6;1;0.0005
+Camembert Pierrot;France;WARTH;Finland;693.6;1;0.0005
+Camembert Pierrot;France;LINOD;Venezuela;693.6;1;0.0005
+Chang;UK;HUNGO;Ireland;693.12;2;0.0005
+Steeleye Stout;USA;MEREP;Canada;691.2;1;0.0005
+Inlagd Sill;Sweden;HANAR;Brazil;688.75;2;0.0005
+Flotemysost;Norway;BERGS;Sweden;688.0;2;0.0005
+Sirop d'érable;Canada;FOLKO;Sweden;684.0;1;0.0005
+Gnocchi di nonna Alice;Italy;BOTTM;Canada;684.0;1;0.0005
+Northwoods Cranberry Sauce;USA;MAISD;Belgium;680.0;1;0.0005
+Gudbrandsdalsost;Norway;BONAP;France;675.0;1;0.0005
+Mozzarella di Giovanni;Italy;LILAS;Venezuela;674.15;2;0.0005
+Mozzarella di Giovanni;Italy;RATTC;USA;667.2;1;0.0005
+Wimmers gute Semmelknödel;Germany;PICCO;Austria;665.0;1;0.0005
+Inlagd Sill;Sweden;WHITC;USA;665.0;1;0.0005
+Gorgonzola Telino;Italy;SEVES;UK;665.0;1;0.0005
+Uncle Bob's Organic Dried Pears;USA;VICTE;France;664.8;2;0.0005
+Boston Crab Meat;USA;HUNGO;Ireland;662.4;1;0.0005
+Inlagd Sill;Sweden;LAMAI;France;661.01;3;0.0005
+Raclette Courdavault;France;BLONP;France;660.0;1;0.0005
+Raclette Courdavault;France;BERGS;Sweden;660.0;1;0.0005
+Raclette Courdavault;France;MORGK;Germany;660.0;1;0.0005
+Outback Lager;Australia;ISLAT;UK;660.0;2;0.0005
+Perth Pasties;Australia;DRACD;Germany;656.0;1;0.0005
+Rössle Sauerkraut;Germany;PERIC;Mexico;655.1999999999999;1;0.0005
+Mascarpone Fabioli;Italy;SEVES;UK;652.8;1;0.0005
+Chang;UK;RICAR;Brazil;652.65;3;0.0005
+Tofu;Japan;PICCO;Austria;651.0;1;0.0005
+Valkoinen suklaa;Finland;LINOD;Venezuela;650.0;1;0.0005
+Chang;UK;RATTC;USA;649.8;2;0.0005
+Manjimup Dried Apples;Australia;PRINI;Portugal;648.7199999999999;1;0.0005
+Gnocchi di nonna Alice;Italy;GOURL;Brazil;646.0;1;0.0005
+Flotemysost;Norway;BONAP;France;645.0;1;0.0005
+Flotemysost;Norway;HILAA;Venezuela;645.0;1;0.0005
+Tarte au sucre;Canada;TRAIH;USA;640.9;2;0.0005
+Chef Anton's Gumbo Mix;USA;CONSH;UK;640.5;1;0.0005
+Northwoods Cranberry Sauce;USA;BOTTM;Canada;640.0;1;0.0005
+Maxilaku;Finland;HANAR;Brazil;640.0;1;0.0005
+Mascarpone Fabioli;Italy;MAGAA;Italy;640.0;1;0.0005
+Mascarpone Fabioli;Italy;PICCO;Austria;640.0;1;0.0005
+Alice Mutton;Australia;TORTU;Mexico;639.6;2;0.0005
+NuNuCa Nuß-Nougat-Creme;Germany;BOTTM;Canada;638.4;1;0.0005
+Singaporean Hokkien Fried Mee;Singapore;SAVEA;USA;635.5999999999999;2;0.0005
+Camembert Pierrot;France;RATTC;USA;635.1199999999999;2;0.0005
+Ikura;Japan;OTTIK;Germany;632.4;1;0.0005
+Ikura;Japan;FURIB;Portugal;632.4;1;0.0005
+Queso Cabrales;Spain;OCEAN;Argentina;630.0;1;0.0005
+Queso Cabrales;Spain;HUNGO;Ireland;630.0;1;0.0005
+Lakkalikööri;Finland;KOENE;Germany;630.0;1;0.0005
+Sirop d'érable;Canada;WOLZA;Poland;627.0;2;0.0005
+Outback Lager;Australia;AROUT;UK;627.0;2;0.0005
+Chef Anton's Cajun Seasoning;USA;QUEEN;Brazil;627.0;2;0.0005
+Carnarvon Tigers;Australia;BLAUS;Germany;625.0;1;0.0005
+Carnarvon Tigers;Australia;LONEP;USA;625.0;1;0.0005
+Queso Cabrales;Spain;BLONP;France;624.75;1;0.0005
+Alice Mutton;Australia;OLDWO;USA;624.0;1;0.0005
+Tarte au sucre;Canada;BONAP;France;621.18;1;0.0005
+Ikura;Japan;BERGS;Sweden;620.0;2;0.0005
+Ikura;Japan;GOURL;Brazil;620.0;1;0.0005
+Tofu;Japan;WARTH;Finland;619.6125;3;0.0005
+Pâté chinois;Canada;RATTC;USA;618.0;2;0.0005
+Longlife Tofu;Japan;ERNSH;Austria;616.0;2;0.0005
+Chef Anton's Cajun Seasoning;USA;WHITC;USA;616.0;1;0.0005
+Pâté chinois;Canada;FRANK;Germany;614.4000000000001;1;0.0005
+Chartreuse verte;France;FAMIA;Brazil;612.0;1;0.0005
+Gnocchi di nonna Alice;Italy;WANDK;Germany;608.0;1;0.0005
+Gnocchi di nonna Alice;Italy;BSBEV;UK;608.0;1;0.0005
+Gnocchi di nonna Alice;Italy;AROUT;UK;608.0;1;0.0005
+Gnocchi di nonna Alice;Italy;MAISD;Belgium;608.0;1;0.0005
+Chocolade;Netherlands;ERNSH;Austria;606.9;1;0.0005
+Chartreuse verte;France;HANAR;Brazil;604.8000000000001;1;0.0005
+Rössle Sauerkraut;Germany;ALFKI;Germany;604.2;2;0.0005
+Camembert Pierrot;France;FURIB;Portugal;601.8;2;0.0005
+Mozzarella di Giovanni;Italy;ERNSH;Austria;600.48;1;0.0005
+Uncle Bob's Organic Dried Pears;USA;BOTTM;Canada;600.0;1;0.0005
+Sir Rodney's Scones;UK;QUICK;Germany;600.0;1;0.0005
+Scottish Longbreads;UK;VAFFE;Denmark;600.0;1;0.0005
+Outback Lager;Australia;RICSU;Switzerland;600.0;1;0.0005
+Grandma's Boysenberry Spread;USA;HUNGO;Ireland;600.0;1;0.0005
+Carnarvon Tigers;Australia;TORTU;Mexico;600.0;1;0.0005
+Aniseed Syrup;UK;QUICK;Germany;600.0;1;0.0005
+Louisiana Fiery Hot Pepper Sauce;USA;OTTIK;Germany;599.925;1;0.0005
+Sasquatch Ale;USA;VAFFE;Denmark;599.2;2;0.0005
+Gumbär Gummibärchen;Germany;FRANK;Germany;597.5999999999999;1;0.0005
+Ikura;Japan;LILAS;Venezuela;595.2;1;0.0005
+Pavlova;Australia;FURIB;Portugal;593.3;1;0.0005
+Alice Mutton;Australia;BONAP;France;592.8;1;0.0005
+Tarte au sucre;Canada;WOLZA;Poland;591.5999999999999;1;0.0005
+Tarte au sucre;Canada;HUNGO;Ireland;591.0;1;0.0005
+Perth Pasties;Australia;AROUT;UK;590.4;1;0.0005
+Louisiana Fiery Hot Pepper Sauce;USA;RICAR;Brazil;588.0;1;0.0005
+Ipoh Coffee;Singapore;ANTON;Mexico;586.5;1;0.0005
+Valkoinen suklaa;Finland;AROUT;UK;585.0;2;0.0005
+Ravioli Angelo;Italy;RICSU;Switzerland;585.0;1;0.0005
+Alice Mutton;Australia;HANAR;Brazil;585.0;1;0.0005
+Alice Mutton;Australia;DUMON;France;585.0;1;0.0005
+Sir Rodney's Marmalade;UK;QUEEN;Brazil;583.1999999999999;1;0.0005
+Gravad lax;Sweden;FRANK;Germany;582.4;1;0.0005
+Mishi Kobe Niku;Japan;WHITC;USA;582.0;1;0.0005
+Queso Cabrales;Spain;LILAS;Venezuela;579.6;2;0.0005
+Nord-Ost Matjeshering;Germany;FOLKO;Sweden;579.6;1;0.0005
+Gnocchi di nonna Alice;Italy;WHITC;USA;577.6;2;0.0005
+Gudbrandsdalsost;Norway;LEHMS;Germany;576.0;1;0.0005
+Gudbrandsdalsost;Norway;SPLIR;USA;576.0;1;0.0005
+Rhönbräu Klosterbier;Germany;FRANK;Germany;573.5;2;0.0005
+Zaanse koeken;Netherlands;FOLKO;Sweden;570.0;2;0.0005
+Sirop d'érable;Canada;WARTH;Finland;570.0;1;0.0005
+Sirop d'érable;Canada;PICCO;Austria;570.0;1;0.0005
+Sirop d'érable;Canada;VAFFE;Denmark;570.0;1;0.0005
+Outback Lager;Australia;QUEEN;Brazil;570.0;1;0.0005
+Inlagd Sill;Sweden;MAGAA;Italy;570.0;1;0.0005
+Inlagd Sill;Sweden;BONAP;France;570.0;1;0.0005
+Inlagd Sill;Sweden;SIMOB;Denmark;570.0;1;0.0005
+Gnocchi di nonna Alice;Italy;ISLAT;UK;570.0;1;0.0005
+Gnocchi di nonna Alice;Italy;HANAR;Brazil;570.0;1;0.0005
+Tunnbröd;Sweden;QUICK;Germany;567.0;1;0.0004
+Ikura;Japan;QUICK;Germany;565.44;1;0.0004
+Pavlova;Australia;HUNGO;Ireland;565.38;1;0.0004
+Perth Pasties;Australia;HUNGO;Ireland;565.08;2;0.0004
+Flotemysost;Norway;QUICK;Germany;564.375;1;0.0004
+Outback Lager;Australia;ERNSH;Austria;564.0;2;0.0004
+Carnarvon Tigers;Australia;LETSS;USA;562.5;1;0.0004
+Teatime Chocolate Biscuits;UK;FRANK;Germany;561.1999999999999;2;0.0004
+Sasquatch Ale;USA;ANTON;Mexico;560.0;1;0.0004
+NuNuCa Nuß-Nougat-Creme;Germany;BONAP;France;560.0;1;0.0004
+Maxilaku;Finland;BLONP;France;560.0;1;0.0004
+Maxilaku;Finland;REGGC;Italy;560.0;1;0.0004
+Mozzarella di Giovanni;Italy;BONAP;France;556.8;1;0.0004
+Boston Crab Meat;USA;QUEEN;Brazil;556.3799999999999;3;0.0004
+Mozzarella di Giovanni;Italy;BLONP;France;556.0;1;0.0004
+Tarte au sucre;Canada;FRANK;Germany;554.625;1;0.0004
+Sasquatch Ale;USA;SAVEA;USA;554.4;2;0.0004
+Steeleye Stout;USA;LINOD;Venezuela;553.5;2;0.0004
+Konbu;Japan;QUICK;Germany;552.0;2;0.0004
+Ipoh Coffee;Singapore;KOENE;Germany;552.0;1;0.0004
+Ipoh Coffee;Singapore;RATTC;USA;552.0;1;0.0004
+Boston Crab Meat;USA;BOTTM;Canada;551.25;1;0.0004
+Raclette Courdavault;France;WILMK;Finland;550.0;1;0.0004
+Chef Anton's Cajun Seasoning;USA;WARTH;Finland;550.0;1;0.0004
+Chef Anton's Cajun Seasoning;USA;EASTC;UK;550.0;1;0.0004
+Rössle Sauerkraut;Germany;SAVEA;USA;546.0;1;0.0004
+Ravioli Angelo;Italy;LINOD;Venezuela;546.0;1;0.0004
+Aniseed Syrup;UK;LINOD;Venezuela;544.0;2;0.0004
+Spegesild;Denmark;RICAR;Brazil;542.4;2;0.0004
+Inlagd Sill;Sweden;HUNGO;Ireland;541.5;2;0.0004
+Chang;UK;WANDK;Germany;541.5;1;0.0004
+Uncle Bob's Organic Dried Pears;USA;ERNSH;Austria;540.0;1;0.0004
+Steeleye Stout;USA;VICTE;France;540.0;1;0.0004
+Steeleye Stout;USA;QUEEN;Brazil;540.0;1;0.0004
+Lakkalikööri;Finland;RATTC;USA;540.0;1;0.0004
+Flotemysost;Norway;QUEEN;Brazil;537.5;1;0.0004
+Tunnbröd;Sweden;LILAS;Venezuela;535.5;1;0.0004
+Lakkalikööri;Finland;HUNGO;Ireland;535.5;1;0.0004
+Jack's New England Clam Chowder;USA;FOLKO;Sweden;532.7375;3;0.0004
+Gnocchi di nonna Alice;Italy;GREAL;USA;532.0;1;0.0004
+Manjimup Dried Apples;Australia;FRANS;Italy;530.0;1;0.0004
+Boston Crab Meat;USA;GODOS;Spain;529.2;1;0.0004
+Flotemysost;Norway;ISLAT;UK;528.9;2;0.0004
+Mozzarella di Giovanni;Italy;WHITC;USA;528.1999999999999;1;0.0004
+Raclette Courdavault;France;SANTG;Norway;528.0;1;0.0004
+Raclette Courdavault;France;FOLIG;France;528.0;1;0.0004
+Côte de Blaye;France;RANCH;Argentina;527.0;1;0.0004
+Scottish Longbreads;UK;BOTTM;Canada;525.0;1;0.0004
+Queso Cabrales;Spain;LEHMS;Germany;525.0;1;0.0004
+Outback Lager;Australia;LILAS;Venezuela;525.0;1;0.0004
+Gustaf's Knäckebröd;Sweden;FOLKO;Sweden;525.0;1;0.0004
+Gumbär Gummibärchen;Germany;HILAA;Venezuela;524.6640000000001;1;0.0004
+Perth Pasties;Australia;WANDK;Germany;524.0;1;0.0004
+Raclette Courdavault;France;REGGC;Italy;522.5;1;0.0004
+Mozzarella di Giovanni;Italy;MAISD;Belgium;522.0;1;0.0004
+Jack's New England Clam Chowder;USA;HILAA;Venezuela;521.1;2;0.0004
+Valkoinen suklaa;Finland;HUNGO;Ireland;520.0;1;0.0004
+Sir Rodney's Scones;UK;WHITC;USA;520.0;2;0.0004
+Original Frankfurter grüne Soße;Germany;SUPRD;Belgium;520.0;2;0.0004
+Pâté chinois;Canada;LINOD;Venezuela;518.4;1;0.0004
+Nord-Ost Matjeshering;Germany;FRANK;Germany;517.8;1;0.0004
+Flotemysost;Norway;VAFFE;Denmark;516.0;1;0.0004
+Boston Crab Meat;USA;LEHMS;Germany;515.2;2;0.0004
+Lakkalikööri;Finland;SUPRD;Belgium;514.08;1;0.0004
+Sirop d'érable;Canada;LETSS;USA;513.0;1;0.0004
+Nord-Ost Matjeshering;Germany;LILAS;Venezuela;512.37;2;0.0004
+Camembert Pierrot;France;AROUT;UK;510.0;1;0.0004
+Camembert Pierrot;France;GREAL;USA;510.0;1;0.0004
+Camembert Pierrot;France;WOLZA;Poland;510.0;1;0.0004
+Rössle Sauerkraut;Germany;TORTU;Mexico;509.59999999999997;1;0.0004
+Vegie-spread;Australia;QUEDE;Brazil;505.44000000000005;1;0.0004
+Steeleye Stout;USA;EASTC;UK;504.0;1;0.0004
+Steeleye Stout;USA;WHITC;USA;504.0;1;0.0004
+Singaporean Hokkien Fried Mee;Singapore;GOURL;Brazil;504.0;2;0.0004
+Queso Cabrales;Spain;OTTIK;Germany;504.0;1;0.0004
+Pâté chinois;Canada;AROUT;UK;504.0;1;0.0004
+Lakkalikööri;Finland;VAFFE;Denmark;504.0;1;0.0004
+Gustaf's Knäckebröd;Sweden;WARTH;Finland;504.0;1;0.0004
+Chartreuse verte;France;TRADH;Brazil;504.0;1;0.0004
+Escargots de Bourgogne;France;ALFKI;Germany;503.5;1;0.0004
+Scottish Longbreads;UK;OTTIK;Germany;500.0;1;0.0004
+Maxilaku;Finland;LILAS;Venezuela;500.0;1;0.0004
+Grandma's Boysenberry Spread;USA;LEHMS;Germany;500.0;1;0.0004
+Gorgonzola Telino;Italy;LEHMS;Germany;500.0;2;0.0004
+Carnarvon Tigers;Australia;SANTG;Norway;500.0;1;0.0004
+Carnarvon Tigers;Australia;FRANS;Italy;500.0;1;0.0004
+Pavlova;Australia;OTTIK;Germany;497.325;1;0.0004
+Ikura;Japan;MEREP;Canada;496.0;1;0.0004
+Ikura;Japan;SUPRD;Belgium;496.0;1;0.0004
+Tarte au sucre;Canada;BSBEV;UK;493.0;1;0.0004
+Tarte au sucre;Canada;FRANR;France;493.0;1;0.0004
+Singaporean Hokkien Fried Mee;Singapore;ERNSH;Austria;492.79999999999995;2;0.0004
+Nord-Ost Matjeshering;Germany;TRADH;Brazil;491.9099999999999;1;0.0004
+Gula Malacca;Singapore;GREAL;USA;490.14000000000004;1;0.0004
+Filo Mix;Australia;RICAR;Brazil;490.0;1;0.0004
+Aniseed Syrup;UK;KOENE;Germany;490.0;1;0.0004
+Pavlova;Australia;RICSU;Switzerland;486.5;1;0.0004
+Jack's New England Clam Chowder;USA;ERNSH;Austria;486.1;2;0.0004
+Steeleye Stout;USA;FRANK;Germany;486.0;1;0.0004
+Nord-Ost Matjeshering;Germany;SIMOB;Denmark;485.4375;1;0.0004
+Chef Anton's Gumbo Mix;USA;EASTC;UK;480.375;1;0.0004
+Pâté chinois;Canada;SUPRD;Belgium;480.0;1;0.0004
+Maxilaku;Finland;EASTC;UK;480.0;1;0.0004
+Maxilaku;Finland;TORTU;Mexico;480.0;1;0.0004
+Tourtière;Canada;VAFFE;Denmark;478.7;2;0.0004
+Laughing Lumberjack Lager;USA;MAGAA;Italy;476.0;1;0.0004
+Rogede sild;Denmark;LINOD;Venezuela;475.0;2;0.0004
+Inlagd Sill;Sweden;RICAR;Brazil;475.0;1;0.0004
+Chai;UK;BERGS;Sweden;472.5;1;0.0004
+Tourtière;Canada;ERNSH;Austria;472.0;1;0.0004
+Ikura;Japan;CHOPS;Switzerland;471.2;1;0.0004
+Pavlova;Australia;FRANK;Germany;471.15000000000003;1;0.0004
+Mozzarella di Giovanni;Italy;TRADH;Brazil;469.8;1;0.0004
+Gumbär Gummibärchen;Germany;WHITC;USA;468.45;1;0.0004
+Gumbär Gummibärchen;Germany;PICCO;Austria;468.45;1;0.0004
+Alice Mutton;Australia;RICAR;Brazil;468.0;1;0.0004
+Sir Rodney's Marmalade;UK;RATTC;USA;466.55999999999995;2;0.0004
+Pavlova;Australia;WHITC;USA;465.875;2;0.0004
+Chang;UK;RICSU;Switzerland;465.5;2;0.0004
+Zaanse koeken;Netherlands;BERGS;Sweden;464.55;2;0.0004
+Chef Anton's Cajun Seasoning;USA;SUPRD;Belgium;462.0;1;0.0004
+Teatime Chocolate Biscuits;UK;SAVEA;USA;456.32;3;0.0004
+Sirop d'érable;Canada;SIMOB;Denmark;456.0;1;0.0004
+Rössle Sauerkraut;Germany;THECR;USA;456.0;1;0.0004
+Queso Manchego La Pastora;Spain;MEREP;Canada;456.0;1;0.0004
+Maxilaku;Finland;MAGAA;Italy;456.0;1;0.0004
+Inlagd Sill;Sweden;WARTH;Finland;456.0;1;0.0004
+Inlagd Sill;Sweden;GREAL;USA;456.0;1;0.0004
+Chang;UK;CHOPS;Switzerland;456.0;1;0.0004
+Zaanse koeken;Netherlands;SAVEA;USA;451.25;2;0.0004
+Tunnbröd;Sweden;SEVES;UK;450.0;1;0.0004
+Röd Kaviar;Sweden;HUNGC;USA;450.0;1;0.0004
+Chai;UK;BLONP;France;450.0;1;0.0004
+Carnarvon Tigers;Australia;ERNSH;Austria;450.0;1;0.0004
+Wimmers gute Semmelknödel;Germany;WANDK;Germany;448.875;1;0.0004
+Gorgonzola Telino;Italy;FRANK;Germany;448.0;1;0.0004
+Röd Kaviar;Sweden;SAVEA;USA;446.25;1;0.0004
+Pavlova;Australia;LEHMS;Germany;444.97499999999997;1;0.0004
+Tarte au sucre;Canada;REGGC;Italy;443.7;1;0.0004
+Louisiana Fiery Hot Pepper Sauce;USA;LINOD;Venezuela;442.05;1;0.0003
+Louisiana Fiery Hot Pepper Sauce;USA;EASTC;UK;442.05;1;0.0003
+Gustaf's Knäckebröd;Sweden;BSBEV;UK;441.0;1;0.0003
+Raclette Courdavault;France;OLDWO;USA;440.0;1;0.0003
+Raclette Courdavault;France;TORTU;Mexico;440.0;1;0.0003
+Vegie-spread;Australia;SPLIR;USA;439.0;1;0.0003
+Schoggi Schokolade;Germany;LACOR;France;439.0;1;0.0003
+Scottish Longbreads;UK;QUICK;Germany;437.5;1;0.0003
+Rössle Sauerkraut;Germany;REGGC;Italy;436.79999999999995;1;0.0003
+Camembert Pierrot;France;SPLIR;USA;435.20000000000005;1;0.0003
+Chef Anton's Cajun Seasoning;USA;RATTC;USA;434.5;2;0.0003
+Ikura;Japan;TORTU;Mexico;434.0;2;0.0003
+Tunnbröd;Sweden;ERNSH;Austria;432.0;1;0.0003
+Spegesild;Denmark;ERNSH;Austria;432.0;1;0.0003
+Lakkalikööri;Finland;TORTU;Mexico;432.0;1;0.0003
+Gudbrandsdalsost;Norway;LILAS;Venezuela;432.0;1;0.0003
+Gudbrandsdalsost;Norway;OTTIK;Germany;432.0;1;0.0003
+Rhönbräu Klosterbier;Germany;ERNSH;Austria;430.9;2;0.0003
+Flotemysost;Norway;ALFKI;Germany;430.0;1;0.0003
+Aniseed Syrup;UK;ERNSH;Austria;430.0;2;0.0003
+Uncle Bob's Organic Dried Pears;USA;LILAS;Venezuela;427.5;1;0.0003
+Scottish Longbreads;UK;MEREP;Canada;427.5;2;0.0003
+Queso Manchego La Pastora;Spain;LEHMS;Germany;427.5;1;0.0003
+Nord-Ost Matjeshering;Germany;GOURL;Brazil;427.185;2;0.0003
+Chef Anton's Gumbo Mix;USA;OCEAN;Argentina;427.0;1;0.0003
+Tourtière;Canada;SAVEA;USA;426.14;2;0.0003
+Singaporean Hokkien Fried Mee;Singapore;MAGAA;Italy;425.59999999999997;1;0.0003
+Gnocchi di nonna Alice;Italy;LEHMS;Germany;425.59999999999997;1;0.0003
+Manjimup Dried Apples;Australia;BLAUS;Germany;424.0;1;0.0003
+Chef Anton's Cajun Seasoning;USA;BOLID;Spain;422.40000000000003;1;0.0003
+Gravad lax;Sweden;SEVES;UK;421.2;1;0.0003
+Sir Rodney's Scones;UK;MEREP;Canada;420.0;1;0.0003
+Singaporean Hokkien Fried Mee;Singapore;OLDWO;USA;420.0;1;0.0003
+Singaporean Hokkien Fried Mee;Singapore;HILAA;Venezuela;420.0;1;0.0003
+Sasquatch Ale;USA;HUNGO;Ireland;420.0;1;0.0003
+Queso Cabrales;Spain;DRACD;Germany;420.0;1;0.0003
+Laughing Lumberjack Lager;USA;PERIC;Mexico;420.0;1;0.0003
+Filo Mix;Australia;RICSU;Switzerland;420.0;1;0.0003
+Ikura;Japan;HUNGO;Ireland;418.5;1;0.0003
+Zaanse koeken;Netherlands;QUICK;Germany;418.0;1;0.0003
+Lakkalikööri;Finland;LAMAI;France;417.6;2;0.0003
+Pavlova;Australia;LILAS;Venezuela;417.0;1;0.0003
+Original Frankfurter grüne Soße;Germany;RATTC;USA;416.0;2;0.0003
+Ipoh Coffee;Singapore;BOTTM;Canada;414.0;1;0.0003
+Ipoh Coffee;Singapore;SANTG;Norway;414.0;1;0.0003
+Carnarvon Tigers;Australia;WELLI;Brazil;412.5;2;0.0003
+Pâté chinois;Canada;BLONP;France;410.4;1;0.0003
+Chartreuse verte;France;BERGS;Sweden;410.4;2;0.0003
+Louisiana Hot Spiced Okra;USA;MAGAA;Italy;408.0;1;0.0003
+Louisiana Hot Spiced Okra;USA;EASTC;UK;408.0;1;0.0003
+Sir Rodney's Marmalade;UK;RANCH;Argentina;405.0;1;0.0003
+Sir Rodney's Marmalade;UK;LACOR;France;405.0;1;0.0003
+NuNuCa Nuß-Nougat-Creme;Germany;LINOD;Venezuela;403.2;2;0.0003
+Konbu;Japan;HILAA;Venezuela;403.2;2;0.0003
+Teatime Chocolate Biscuits;UK;RICAR;Brazil;401.5;2;0.0003
+Sir Rodney's Scones;UK;FOLIG;France;400.0;1;0.0003
+Northwoods Cranberry Sauce;USA;WILMK;Finland;400.0;1;0.0003
+Singaporean Hokkien Fried Mee;Singapore;BONAP;France;399.0;1;0.0003
+Gorgonzola Telino;Italy;MEREP;Canada;399.0;1;0.0003
+Konbu;Japan;ERNSH;Austria;397.8;2;0.0003
+Escargots de Bourgogne;France;FRANK;Germany;397.5;1;0.0003
+Escargots de Bourgogne;France;OLDWO;USA;397.5;1;0.0003
+Tunnbröd;Sweden;SAVEA;USA;396.0;1;0.0003
+Thüringer Rostbratwurst;Germany;PERIC;Mexico;396.0;1;0.0003
+Raclette Courdavault;France;FURIB;Portugal;396.0;1;0.0003
+Vegie-spread;Australia;PICCO;Austria;395.09999999999997;1;0.0003
+Schoggi Schokolade;Germany;LEHMS;Germany;394.875;1;0.0003
+Tarte au sucre;Canada;TRADH;Brazil;394.40000000000003;1;0.0003
+Tarte au sucre;Canada;HUNGC;USA;394.0;1;0.0003
+Tarte au sucre;Canada;LONEP;USA;394.0;1;0.0003
+Perth Pasties;Australia;BERGS;Sweden;393.59999999999997;1;0.0003
+Perth Pasties;Australia;WELLI;Brazil;393.0;1;0.0003
+Singaporean Hokkien Fried Mee;Singapore;CHOPS;Switzerland;392.0;1;0.0003
+Ravioli Angelo;Italy;HILAA;Venezuela;390.0;1;0.0003
+Ravioli Angelo;Italy;RANCH;Argentina;390.0;1;0.0003
+Ravioli Angelo;Italy;PICCO;Austria;390.0;1;0.0003
+Gorgonzola Telino;Italy;WANDK;Germany;390.0;2;0.0003
+Chartreuse verte;France;OLDWO;USA;388.8;1;0.0003
+Nord-Ost Matjeshering;Germany;SANTG;Norway;388.35;1;0.0003
+Nord-Ost Matjeshering;Germany;EASTC;UK;388.35;1;0.0003
+Teatime Chocolate Biscuits;UK;WHITC;USA;386.4;1;0.0003
+Valkoinen suklaa;Finland;QUEEN;Brazil;385.9375;1;0.0003
+Pâté chinois;Canada;BERGS;Sweden;384.0;1;0.0003
+Pâté chinois;Canada;TRADH;Brazil;384.0;1;0.0003
+Maxilaku;Finland;RICAR;Brazil;384.0;1;0.0003
+Original Frankfurter grüne Soße;Germany;OTTIK;Germany;382.84999999999997;2;0.0003
+Outback Lager;Australia;VICTE;France;382.5;1;0.0003
+Zaanse koeken;Netherlands;OTTIK;Germany;380.0;1;0.0003
+Sir Rodney's Scones;UK;CHOPS;Switzerland;380.0;1;0.0003
+Sir Rodney's Scones;UK;LETSS;USA;380.0;1;0.0003
+Inlagd Sill;Sweden;RICSU;Switzerland;380.0;1;0.0003
+Grandma's Boysenberry Spread;USA;ALFKI;Germany;380.0;1;0.0003
+Chang;UK;WOLZA;Poland;380.0;2;0.0003
+Chang;UK;SUPRD;Belgium;380.0;1;0.0003
+Chang;UK;GODOS;Spain;380.0;1;0.0003
+Chang;UK;ANTON;Mexico;380.0;1;0.0003
+Tourtière;Canada;WHITC;USA;379.95;1;0.0003
+Louisiana Fiery Hot Pepper Sauce;USA;VICTE;France;378.1;2;0.0003
+Chartreuse verte;France;BONAP;France;378.0;1;0.0003
+Tourtière;Canada;SPLIR;USA;377.6;2;0.0003
+Gorgonzola Telino;Italy;WARTH;Finland;375.0;1;0.0003
+Gorgonzola Telino;Italy;RICSU;Switzerland;375.0;1;0.0003
+Carnarvon Tigers;Australia;SPECD;France;375.0;1;0.0003
+Gumbär Gummibärchen;Germany;EASTC;UK;374.76;1;0.0003
+Gumbär Gummibärchen;Germany;DRACD;Germany;374.76;1;0.0003
+Nord-Ost Matjeshering;Germany;RATTC;USA;372.59999999999997;1;0.0003
+Tofu;Japan;BERGS;Sweden;372.0;1;0.0003
+Manjimup Dried Apples;Australia;RANCH;Argentina;371.0;1;0.0003
+Original Frankfurter grüne Soße;Germany;LILAS;Venezuela;370.5;2;0.0003
+Mozzarella di Giovanni;Italy;VINET;France;368.6;2;0.0003
+Rhönbräu Klosterbier;Germany;RICSU;Switzerland;368.125;1;0.0003
+Genen Shouyu;Japan;LEHMS;Germany;368.125;1;0.0003
+Ipoh Coffee;Singapore;LAMAI;France;368.0;1;0.0003
+Boston Crab Meat;USA;OTTIK;Germany;368.0;1;0.0003
+NuNuCa Nuß-Nougat-Creme;Germany;RATTC;USA;367.5;1;0.0003
+Sirop d'érable;Canada;QUICK;Germany;364.8;1;0.0003
+Rössle Sauerkraut;Germany;CACTU;Argentina;364.8;1;0.0003
+Original Frankfurter grüne Soße;Germany;SIMOB;Denmark;364.0;1;0.0003
+Gorgonzola Telino;Italy;OLDWO;USA;362.5;2;0.0003
+Gnocchi di nonna Alice;Italy;REGGC;Italy;361.0;1;0.0003
+Uncle Bob's Organic Dried Pears;USA;SANTG;Norway;360.0;1;0.0003
+Steeleye Stout;USA;BSBEV;UK;360.0;1;0.0003
+Steeleye Stout;USA;SPLIR;USA;360.0;1;0.0003
+Sir Rodney's Scones;UK;SUPRD;Belgium;360.0;1;0.0003
+Scottish Longbreads;UK;GODOS;Spain;360.0;2;0.0003
+Röd Kaviar;Sweden;RICSU;Switzerland;360.0;2;0.0003
+Outback Lager;Australia;BOTTM;Canada;360.0;1;0.0003
+Outback Lager;Australia;HUNGO;Ireland;360.0;1;0.0003
+Lakkalikööri;Finland;FRANR;France;360.0;1;0.0003
+Lakkalikööri;Finland;GOURL;Brazil;360.0;1;0.0003
+Lakkalikööri;Finland;BONAP;France;360.0;1;0.0003
+Lakkalikööri;Finland;LACOR;France;360.0;1;0.0003
+Gudbrandsdalsost;Norway;MAISD;Belgium;360.0;1;0.0003
+Gudbrandsdalsost;Norway;SPECD;France;360.0;1;0.0003
+Chartreuse verte;France;TORTU;Mexico;360.0;1;0.0003
+Chartreuse verte;France;QUEDE;Brazil;360.0;1;0.0003
+Chai;UK;MEREP;Canada;360.0;1;0.0003
+Jack's New England Clam Chowder;USA;OTTIK;Germany;358.25750000000005;3;0.0003
+Escargots de Bourgogne;France;TRADH;Brazil;357.75;1;0.0003
+Valkoinen suklaa;Finland;ERNSH;Austria;357.5;1;0.0003
+Nord-Ost Matjeshering;Germany;ROMEY;Spain;357.09;3;0.0003
+Chef Anton's Cajun Seasoning;USA;HUNGO;Ireland;352.0;1;0.0003
+Chef Anton's Cajun Seasoning;USA;TRADH;Brazil;352.0;1;0.0003
+Alice Mutton;Australia;LEHMS;Germany;351.0;1;0.0003
+Queso Cabrales;Spain;PICCO;Austria;350.28000000000003;2;0.0003
+Longlife Tofu;Japan;WARTH;Finland;350.0;1;0.0003
+Laughing Lumberjack Lager;USA;FRANK;Germany;350.0;1;0.0003
+Pavlova;Australia;KOENE;Germany;349.0;1;0.0003
+Pavlova;Australia;MORGK;Germany;349.0;1;0.0003
+Tofu;Japan;BONAP;France;348.75;1;0.0003
+Original Frankfurter grüne Soße;Germany;QUEDE;Brazil;348.4;2;0.0003
+Mozzarella di Giovanni;Italy;ANATR;Mexico;348.0;1;0.0003
+Mozzarella di Giovanni;Italy;ISLAT;UK;348.0;1;0.0003
+Ikura;Japan;BLONP;France;347.2;1;0.0003
+Camembert Pierrot;France;FAMIA;Brazil;346.8;1;0.0003
+Rössle Sauerkraut;Germany;LAMAI;France;346.56;1;0.0003
+Queso Manchego La Pastora;Spain;WARTH;Finland;346.55999999999995;1;0.0003
+Chai;UK;LAMAI;France;345.6;1;0.0003
+Flotemysost;Norway;VINET;France;344.0;1;0.0003
+Pâté chinois;Canada;CHOPS;Switzerland;342.71999999999997;1;0.0003
+Sirop d'érable;Canada;WANDK;Germany;342.0;1;0.0003
+Rhönbräu Klosterbier;Germany;FAMIA;Brazil;341.62;2;0.0003
+Original Frankfurter grüne Soße;Germany;HUNGO;Ireland;341.25;1;0.0003
+Rhönbräu Klosterbier;Germany;FOLKO;Sweden;341.0;3;0.0003
+Sir Rodney's Scones;UK;MAISD;Belgium;340.0;1;0.0003
+Northwoods Cranberry Sauce;USA;BONAP;France;340.0;1;0.0003
+Chef Anton's Gumbo Mix;USA;COMMI;Brazil;340.0;1;0.0003
+Camembert Pierrot;France;GOURL;Brazil;340.0;1;0.0003
+Camembert Pierrot;France;ANATR;Mexico;340.0;1;0.0003
+Camembert Pierrot;France;ROMEY;Spain;340.0;1;0.0003
+Jack's New England Clam Chowder;USA;PICCO;Austria;337.75;1;0.0003
+Chai;UK;EASTC;UK;337.5;1;0.0003
+Rhönbräu Klosterbier;Germany;BERGS;Sweden;337.125;3;0.0003
+Raclette Courdavault;France;SIMOB;Denmark;336.59999999999997;1;0.0003
+Pâté chinois;Canada;MAISD;Belgium;336.0;1;0.0003
+Louisiana Fiery Hot Pepper Sauce;USA;RATTC;USA;336.0;1;0.0003
+Gula Malacca;Singapore;QUEDE;Brazil;334.8;1;0.0003
+Perth Pasties;Australia;QUEDE;Brazil;334.05;1;0.0003
+Tofu;Japan;OTTIK;Germany;331.3125;1;0.0003
+Raclette Courdavault;France;ISLAT;UK;330.0;1;0.0003
+Perth Pasties;Australia;FRANK;Germany;328.0;1;0.0003
+Perth Pasties;Australia;WHITC;USA;328.0;1;0.0003
+Jack's New England Clam Chowder;USA;BERGS;Sweden;327.5;2;0.0003
+Gula Malacca;Singapore;LEHMS;Germany;325.5;1;0.0003
+Valkoinen suklaa;Finland;VAFFE;Denmark;325.0;1;0.0003
+Pâté chinois;Canada;GODOS;Spain;324.0;2;0.0003
+Gudbrandsdalsost;Norway;QUICK;Germany;324.0;1;0.0003
+Rogede sild;Denmark;WARTH;Finland;323.0;1;0.0003
+Chang;UK;LEHMS;Germany;323.0;1;0.0003
+Camembert Pierrot;France;CHOPS;Switzerland;323.0;1;0.0003
+Teatime Chocolate Biscuits;UK;HANAR;Brazil;322.0;1;0.0003
+Ipoh Coffee;Singapore;CACTU;Argentina;322.0;1;0.0003
+Sir Rodney's Scones;UK;WANDK;Germany;320.0;1;0.0003
+Mascarpone Fabioli;Italy;ANATR;Mexico;320.0;1;0.0003
+Spegesild;Denmark;AROUT;UK;319.2;1;0.0003
+Rössle Sauerkraut;Germany;LONEP;USA;319.2;1;0.0003
+Manjimup Dried Apples;Australia;SPLIR;USA;318.0;1;0.0003
+Manjimup Dried Apples;Australia;RICSU;Switzerland;318.0;1;0.0003
+Escargots de Bourgogne;France;SUPRD;Belgium;318.0;1;0.0003
+Pâté chinois;Canada;WANDK;Germany;316.79999999999995;2;0.0003
+Queso Cabrales;Spain;TORTU;Mexico;315.0;1;0.0002
+Queso Cabrales;Spain;QUEDE;Brazil;315.0;1;0.0002
+Queso Cabrales;Spain;WARTH;Finland;315.0;1;0.0002
+Gustaf's Knäckebröd;Sweden;WANDK;Germany;315.0;1;0.0002
+Gustaf's Knäckebröd;Sweden;RICAR;Brazil;315.0;1;0.0002
+Mozzarella di Giovanni;Italy;GREAL;USA;313.2;1;0.0002
+Ravioli Angelo;Italy;WARTH;Finland;312.0;1;0.0002
+Alice Mutton;Australia;BERGS;Sweden;312.0;1;0.0002
+Nord-Ost Matjeshering;Germany;OLDWO;USA;310.5;1;0.0002
+Rhönbräu Klosterbier;Germany;BOLID;Spain;310.0;1;0.0002
+Ikura;Japan;GODOS;Spain;310.0;1;0.0002
+Ikura;Japan;DUMON;France;310.0;1;0.0002
+Ikura;Japan;GROSR;Venezuela;310.0;1;0.0002
+Original Frankfurter grüne Soße;Germany;QUEEN;Brazil;309.4;1;0.0002
+Boston Crab Meat;USA;PERIC;Mexico;308.7;1;0.0002
+Sir Rodney's Scones;UK;GREAL;USA;308.0;2;0.0002
+Chef Anton's Cajun Seasoning;USA;MAGAA;Italy;308.0;2;0.0002
+Steeleye Stout;USA;WANDK;Germany;307.8;1;0.0002
+Tourtière;Canada;FRANK;Germany;307.3125;2;0.0002
+Flotemysost;Norway;MEREP;Canada;306.375;1;0.0002
+Flotemysost;Norway;GREAL;USA;306.375;1;0.0002
+Steeleye Stout;USA;FURIB;Portugal;306.0;1;0.0002
+Spegesild;Denmark;RICSU;Switzerland;306.0;1;0.0002
+Gudbrandsdalsost;Norway;WARTH;Finland;306.0;1;0.0002
+Chocolade;Netherlands;QUEEN;Brazil;306.0;1;0.0002
+Chai;UK;HILAA;Venezuela;306.0;1;0.0002
+Camembert Pierrot;France;GODOS;Spain;306.0;1;0.0002
+Rogede sild;Denmark;WHITC;USA;304.0;1;0.0002
+Longlife Tofu;Japan;CHOPS;Switzerland;304.0;2;0.0002
+Inlagd Sill;Sweden;AROUT;UK;304.0;1;0.0002
+Inlagd Sill;Sweden;SPLIR;USA;304.0;1;0.0002
+Louisiana Fiery Hot Pepper Sauce;USA;QUEDE;Brazil;302.40000000000003;1;0.0002
+Singaporean Hokkien Fried Mee;Singapore;HUNGO;Ireland;302.4;2;0.0002
+Teatime Chocolate Biscuits;UK;QUEDE;Brazil;300.82;2;0.0002
+Uncle Bob's Organic Dried Pears;USA;VAFFE;Denmark;300.0;1;0.0002
+Spegesild;Denmark;FOLKO;Sweden;300.0;1;0.0002
+Sir Rodney's Scones;UK;LINOD;Venezuela;300.0;1;0.0002
+Scottish Longbreads;UK;TRADH;Brazil;300.0;1;0.0002
+Scottish Longbreads;UK;HILAA;Venezuela;300.0;1;0.0002
+Röd Kaviar;Sweden;BERGS;Sweden;300.0;1;0.0002
+Maxilaku;Finland;BERGS;Sweden;300.0;1;0.0002
+Grandma's Boysenberry Spread;USA;BOTTM;Canada;300.0;1;0.0002
+Gorgonzola Telino;Italy;WOLZA;Poland;300.0;1;0.0002
+Aniseed Syrup;UK;BERGS;Sweden;300.0;1;0.0002
+Queso Cabrales;Spain;MEREP;Canada;299.25;1;0.0002
+Queso Cabrales;Spain;KOENE;Germany;299.25;1;0.0002
+Guaraná Fantástica;Brazil;HANAR;Brazil;299.25;2;0.0002
+Chang;UK;BERGS;Sweden;299.25;1;0.0002
+Escargots de Bourgogne;France;LINOD;Venezuela;298.125;1;0.0002
+Gorgonzola Telino;Italy;SUPRD;Belgium;297.5;1;0.0002
+Original Frankfurter grüne Soße;Germany;WHITC;USA;296.4;1;0.0002
+Rhönbräu Klosterbier;Germany;QUICK;Germany;294.5;1;0.0002
+Queso Cabrales;Spain;BLAUS;Germany;294.0;1;0.0002
+Boston Crab Meat;USA;RANCH;Argentina;294.0;1;0.0002
+Valkoinen suklaa;Finland;RICSU;Switzerland;292.5;1;0.0002
+Ravioli Angelo;Italy;BLONP;France;292.5;1;0.0002
+Ravioli Angelo;Italy;SAVEA;USA;292.5;1;0.0002
+Ravioli Angelo;Italy;LILAS;Venezuela;292.5;1;0.0002
+Chang;UK;FRANK;Germany;291.84;1;0.0002
+Gula Malacca;Singapore;COMMI;Brazil;291.75;1;0.0002
+Mishi Kobe Niku;Japan;CONSH;UK;291.0;1;0.0002
+Chef Anton's Gumbo Mix;USA;MAGAA;Italy;288.225;1;0.0002
+Pâté chinois;Canada;QUEEN;Brazil;288.0;1;0.0002
+Pâté chinois;Canada;BOTTM;Canada;288.0;1;0.0002
+Mascarpone Fabioli;Italy;BERGS;Sweden;288.0;1;0.0002
+Chartreuse verte;France;WARTH;Finland;288.0;1;0.0002
+Chai;UK;LONEP;USA;288.0;1;0.0002
+Escargots de Bourgogne;France;RATTC;USA;286.2;1;0.0002
+Maxilaku;Finland;KOENE;Germany;285.59999999999997;1;0.0002
+Chef Anton's Cajun Seasoning;USA;PRINI;Portugal;285.12;1;0.0002
+Sirop d'érable;Canada;RANCH;Argentina;285.0;1;0.0002
+Chang;UK;VICTE;France;285.0;1;0.0002
+Chai;UK;WARTH;Finland;284.4;2;0.0002
+Sasquatch Ale;USA;TOMSP;Germany;284.20000000000005;2;0.0002
+Lakkalikööri;Finland;BERGS;Sweden;283.5;1;0.0002
+Chartreuse verte;France;ALFKI;Germany;283.5;1;0.0002
+Vegie-spread;Australia;BERGS;Sweden;280.8;1;0.0002
+Singaporean Hokkien Fried Mee;Singapore;ANTON;Mexico;280.0;1;0.0002
+Sasquatch Ale;USA;CACTU;Argentina;280.0;1;0.0002
+Laughing Lumberjack Lager;USA;CACTU;Argentina;280.0;1;0.0002
+Tofu;Japan;HUNGC;USA;279.0;1;0.0002
+Tofu;Japan;QUEDE;Brazil;279.0;1;0.0002
+Mozzarella di Giovanni;Italy;CONSH;UK;278.0;1;0.0002
+Teatime Chocolate Biscuits;UK;TOMSP;Germany;276.84;3;0.0002
+Ipoh Coffee;Singapore;WILMK;Finland;276.0;1;0.0002
+Ipoh Coffee;Singapore;EASTC;UK;276.0;1;0.0002
+Jack's New England Clam Chowder;USA;VAFFE;Denmark;275.025;1;0.0002
+Lakkalikööri;Finland;LEHMS;Germany;273.6;2;0.0002
+Chang;UK;LINOD;Venezuela;273.6;1;0.0002
+Guaraná Fantástica;Brazil;SEVES;UK;273.59999999999997;1;0.0002
+Sir Rodney's Scones;UK;KOENE;Germany;272.0;1;0.0002
+NuNuCa Nuß-Nougat-Creme;Germany;KOENE;Germany;271.6;2;0.0002
+Chang;UK;LAMAI;France;270.75;1;0.0002
+Steeleye Stout;USA;FOLIG;France;270.0;1;0.0002
+Scottish Longbreads;UK;SIMOB;Denmark;270.0;1;0.0002
+Lakkalikööri;Finland;ALFKI;Germany;270.0;1;0.0002
+Laughing Lumberjack Lager;USA;LAMAI;France;268.8;1;0.0002
+Louisiana Fiery Hot Pepper Sauce;USA;OLDWO;USA;268.3875;1;0.0002
+Lakkalikööri;Finland;ISLAT;UK;266.4;2;0.0002
+Filo Mix;Australia;AROUT;UK;266.0;2;0.0002
+Perth Pasties;Australia;OTTIK;Germany;265.68;1;0.0002
+Gorgonzola Telino;Italy;LINOD;Venezuela;265.625;1;0.0002
+Escargots de Bourgogne;France;RICSU;Switzerland;265.0;1;0.0002
+Vegie-spread;Australia;MORGK;Germany;263.4;1;0.0002
+Perth Pasties;Australia;REGGC;Italy;262.40000000000003;1;0.0002
+Sir Rodney's Scones;UK;BSBEV;UK;262.0;2;0.0002
+Perth Pasties;Australia;ROMEY;Spain;262.0;1;0.0002
+Pavlova;Australia;SANTG;Norway;261.75;1;0.0002
+Rhönbräu Klosterbier;Germany;QUEEN;Brazil;260.40000000000003;1;0.0002
+Original Frankfurter grüne Soße;Germany;REGGC;Italy;260.0;1;0.0002
+Original Frankfurter grüne Soße;Germany;LEHMS;Germany;260.0;1;0.0002
+Chai;UK;RATTC;USA;259.2;1;0.0002
+Flotemysost;Norway;OTTIK;Germany;258.0;1;0.0002
+Flotemysost;Norway;SANTG;Norway;258.0;1;0.0002
+Flotemysost;Norway;AROUT;UK;258.0;1;0.0002
+Sirop d'érable;Canada;GODOS;Spain;256.5;1;0.0002
+Inlagd Sill;Sweden;GODOS;Spain;256.5;1;0.0002
+Escargots de Bourgogne;France;FOLKO;Sweden;254.4;1;0.0002
+Louisiana Fiery Hot Pepper Sauce;USA;FRANR;France;252.60000000000002;1;0.0002
+Spegesild;Denmark;BONAP;France;252.0;1;0.0002
+Louisiana Fiery Hot Pepper Sauce;USA;VAFFE;Denmark;252.0;1;0.0002
+Lakkalikööri;Finland;BLAUS;Germany;252.0;1;0.0002
+Tarte au sucre;Canada;FOLKO;Sweden;251.42999999999995;1;0.0002
+Raclette Courdavault;France;MAGAA;Italy;250.79999999999998;1;0.0002
+Pavlova;Australia;PICCO;Austria;250.20000000000002;1;0.0002
+Scottish Longbreads;UK;SEVES;UK;250.0;1;0.0002
+Scottish Longbreads;UK;TORTU;Mexico;250.0;1;0.0002
+Scottish Longbreads;UK;HANAR;Brazil;250.0;1;0.0002
+Scottish Longbreads;UK;MAISD;Belgium;250.0;1;0.0002
+Gorgonzola Telino;Italy;HILAA;Venezuela;250.0;1;0.0002
+Gorgonzola Telino;Italy;TORTU;Mexico;250.0;1;0.0002
+Ravioli Angelo;Italy;BOLID;Spain;249.6;1;0.0002
+Guaraná Fantástica;Brazil;SAVEA;USA;249.3;3;0.0002
+Gumbär Gummibärchen;Germany;SPLIR;USA;249.0;1;0.0002
+Gula Malacca;Singapore;LAMAI;France;248.96;1;0.0002
+Teatime Chocolate Biscuits;UK;GREAL;USA;248.4;1;0.0002
+Gula Malacca;Singapore;BERGS;Sweden;248.0;1;0.0002
+Genen Shouyu;Japan;LILAS;Venezuela;248.0;1;0.0002
+Chartreuse verte;France;SEVES;UK;244.79999999999998;1;0.0002
+Pavlova;Australia;WARTH;Finland;244.29999999999998;1;0.0002
+Rogede sild;Denmark;ERNSH;Austria;243.67499999999998;1;0.0002
+Jack's New England Clam Chowder;USA;LINOD;Venezuela;243.18;1;0.0002
+Spegesild;Denmark;HILAA;Venezuela;241.92000000000002;1;0.0002
+Tourtière;Canada;BERGS;Sweden;240.48000000000002;3;0.0002
+Sir Rodney's Scones;UK;SIMOB;Denmark;240.0;1;0.0002
+Sir Rodney's Scones;UK;LILAS;Venezuela;240.0;1;0.0002
+Outback Lager;Australia;RICAR;Brazil;240.0;1;0.0002
+Outback Lager;Australia;BLONP;France;240.0;1;0.0002
+Maxilaku;Finland;COMMI;Brazil;240.0;1;0.0002
+Longlife Tofu;Japan;MEREP;Canada;240.0;1;0.0002
+Konbu;Japan;HANAR;Brazil;240.0;1;0.0002
+Aniseed Syrup;UK;BSBEV;UK;240.0;1;0.0002
+Louisiana Fiery Hot Pepper Sauce;USA;LETSS;USA;239.97;1;0.0002
+Wimmers gute Semmelknödel;Germany;BSBEV;UK;239.4;1;0.0002
+NuNuCa Nuß-Nougat-Creme;Germany;VICTE;France;238.0;1;0.0002
+Chef Anton's Cajun Seasoning;USA;BERGS;Sweden;237.6;1;0.0002
+Zaanse koeken;Netherlands;AROUT;UK;237.5;1;0.0002
+Gorgonzola Telino;Italy;QUEEN;Brazil;237.5;1;0.0002
+Queso Cabrales;Spain;HANAR;Brazil;236.25;1;0.0002
+Original Frankfurter grüne Soße;Germany;TRAIH;USA;234.0;1;0.0002
+Original Frankfurter grüne Soße;Germany;SANTG;Norway;234.0;1;0.0002
+Alice Mutton;Australia;LACOR;France;234.0;1;0.0002
+Gula Malacca;Singapore;OLDWO;USA;233.39999999999998;1;0.0002
+Rhönbräu Klosterbier;Germany;WOLZA;Poland;232.5;1;0.0002
+Rhönbräu Klosterbier;Germany;ANTON;Mexico;232.5;1;0.0002
+Pavlova;Australia;SIMOB;Denmark;232.08499999999998;1;0.0002
+Tourtière;Canada;BONAP;France;230.10000000000002;2;0.0002
+Sir Rodney's Scones;UK;BLAUS;Germany;230.0;3;0.0002
+Ipoh Coffee;Singapore;TORTU;Mexico;230.0;1;0.0002
+Teatime Chocolate Biscuits;UK;BERGS;Sweden;229.99999999999997;1;0.0002
+Zaanse koeken;Netherlands;FOLIG;France;228.0;1;0.0002
+Sirop d'érable;Canada;HANAR;Brazil;228.0;1;0.0002
+Chang;UK;AROUT;UK;228.0;1;0.0002
+Spegesild;Denmark;WELLI;Brazil;226.8;1;0.0002
+Louisiana Fiery Hot Pepper Sauce;USA;LAMAI;France;226.8;1;0.0002
+Chef Anton's Cajun Seasoning;USA;FURIB;Portugal;225.28000000000003;1;0.0002
+Scottish Longbreads;UK;FOLIG;France;225.0;1;0.0002
+Sasquatch Ale;USA;RICAR;Brazil;224.0;1;0.0002
+Filo Mix;Australia;BOLID;Spain;224.0;1;0.0002
+Tourtière;Canada;LETSS;USA;223.5;1;0.0002
+Tourtière;Canada;FAMIA;Brazil;223.5;1;0.0002
+Tofu;Japan;OCEAN;Argentina;223.20000000000002;1;0.0002
+Tofu;Japan;PERIC;Mexico;223.20000000000002;1;0.0002
+Pavlova;Australia;LAMAI;France;222.4;1;0.0002
+Ravioli Angelo;Italy;VICTE;France;222.29999999999998;1;0.0002
+Boston Crab Meat;USA;WILMK;Finland;220.79999999999998;1;0.0002
+Raclette Courdavault;France;BSBEV;UK;220.0;1;0.0002
+Raclette Courdavault;France;NORTS;UK;220.0;1;0.0002
+Rössle Sauerkraut;Germany;SANTG;Norway;218.39999999999998;1;0.0002
+Tofu;Japan;ERNSH;Austria;217.3875;1;0.0002
+Tunnbröd;Sweden;FOLKO;Sweden;216.0;1;0.0002
+Spegesild;Denmark;WHITC;USA;216.0;1;0.0002
+Sir Rodney's Scones;UK;QUEEN;Brazil;216.0;1;0.0002
+Röd Kaviar;Sweden;WELLI;Brazil;216.0;1;0.0002
+Chartreuse verte;France;PRINI;Portugal;216.0;1;0.0002
+Chai;UK;PRINI;Portugal;216.0;1;0.0002
+Konbu;Japan;RICSU;Switzerland;214.2;1;0.0002
+Zaanse koeken;Netherlands;BONAP;France;213.75;1;0.0002
+Outback Lager;Australia;GREAL;USA;213.75;1;0.0002
+Singaporean Hokkien Fried Mee;Singapore;BOTTM;Canada;212.79999999999998;1;0.0002
+Louisiana Fiery Hot Pepper Sauce;USA;WILMK;Finland;210.5;1;0.0002
+Louisiana Fiery Hot Pepper Sauce;USA;RICSU;Switzerland;210.5;1;0.0002
+Queso Cabrales;Spain;PERIC;Mexico;210.0;1;0.0002
+Queso Cabrales;Spain;QUEEN;Brazil;210.0;1;0.0002
+Queso Cabrales;Spain;SPECD;France;210.0;1;0.0002
+Queso Cabrales;Spain;LAZYK;USA;210.0;1;0.0002
+NuNuCa Nuß-Nougat-Creme;Germany;HILAA;Venezuela;210.0;1;0.0002
+Laughing Lumberjack Lager;USA;AROUT;UK;210.0;1;0.0002
+Laughing Lumberjack Lager;USA;GODOS;Spain;210.0;1;0.0002
+Teatime Chocolate Biscuits;UK;WELLI;Brazil;209.75999999999996;1;0.0002
+Gravad lax;Sweden;CHOPS;Switzerland;208.0;1;0.0002
+Gravad lax;Sweden;FOLIG;France;208.0;1;0.0002
+Rhönbräu Klosterbier;Germany;RATTC;USA;207.7;3;0.0002
+Rogede sild;Denmark;VAFFE;Denmark;205.20000000000002;1;0.0002
+Ravioli Angelo;Italy;BONAP;France;204.75;1;0.0002
+Guaraná Fantástica;Brazil;VAFFE;Denmark;202.5;2;0.0002
+Chai;UK;HUNGO;Ireland;202.5;1;0.0002
+Louisiana Fiery Hot Pepper Sauce;USA;PICCO;Austria;202.08000000000004;1;0.0002
+Gustaf's Knäckebröd;Sweden;CONSH;UK;201.60000000000002;1;0.0002
+Gudbrandsdalsost;Norway;DUMON;France;201.6;1;0.0002
+Geitost;Norway;WHITC;USA;201.5;2;0.0002
+Sir Rodney's Scones;UK;WILMK;Finland;200.0;1;0.0002
+Scottish Longbreads;UK;MAGAA;Italy;200.0;1;0.0002
+Maxilaku;Finland;WILMK;Finland;200.0;1;0.0002
+Longlife Tofu;Japan;SUPRD;Belgium;200.0;1;0.0002
+Longlife Tofu;Japan;WOLZA;Poland;200.0;1;0.0002
+Gorgonzola Telino;Italy;DRACD;Germany;200.0;1;0.0002
+Aniseed Syrup;UK;BOTTM;Canada;200.0;1;0.0002
+Louisiana Fiery Hot Pepper Sauce;USA;BONAP;France;199.975;1;0.0002
+Wimmers gute Semmelknödel;Germany;TRAIH;USA;199.5;1;0.0002
+Rogede sild;Denmark;PERIC;Mexico;199.5;1;0.0002
+NuNuCa Nuß-Nougat-Creme;Germany;WELLI;Brazil;199.5;1;0.0002
+Escargots de Bourgogne;France;WHITC;USA;198.75;1;0.0002
+Escargots de Bourgogne;France;QUEEN;Brazil;198.75;1;0.0002
+Tarte au sucre;Canada;THEBI;USA;197.0;1;0.0002
+Perth Pasties;Australia;PERIC;Mexico;196.79999999999998;1;0.0002
+Singaporean Hokkien Fried Mee;Singapore;PRINI;Portugal;196.0;1;0.0002
+Original Frankfurter grüne Soße;Germany;OCEAN;Argentina;195.0;1;0.0002
+Original Frankfurter grüne Soße;Germany;FRANK;Germany;195.0;1;0.0002
+Gula Malacca;Singapore;HILAA;Venezuela;194.5;1;0.0002
+Gula Malacca;Singapore;FOLKO;Sweden;194.5;1;0.0002
+Gula Malacca;Singapore;THECR;USA;194.5;1;0.0002
+Sir Rodney's Scones;UK;PRINI;Portugal;194.0;2;0.0002
+Jack's New England Clam Chowder;USA;VICTE;France;193.0;1;0.0002
+Jack's New England Clam Chowder;USA;MAGAA;Italy;193.0;1;0.0002
+Uncle Bob's Organic Dried Pears;USA;SPLIR;USA;192.0;1;0.0002
+Spegesild;Denmark;REGGC;Italy;192.0;1;0.0002
+Mascarpone Fabioli;Italy;RANCH;Argentina;192.0;1;0.0002
+Röd Kaviar;Sweden;WHITC;USA;191.25;1;0.0002
+Rogede sild;Denmark;ROMEY;Spain;190.0;1;0.0002
+Gorgonzola Telino;Italy;TRADH;Brazil;190.0;1;0.0002
+Gnocchi di nonna Alice;Italy;LONEP;USA;190.0;1;0.0002
+Chang;UK;ISLAT;UK;190.0;1;0.0002
+Outback Lager;Australia;OTTIK;Germany;189.0;1;0.0001
+Outback Lager;Australia;KOENE;Germany;189.0;1;0.0001
+Pavlova;Australia;BERGS;Sweden;188.45999999999998;1;0.0001
+Scottish Longbreads;UK;WOLZA;Poland;187.5;1;0.0001
+Gumbär Gummibärchen;Germany;MAISD;Belgium;187.38;1;0.0001
+Ravioli Angelo;Italy;TOMSP;Germany;187.20000000000002;1;0.0001
+Teatime Chocolate Biscuits;UK;LINOD;Venezuela;186.3;2;0.0001
+Wimmers gute Semmelknödel;Germany;GALED;Spain;186.20000000000002;1;0.0001
+Rhönbräu Klosterbier;Germany;WHITC;USA;186.0;1;0.0001
+Ikura;Japan;THECR;USA;186.0;1;0.0001
+Thüringer Rostbratwurst;Germany;GREAL;USA;185.685;1;0.0001
+Ravioli Angelo;Italy;RICAR;Brazil;185.25;1;0.0001
+Tarte au sucre;Canada;SIMOB;Denmark;184.875;1;0.0001
+Boston Crab Meat;USA;THECR;USA;184.0;1;0.0001
+Boston Crab Meat;USA;MAISD;Belgium;184.0;1;0.0001
+Lakkalikööri;Finland;FRANK;Germany;183.6;1;0.0001
+Chai;UK;CHOPS;Switzerland;183.6;1;0.0001
+Chai;UK;WANDK;Germany;183.6;1;0.0001
+Jack's New England Clam Chowder;USA;FRANK;Germany;183.35;1;0.0001
+Rössle Sauerkraut;Germany;WHITC;USA;182.4;1;0.0001
+Spegesild;Denmark;VICTE;France;182.39999999999998;1;0.0001
+Uncle Bob's Organic Dried Pears;USA;OCEAN;Argentina;180.0;1;0.0001
+Tunnbröd;Sweden;WANDK;Germany;180.0;1;0.0001
+Steeleye Stout;USA;VAFFE;Denmark;180.0;1;0.0001
+Spegesild;Denmark;BSBEV;UK;180.0;1;0.0001
+Spegesild;Denmark;LILAS;Venezuela;180.0;1;0.0001
+Scottish Longbreads;UK;RICAR;Brazil;180.0;1;0.0001
+Outback Lager;Australia;TORTU;Mexico;180.0;1;0.0001
+Lakkalikööri;Finland;WILMK;Finland;180.0;1;0.0001
+Lakkalikööri;Finland;LONEP;USA;180.0;1;0.0001
+Lakkalikööri;Finland;BLONP;France;180.0;1;0.0001
+Lakkalikööri;Finland;MORGK;Germany;180.0;1;0.0001
+Lakkalikööri;Finland;OCEAN;Argentina;180.0;1;0.0001
+Konbu;Japan;RICAR;Brazil;180.0;1;0.0001
+Gorgonzola Telino;Italy;REGGC;Italy;180.0;1;0.0001
+Chartreuse verte;France;TRAIH;USA;180.0;1;0.0001
+Chartreuse verte;France;OTTIK;Germany;180.0;1;0.0001
+Chai;UK;SUPRD;Belgium;180.0;1;0.0001
+Chai;UK;TORTU;Mexico;180.0;1;0.0001
+Chai;UK;GODOS;Spain;180.0;1;0.0001
+Genen Shouyu;Japan;LAMAI;France;176.7;1;0.0001
+Chef Anton's Cajun Seasoning;USA;MEREP;Canada;176.0;1;0.0001
+Vegie-spread;Australia;TORTU;Mexico;175.5;1;0.0001
+Valkoinen suklaa;Finland;LAMAI;France;175.5;1;0.0001
+Filo Mix;Australia;BERGS;Sweden;175.0;1;0.0001
+Pavlova;Australia;FRANR;France;174.5;1;0.0001
+Flotemysost;Norway;HANAR;Brazil;174.15;1;0.0001
+Mozzarella di Giovanni;Italy;OCEAN;Argentina;174.0;1;0.0001
+Lakkalikööri;Finland;DRACD;Germany;172.8;1;0.0001
+Chai;UK;PERIC;Mexico;172.8;1;0.0001
+Flotemysost;Norway;QUEDE;Brazil;172.0;1;0.0001
+Zaanse koeken;Netherlands;BOTTM;Canada;171.0;1;0.0001
+Tunnbröd;Sweden;OTTIK;Germany;171.0;1;0.0001
+Sirop d'érable;Canada;OLDWO;USA;171.0;1;0.0001
+Tourtière;Canada;KOENE;Germany;169.86;1;0.0001
+Outback Lager;Australia;WANDK;Germany;168.75;1;0.0001
+Queso Cabrales;Spain;VINET;France;168.0;1;0.0001
+Queso Cabrales;Spain;COMMI;Brazil;168.0;1;0.0001
+Konbu;Japan;WARTH;Finland;168.0;2;0.0001
+Filo Mix;Australia;OLDWO;USA;168.0;1;0.0001
+Tofu;Japan;TOMSP;Germany;167.4;1;0.0001
+Tofu;Japan;KOENE;Germany;167.4;1;0.0001
+Boston Crab Meat;USA;ANTON;Mexico;165.6;1;0.0001
+Tourtière;Canada;BLONP;France;165.20000000000002;1;0.0001
+Guaraná Fantástica;Brazil;HILAA;Venezuela;164.25;3;0.0001
+Perth Pasties;Australia;SANTG;Norway;164.0;1;0.0001
+Chef Anton's Gumbo Mix;USA;RATTC;USA;163.20000000000002;1;0.0001
+Rhönbräu Klosterbier;Germany;LETSS;USA;162.75;1;0.0001
+Chocolade;Netherlands;ANTON;Mexico;162.5625;1;0.0001
+Tunnbröd;Sweden;LINOD;Venezuela;162.0;1;0.0001
+Lakkalikööri;Finland;FURIB;Portugal;162.0;1;0.0001
+Chang;UK;MAGAA;Italy;161.5;1;0.0001
+Sir Rodney's Scones;UK;QUEDE;Brazil;160.0;1;0.0001
+Konbu;Japan;KOENE;Germany;159.6;2;0.0001
+Manjimup Dried Apples;Australia;VICTE;France;159.0;1;0.0001
+Manjimup Dried Apples;Australia;FRANR;France;159.0;1;0.0001
+Escargots de Bourgogne;France;WOLZA;Poland;159.0;1;0.0001
+Scottish Longbreads;UK;FOLKO;Sweden;157.5;1;0.0001
+Guaraná Fantástica;Brazil;QUEEN;Brazil;157.5;1;0.0001
+Nord-Ost Matjeshering;Germany;SPLIR;USA;157.32;1;0.0001
+Sasquatch Ale;USA;ISLAT;UK;156.79999999999998;1;0.0001
+Gumbär Gummibärchen;Germany;LACOR;France;156.15;1;0.0001
+Spegesild;Denmark;COMMI;Brazil;156.0;2;0.0001
+Original Frankfurter grüne Soße;Germany;HILAA;Venezuela;156.0;1;0.0001
+Scottish Longbreads;UK;LONEP;USA;155.0;2;0.0001
+Rhönbräu Klosterbier;Germany;LEHMS;Germany;155.0;1;0.0001
+Rhönbräu Klosterbier;Germany;CACTU;Argentina;155.0;1;0.0001
+Rhönbräu Klosterbier;Germany;HUNGO;Ireland;155.0;1;0.0001
+Rhönbräu Klosterbier;Germany;TRAIH;USA;155.0;1;0.0001
+Ikura;Japan;GALED;Spain;155.0;1;0.0001
+Genen Shouyu;Japan;LETSS;USA;155.0;1;0.0001
+Jack's New England Clam Chowder;USA;REGGC;Italy;154.4;1;0.0001
+Jack's New England Clam Chowder;USA;BOTTM;Canada;154.0;1;0.0001
+Jack's New England Clam Chowder;USA;ISLAT;UK;154.0;1;0.0001
+Jack's New England Clam Chowder;USA;LAUGB;Canada;154.0;1;0.0001
+Teatime Chocolate Biscuits;UK;SUPRD;Belgium;153.29999999999998;1;0.0001
+Queso Manchego La Pastora;Spain;WILMK;Finland;152.0;1;0.0001
+Gnocchi di nonna Alice;Italy;GALED;Spain;152.0;1;0.0001
+Chang;UK;GOURL;Brazil;152.0;1;0.0001
+Chang;UK;CONSH;UK;152.0;1;0.0001
+Tunnbröd;Sweden;CONSH;UK;151.20000000000002;1;0.0001
+Uncle Bob's Organic Dried Pears;USA;LACOR;France;150.0;1;0.0001
+Röd Kaviar;Sweden;CACTU;Argentina;150.0;1;0.0001
+Grandma's Boysenberry Spread;USA;TRADH;Brazil;150.0;1;0.0001
+Geitost;Norway;SAVEA;USA;150.0;3;0.0001
+Gumbär Gummibärchen;Germany;RANCH;Argentina;149.39999999999998;1;0.0001
+Tourtière;Canada;BLAUS;Germany;149.0;1;0.0001
+Guaraná Fantástica;Brazil;FRANK;Germany;148.5;2;0.0001
+Gumbär Gummibärchen;Germany;LEHMS;Germany;148.3425;1;0.0001
+Boston Crab Meat;USA;WANDK;Germany;147.0;1;0.0001
+Boston Crab Meat;USA;LAZYK;USA;147.0;1;0.0001
+Boston Crab Meat;USA;BSBEV;UK;147.0;1;0.0001
+Camembert Pierrot;France;HUNGO;Ireland;146.88;1;0.0001
+Valkoinen suklaa;Finland;GODOS;Spain;146.25;1;0.0001
+Teatime Chocolate Biscuits;UK;WARTH;Finland;146.0;1;0.0001
+Rössle Sauerkraut;Germany;WANDK;Germany;145.6;1;0.0001
+Steeleye Stout;USA;ISLAT;UK;144.0;1;0.0001
+Steeleye Stout;USA;SANTG;Norway;144.0;1;0.0001
+Pâté chinois;Canada;LAMAI;France;144.0;1;0.0001
+Pâté chinois;Canada;FAMIA;Brazil;144.0;1;0.0001
+Outback Lager;Australia;HILAA;Venezuela;144.0;1;0.0001
+Outback Lager;Australia;REGGC;Italy;144.0;1;0.0001
+Chartreuse verte;France;LINOD;Venezuela;144.0;1;0.0001
+Chai;UK;GREAL;USA;144.0;1;0.0001
+Chai;UK;NORTS;UK;144.0;1;0.0001
+Chai;UK;QUEEN;Brazil;144.0;1;0.0001
+Zaanse koeken;Netherlands;GOURL;Brazil;142.5;1;0.0001
+Zaanse koeken;Netherlands;WELLI;Brazil;142.5;1;0.0001
+Sirop d'érable;Canada;MEREP;Canada;142.5;1;0.0001
+Sirop d'érable;Canada;WILMK;Finland;142.5;1;0.0001
+Rogede sild;Denmark;MAISD;Belgium;142.5;1;0.0001
+Guaraná Fantástica;Brazil;MAGAA;Italy;141.84;2;0.0001
+Sasquatch Ale;USA;DUMON;France;140.0;1;0.0001
+Sasquatch Ale;USA;THEBI;USA;140.0;1;0.0001
+Gorgonzola Telino;Italy;GOURL;Brazil;140.0;1;0.0001
+Filo Mix;Australia;WELLI;Brazil;140.0;1;0.0001
+Aniseed Syrup;UK;VAFFE;Denmark;140.0;1;0.0001
+Rhönbräu Klosterbier;Germany;BONAP;France;139.5;1;0.0001
+Pavlova;Australia;THEBI;USA;139.0;1;0.0001
+Konbu;Japan;BSBEV;UK;138.0;2;0.0001
+Chocolade;Netherlands;AROUT;UK;137.70000000000002;1;0.0001
+Rössle Sauerkraut;Germany;BLAUS;Germany;136.8;1;0.0001
+Rössle Sauerkraut;Germany;WILMK;Finland;136.8;1;0.0001
+Camembert Pierrot;France;FRANS;Italy;136.0;1;0.0001
+Camembert Pierrot;France;PERIC;Mexico;136.0;1;0.0001
+Geitost;Norway;BOTTM;Canada;135.5;2;0.0001
+Escargots de Bourgogne;France;HILAA;Venezuela;135.15;1;0.0001
+Jack's New England Clam Chowder;USA;AROUT;UK;135.1;1;0.0001
+Jack's New England Clam Chowder;USA;DUMON;France;135.1;1;0.0001
+Jack's New England Clam Chowder;USA;TOMSP;Germany;135.1;1;0.0001
+Tunnbröd;Sweden;ISLAT;UK;135.0;2;0.0001
+Sir Rodney's Scones;UK;OLDWO;USA;135.0;1;0.0001
+Outback Lager;Australia;NORTS;UK;135.0;2;0.0001
+NuNuCa Nuß-Nougat-Creme;Germany;MAGAA;Italy;134.39999999999998;1;0.0001
+Rhönbräu Klosterbier;Germany;BLONP;France;133.92000000000002;1;0.0001
+Zaanse koeken;Netherlands;BLAUS;Germany;133.0;1;0.0001
+NuNuCa Nuß-Nougat-Creme;Germany;RICAR;Brazil;133.0;1;0.0001
+Rhönbräu Klosterbier;Germany;GOURL;Brazil;131.75;1;0.0001
+Teatime Chocolate Biscuits;UK;LILAS;Venezuela;131.4;1;0.0001
+Original Frankfurter grüne Soße;Germany;FRANS;Italy;130.0;1;0.0001
+Konbu;Japan;DRACD;Germany;128.39999999999998;2;0.0001
+Mascarpone Fabioli;Italy;HILAA;Venezuela;128.0;1;0.0001
+Longlife Tofu;Japan;HILAA;Venezuela;128.0;1;0.0001
+Manjimup Dried Apples;Australia;BSBEV;UK;127.19999999999999;1;0.0001
+NuNuCa Nuß-Nougat-Creme;Germany;MAISD;Belgium;126.0;1;0.0001
+Gustaf's Knäckebröd;Sweden;FOLIG;France;126.0;1;0.0001
+Guaraná Fantástica;Brazil;PICCO;Austria;126.0;1;0.0001
+Filo Mix;Australia;VINET;France;126.0;1;0.0001
+Gorgonzola Telino;Italy;MORGK;Germany;125.0;1;0.0001
+Teatime Chocolate Biscuits;UK;FAMIA;Brazil;124.83;1;0.0001
+Original Frankfurter grüne Soße;Germany;WELLI;Brazil;124.80000000000001;1;0.0001
+Scottish Longbreads;UK;SPLIR;USA;124.0;2;0.0001
+Mascarpone Fabioli;Italy;ERNSH;Austria;122.88000000000002;1;0.0001
+Louisiana Hot Spiced Okra;USA;LAMAI;France;122.4;1;0.0001
+Chartreuse verte;France;LILAS;Venezuela;122.39999999999999;1;0.0001
+Queso Manchego La Pastora;Spain;GOURL;Brazil;121.60000000000001;1;0.0001
+Gnocchi di nonna Alice;Italy;VINET;France;121.6;1;0.0001
+Guaraná Fantástica;Brazil;KOENE;Germany;121.5;2;0.0001
+Outback Lager;Australia;WELLI;Brazil;120.15;2;0.0001
+Pâté chinois;Canada;WILMK;Finland;120.0;1;0.0001
+Maxilaku;Finland;BSBEV;UK;120.0;1;0.0001
+Longlife Tofu;Japan;QUICK;Germany;120.0;1;0.0001
+Konbu;Japan;MORGK;Germany;120.0;1;0.0001
+Konbu;Japan;BONAP;France;120.0;1;0.0001
+Grandma's Boysenberry Spread;USA;KOENE;Germany;120.0;1;0.0001
+Geitost;Norway;ERNSH;Austria;120.0;1;0.0001
+Escargots de Bourgogne;France;SAVEA;USA;119.25;1;0.0001
+Ravioli Angelo;Italy;BSBEV;UK;117.0;1;0.0001
+Filo Mix;Australia;REGGC;Italy;116.89999999999999;2;0.0001
+Jack's New England Clam Chowder;USA;VINET;France;115.80000000000001;1;0.0001
+Jack's New England Clam Chowder;USA;FAMIA;Brazil;115.80000000000001;1;0.0001
+Steeleye Stout;USA;BERGS;Sweden;115.2;1;0.0001
+Zaanse koeken;Netherlands;MORGK;Germany;114.0;1;0.0001
+Sirop d'érable;Canada;BLAUS;Germany;114.0;1;0.0001
+Sirop d'érable;Canada;COMMI;Brazil;114.0;1;0.0001
+Inlagd Sill;Sweden;VINET;France;114.0;1;0.0001
+Longlife Tofu;Japan;VICTE;France;112.5;1;0.0001
+Singaporean Hokkien Fried Mee;Singapore;LAMAI;France;112.0;1;0.0001
+Sasquatch Ale;USA;FAMIA;Brazil;112.0;1;0.0001
+NuNuCa Nuß-Nougat-Creme;Germany;FAMIA;Brazil;112.0;1;0.0001
+NuNuCa Nuß-Nougat-Creme;Germany;LAMAI;France;112.0;1;0.0001
+Longlife Tofu;Japan;LILAS;Venezuela;112.0;1;0.0001
+Filo Mix;Australia;PERIC;Mexico;112.0;1;0.0001
+Filo Mix;Australia;BLONP;France;112.0;1;0.0001
+Tourtière;Canada;LILAS;Venezuela;111.75;1;0.0001
+Mozzarella di Giovanni;Italy;GROSR;Venezuela;111.2;1;0.0001
+Teatime Chocolate Biscuits;UK;WILMK;Finland;110.39999999999999;1;0.0001
+Ipoh Coffee;Singapore;FURIB;Portugal;110.39999999999999;1;0.0001
+Jack's New England Clam Chowder;USA;BLONP;France;110.01;1;0.0001
+Raclette Courdavault;France;OCEAN;Argentina;110.0;1;0.0001
+Rhönbräu Klosterbier;Germany;SPECD;France;108.5;1;0.0001
+Tunnbröd;Sweden;BONAP;France;108.0;1;0.0001
+Steeleye Stout;USA;WARTH;Finland;108.0;1;0.0001
+Lakkalikööri;Finland;MAISD;Belgium;108.0;1;0.0001
+Gudbrandsdalsost;Norway;NORTS;UK;108.0;1;0.0001
+Chai;UK;WOLZA;Poland;108.0;1;0.0001
+Sasquatch Ale;USA;LAMAI;France;106.39999999999999;1;0.0001
+Tourtière;Canada;QUEEN;Brazil;106.20000000000002;1;0.0001
+Manjimup Dried Apples;Australia;WOLZA;Poland;106.0;1;0.0001
+Jack's New England Clam Chowder;USA;RATTC;USA;105.95;2;0.0001
+Queso Cabrales;Spain;EASTC;UK;105.0;1;0.0001
+Outback Lager;Australia;BSBEV;UK;105.0;1;0.0001
+Filo Mix;Australia;LILAS;Venezuela;105.0;1;0.0001
+Pavlova;Australia;RANCH;Argentina;104.69999999999999;1;0.0001
+Original Frankfurter grüne Soße;Germany;COMMI;Brazil;104.0;1;0.0001
+Flotemysost;Norway;FOLKO;Sweden;103.19999999999999;1;0.0001
+Guaraná Fantástica;Brazil;RATTC;USA;101.25;1;0.0001
+Guaraná Fantástica;Brazil;MEREP;Canada;101.25;1;0.0001
+Guaraná Fantástica;Brazil;BOTTM;Canada;101.25;1;0.0001
+Gorgonzola Telino;Italy;OTTIK;Germany;101.25;1;0.0001
+Tourtière;Canada;FURIB;Portugal;100.3;1;0.0001
+Scottish Longbreads;UK;VICTE;France;100.0;1;0.0001
+Scottish Longbreads;UK;FURIB;Portugal;100.0;1;0.0001
+Gorgonzola Telino;Italy;PICCO;Austria;100.0;1;0.0001
+Geitost;Norway;FAMIA;Brazil;100.0;1;0.0001
+Wimmers gute Semmelknödel;Germany;LAMAI;France;99.75;1;0.0001
+Filo Mix;Australia;VAFFE;Denmark;99.75;1;0.0001
+Gula Malacca;Singapore;MAISD;Belgium;99.195;1;0.0001
+Tarte au sucre;Canada;ISLAT;UK;98.6;1;0.0001
+Perth Pasties;Australia;LONEP;USA;98.39999999999999;1;0.0001
+Singaporean Hokkien Fried Mee;Singapore;VINET;France;98.0;1;0.0001
+Laughing Lumberjack Lager;USA;LONEP;USA;98.0;1;0.0001
+Zaanse koeken;Netherlands;MEREP;Canada;97.28;1;0.0001
+Jack's New England Clam Chowder;USA;CACTU;Argentina;96.5;1;0.0001
+Sir Rodney's Scones;UK;OCEAN;Argentina;96.0;1;0.0001
+Konbu;Japan;AROUT;UK;96.0;1;0.0001
+Gustaf's Knäckebröd;Sweden;VICTE;France;95.76;1;0.0001
+Inlagd Sill;Sweden;THEBI;USA;95.0;1;0.0001
+Jack's New England Clam Chowder;USA;QUEDE;Brazil;94.04;2;0.0001
+Guaraná Fantástica;Brazil;FAMIA;Brazil;92.25;2;0.0001
+Teatime Chocolate Biscuits;UK;GODOS;Spain;92.0;1;0.0001
+Geitost;Norway;ANTON;Mexico;92.0;2;0.0001
+Spegesild;Denmark;FAMIA;Brazil;91.8;1;0.0001
+Rogede sild;Denmark;SEVES;UK;91.2;1;0.0001
+Tunnbröd;Sweden;ROMEY;Spain;90.0;1;0.0001
+Outback Lager;Australia;TRAIH;USA;90.0;1;0.0001
+Lakkalikööri;Finland;GALED;Spain;90.0;1;0.0001
+Guaraná Fantástica;Brazil;WILMK;Finland;90.0;1;0.0001
+Guaraná Fantástica;Brazil;PERIC;Mexico;90.0;1;0.0001
+Guaraná Fantástica;Brazil;SANTG;Norway;90.0;2;0.0001
+Guaraná Fantástica;Brazil;AROUT;UK;90.0;1;0.0001
+Guaraná Fantástica;Brazil;FOLIG;France;90.0;1;0.0001
+Chartreuse verte;France;BLAUS;Germany;90.0;1;0.0001
+Singaporean Hokkien Fried Mee;Singapore;MEREP;Canada;89.60000000000001;1;0.0001
+Filo Mix;Australia;SEVES;UK;89.60000000000001;1;0.0001
+Tourtière;Canada;HUNGC;USA;88.8;2;0.0001
+Jack's New England Clam Chowder;USA;BONAP;France;87.78;1;0.0001
+Ravioli Angelo;Italy;ANTON;Mexico;87.75;1;0.0001
+Jack's New England Clam Chowder;USA;DRACD;Germany;86.85000000000001;1;0.0001
+Chocolade;Netherlands;VICTE;France;86.7;1;0.0001
+Konbu;Japan;QUEDE;Brazil;86.4;1;0.0001
+Chartreuse verte;France;HILAA;Venezuela;86.4;1;0.0001
+Chef Anton's Gumbo Mix;USA;THEBI;USA;85.4;1;0.0001
+Singaporean Hokkien Fried Mee;Singapore;WILMK;Finland;84.0;1;0.0001
+Queso Cabrales;Spain;HILAA;Venezuela;84.0;1;0.0001
+Louisiana Fiery Hot Pepper Sauce;USA;GALED;Spain;84.0;1;0.0001
+Gustaf's Knäckebröd;Sweden;AROUT;UK;84.0;1;0.0001
+Teatime Chocolate Biscuits;UK;WANDK;Germany;82.8;1;0.0001
+Queso Cabrales;Spain;REGGC;Italy;80.64000000000001;1;0.0001
+Sir Rodney's Scones;UK;CENTC;Mexico;80.0;1;0.0001
+Escargots de Bourgogne;France;WARTH;Finland;79.5;1;0.0001
+Queso Cabrales;Spain;BOTTM;Canada;78.75;1;0.0001
+Ravioli Angelo;Italy;BLAUS;Germany;78.0;1;0.0001
+Rhönbräu Klosterbier;Germany;LACOR;France;77.5;1;0.0001
+Rhönbräu Klosterbier;Germany;GROSR;Venezuela;77.5;1;0.0001
+Rhönbräu Klosterbier;Germany;BOTTM;Canada;77.5;1;0.0001
+Jack's New England Clam Chowder;USA;HANAR;Brazil;77.0;1;0.0001
+Spegesild;Denmark;LAMAI;France;76.80000000000001;1;0.0001
+Uncle Bob's Organic Dried Pears;USA;GOURL;Brazil;76.5;1;0.0001
+Manjimup Dried Apples;Australia;QUEDE;Brazil;76.32;1;0.0001
+Filo Mix;Australia;TOMSP;Germany;75.60000000000001;1;0.0001
+Scottish Longbreads;UK;CACTU;Argentina;75.0;1;0.0001
+Outback Lager;Australia;LAUGB;Canada;75.0;1;0.0001
+Geitost;Norway;LEHMS;Germany;75.0;1;0.0001
+Geitost;Norway;EASTC;UK;75.0;1;0.0001
+Geitost;Norway;QUEEN;Brazil;75.0;1;0.0001
+Geitost;Norway;TORTU;Mexico;75.0;1;0.0001
+Tourtière;Canada;SUPRD;Belgium;74.5;1;0.0001
+Tourtière;Canada;TORTU;Mexico;74.5;1;0.0001
+Rhönbräu Klosterbier;Germany;DRACD;Germany;74.4;1;0.0001
+Geitost;Norway;QUICK;Germany;74.0;2;0.0001
+Boston Crab Meat;USA;SUPRD;Belgium;73.60000000000001;1;0.0001
+Queso Manchego La Pastora;Spain;RATTC;USA;72.2;1;0.0001
+Tunnbröd;Sweden;LAUGB;Canada;72.0;1;0.0001
+Steeleye Stout;USA;GREAL;USA;72.0;1;0.0001
+Steeleye Stout;USA;AROUT;UK;72.0;1;0.0001
+Sir Rodney's Scones;UK;WARTH;Finland;72.0;1;0.0001
+Northwoods Cranberry Sauce;USA;RATTC;USA;72.0;1;0.0001
+Chai;UK;THECR;USA;72.0;1;0.0001
+Filo Mix;Australia;HANAR;Brazil;71.39999999999999;1;0.0001
+Guaraná Fantástica;Brazil;LAMAI;France;70.19999999999999;2;0.0001
+Singaporean Hokkien Fried Mee;Singapore;ANATR;Mexico;70.0;1;0.0001
+NuNuCa Nuß-Nougat-Creme;Germany;GALED;Spain;70.0;1;0.0001
+NuNuCa Nuß-Nougat-Creme;Germany;LAUGB;Canada;70.0;1;0.0001
+Filo Mix;Australia;THECR;USA;70.0;1;0.0001
+Tofu;Japan;ANATR;Mexico;69.75;1;0.0001
+Mozzarella di Giovanni;Italy;THEBI;USA;69.6;1;0.0001
+Teatime Chocolate Biscuits;UK;SPLIR;USA;69.35;1;0.0001
+Teatime Chocolate Biscuits;UK;BONAP;France;69.0;1;0.0001
+Chocolade;Netherlands;FURIB;Portugal;68.85000000000001;1;0.0001
+Inlagd Sill;Sweden;QUEEN;Brazil;68.4;1;0.0001
+Maxilaku;Finland;SEVES;UK;68.0;1;0.0001
+Louisiana Hot Spiced Okra;USA;ANTON;Mexico;68.0;1;0.0001
+Singaporean Hokkien Fried Mee;Singapore;DUMON;France;67.19999999999999;1;0.0001
+Perth Pasties;Australia;ISLAT;UK;65.6;1;0.0001
+Guaraná Fantástica;Brazil;TOMSP;Germany;64.8;1;0.0001
+Teatime Chocolate Biscuits;UK;TORTU;Mexico;64.39999999999999;1;0.0001
+Teatime Chocolate Biscuits;UK;ANATR;Mexico;64.39999999999999;1;0.0001
+Guaraná Fantástica;Brazil;BERGS;Sweden;63.45;2;0.0001
+Queso Cabrales;Spain;GREAL;USA;63.0;1;0.0
+Filo Mix;Australia;DUMON;France;63.0;1;0.0
+Tofu;Japan;GREAL;USA;62.775;1;0.0
+Alice Mutton;Australia;HUNGC;USA;62.4;1;0.0
+Rhönbräu Klosterbier;Germany;WANDK;Germany;62.0;1;0.0
+Rhönbräu Klosterbier;Germany;PERIC;Mexico;62.0;1;0.0
+Genen Shouyu;Japan;KOENE;Germany;62.0;1;0.0
+Original Frankfurter grüne Soße;Germany;FURIB;Portugal;61.879999999999995;1;0.0
+Sir Rodney's Scones;UK;DUMON;France;60.0;1;0.0
+Outback Lager;Australia;LACOR;France;60.0;1;0.0
+Outback Lager;Australia;ANATR;Mexico;60.0;1;0.0
+Outback Lager;Australia;GODOS;Spain;60.0;1;0.0
+Konbu;Japan;OTTIK;Germany;60.0;1;0.0
+Konbu;Japan;ANATR;Mexico;60.0;1;0.0
+Konbu;Japan;ISLAT;UK;60.0;1;0.0
+Aniseed Syrup;UK;ALFKI;Germany;60.0;1;0.0
+Tourtière;Canada;LEHMS;Germany;59.6;1;0.0
+NuNuCa Nuß-Nougat-Creme;Germany;SAVEA;USA;58.8;1;0.0
+Boston Crab Meat;USA;FAMIA;Brazil;58.8;1;0.0
+Guaraná Fantástica;Brazil;TORTU;Mexico;58.5;2;0.0
+Nord-Ost Matjeshering;Germany;LETSS;USA;58.2525;1;0.0
+Jack's New England Clam Chowder;USA;LACOR;France;57.900000000000006;1;0.0
+Steeleye Stout;USA;ROMEY;Spain;57.6;1;0.0
+Chartreuse verte;France;KOENE;Germany;57.6;1;0.0
+Guaraná Fantástica;Brazil;RICAR;Brazil;57.375;1;0.0
+Konbu;Japan;LILAS;Venezuela;57.0;1;0.0
+Singaporean Hokkien Fried Mee;Singapore;ROMEY;Spain;56.0;1;0.0
+Filo Mix;Australia;LEHMS;Germany;56.0;1;0.0
+Rhönbräu Klosterbier;Germany;LAMAI;France;55.800000000000004;1;0.0
+Boston Crab Meat;USA;MAGAA;Italy;55.199999999999996;1;0.0
+Jack's New England Clam Chowder;USA;RICSU;Switzerland;55.005;1;0.0
+Raclette Courdavault;France;LONEP;USA;55.0;1;0.0
+Tunnbröd;Sweden;WELLI;Brazil;54.0;1;0.0
+Steeleye Stout;USA;WOLZA;Poland;54.0;1;0.0
+Steeleye Stout;USA;CACTU;Argentina;54.0;1;0.0
+Sir Rodney's Scones;UK;GODOS;Spain;54.0;1;0.0
+Guaraná Fantástica;Brazil;WOLZA;Poland;54.0;1;0.0
+Guaraná Fantástica;Brazil;GODOS;Spain;54.0;1;0.0
+Guaraná Fantástica;Brazil;SUPRD;Belgium;54.0;1;0.0
+Chai;UK;DUMON;France;54.0;1;0.0
+Tourtière;Canada;REGGC;Italy;53.1;1;0.0
+Pavlova;Australia;SPECD;France;52.349999999999994;1;0.0
+Pavlova;Australia;WILMK;Finland;52.349999999999994;1;0.0
+Jack's New England Clam Chowder;USA;SEVES;UK;52.11000000000001;1;0.0
+Original Frankfurter grüne Soße;Germany;GALED;Spain;52.0;1;0.0
+Original Frankfurter grüne Soße;Germany;LAUGB;Canada;52.0;1;0.0
+Zaanse koeken;Netherlands;GREAL;USA;51.300000000000004;1;0.0
+Sir Rodney's Scones;UK;RANCH;Argentina;50.0;1;0.0
+Longlife Tofu;Japan;FRANS;Italy;50.0;1;0.0
+Gumbär Gummibärchen;Germany;FRANS;Italy;49.8;1;0.0
+Zaanse koeken;Netherlands;FAMIA;Brazil;48.449999999999996;1;0.0
+Jack's New England Clam Chowder;USA;SANTG;Norway;48.25;1;0.0
+Spegesild;Denmark;BLONP;France;48.0;1;0.0
+Konbu;Japan;TORTU;Mexico;48.0;1;0.0
+Konbu;Japan;HUNGC;USA;48.0;1;0.0
+Geitost;Norway;SPLIR;USA;48.0;1;0.0
+Zaanse koeken;Netherlands;GALED;Spain;47.5;1;0.0
+Zaanse koeken;Netherlands;FRANS;Italy;47.5;1;0.0
+Geitost;Norway;WANDK;Germany;47.5;1;0.0
+Geitost;Norway;SUPRD;Belgium;47.5;1;0.0
+Tourtière;Canada;SEVES;UK;46.935;1;0.0
+Teatime Chocolate Biscuits;UK;FRANS;Italy;46.0;1;0.0
+Teatime Chocolate Biscuits;UK;ISLAT;UK;46.0;1;0.0
+Guaraná Fantástica;Brazil;CHOPS;Switzerland;45.9;1;0.0
+Röd Kaviar;Sweden;AROUT;UK;45.0;1;0.0
+Guaraná Fantástica;Brazil;REGGC;Italy;45.0;1;0.0
+Geitost;Norway;REGGC;Italy;45.0;1;0.0
+Filo Mix;Australia;VICTE;France;44.8;1;0.0
+Chartreuse verte;France;HUNGO;Ireland;43.2;1;0.0
+Queso Cabrales;Spain;ANATR;Mexico;42.0;1;0.0
+Laughing Lumberjack Lager;USA;LEHMS;Germany;42.0;1;0.0
+Laughing Lumberjack Lager;USA;THECR;USA;42.0;1;0.0
+Konbu;Japan;LAUGB;Canada;42.0;1;0.0
+Filo Mix;Australia;NORTS;UK;42.0;1;0.0
+Maxilaku;Finland;RANCH;Argentina;40.0;1;0.0
+Gorgonzola Telino;Italy;KOENE;Germany;40.0;1;0.0
+Geitost;Norway;HUNGC;USA;40.0;1;0.0
+Aniseed Syrup;UK;RATTC;USA;40.0;1;0.0
+Filo Mix;Australia;QUEEN;Brazil;39.9;1;0.0
+Jack's New England Clam Chowder;USA;GOURL;Brazil;38.6;1;0.0
+Scottish Longbreads;UK;LEHMS;Germany;38.0;1;0.0
+Rogede sild;Denmark;FRANS;Italy;38.0;1;0.0
+Geitost;Norway;BSBEV;UK;37.5;1;0.0
+Rhönbräu Klosterbier;Germany;TORTU;Mexico;37.2;1;0.0
+Boston Crab Meat;USA;TRAIH;USA;36.8;1;0.0
+Teatime Chocolate Biscuits;UK;QUEEN;Brazil;36.5;1;0.0
+Pâté chinois;Canada;HILAA;Venezuela;36.48;1;0.0
+Spegesild;Denmark;RANCH;Argentina;36.0;1;0.0
+Konbu;Japan;BERGS;Sweden;36.0;1;0.0
+Konbu;Japan;CHOPS;Switzerland;36.0;1;0.0
+Guaraná Fantástica;Brazil;FURIB;Portugal;36.0;1;0.0
+Guaraná Fantástica;Brazil;LONEP;USA;36.0;1;0.0
+Chai;UK;WILMK;Finland;36.0;1;0.0
+Tourtière;Canada;QUEDE;Brazil;35.760000000000005;1;0.0
+Gorgonzola Telino;Italy;BONAP;France;35.625;1;0.0
+Geitost;Norway;RICSU;Switzerland;35.625;1;0.0
+Tourtière;Canada;FOLIG;France;35.400000000000006;1;0.0
+Spegesild;Denmark;RATTC;USA;35.28;1;0.0
+Geitost;Norway;TRAIH;USA;35.0;1;0.0
+Filo Mix;Australia;LAUGB;Canada;35.0;1;0.0
+Filo Mix;Australia;LACOR;France;35.0;1;0.0
+Mozzarella di Giovanni;Italy;BSBEV;UK;34.8;1;0.0
+Flotemysost;Norway;RICAR;Brazil;34.4;1;0.0
+Flotemysost;Norway;TORTU;Mexico;34.4;1;0.0
+Chartreuse verte;France;RATTC;USA;34.199999999999996;1;0.0
+Pavlova;Australia;RATTC;USA;33.852999999999994;1;0.0
+Geitost;Norway;LAMAI;France;32.0;1;0.0
+Ravioli Angelo;Italy;ROMEY;Spain;31.2;1;0.0
+Ikura;Japan;RATTC;USA;31.0;1;0.0
+Lakkalikööri;Finland;RICSU;Switzerland;30.599999999999998;1;0.0
+Chartreuse verte;France;MAGAA;Italy;30.599999999999998;1;0.0
+Konbu;Japan;OCEAN;Argentina;30.0;1;0.0
+Röd Kaviar;Sweden;RATTC;USA;29.7;1;0.0
+Tourtière;Canada;ROMEY;Spain;29.5;1;0.0
+Gudbrandsdalsost;Norway;ANATR;Mexico;28.8;1;0.0
+Tourtière;Canada;VICTE;France;28.320000000000007;1;0.0
+Filo Mix;Australia;FAMIA;Brazil;28.0;1;0.0
+Scottish Longbreads;UK;REGGC;Italy;27.0;1;0.0
+Gorgonzola Telino;Italy;TOMSP;Germany;27.0;1;0.0
+Gula Malacca;Singapore;WHITC;USA;26.349999999999998;1;0.0
+Scottish Longbreads;UK;ROMEY;Spain;25.0;1;0.0
+Geitost;Norway;CACTU;Argentina;25.0;1;0.0
+Grandma's Boysenberry Spread;USA;RATTC;USA;24.5;1;0.0
+Konbu;Japan;VINET;France;24.0;1;0.0
+Konbu;Japan;RATTC;USA;24.0;1;0.0
+Geitost;Norway;ISLAT;UK;24.0;1;0.0
+Original Frankfurter grüne Soße;Germany;LETSS;USA;23.400000000000002;1;0.0
+Tofu;Japan;RATTC;USA;22.5525;1;0.0
+Guaraná Fantástica;Brazil;LAUGB;Canada;22.5;1;0.0
+Tourtière;Canada;WOLZA;Poland;22.35;1;0.0
+Guaraná Fantástica;Brazil;ROMEY;Spain;21.6;1;0.0
+Original Frankfurter grüne Soße;Germany;ALFKI;Germany;20.8;1;0.0
+Gravad lax;Sweden;CENTC;Mexico;20.8;1;0.0
+Gorgonzola Telino;Italy;FOLKO;Sweden;18.75;1;0.0
+Teatime Chocolate Biscuits;UK;SANTG;Norway;18.4;1;0.0
+Boston Crab Meat;USA;FRANS;Italy;18.4;1;0.0
+Tunnbröd;Sweden;RATTC;USA;18.0;1;0.0
+Spegesild;Denmark;ALFKI;Germany;18.0;1;0.0
+Tourtière;Canada;WARTH;Finland;17.880000000000003;1;0.0
+Geitost;Norway;LACOR;France;17.5;1;0.0
+Louisiana Hot Spiced Okra;USA;RATTC;USA;17.0;1;0.0
+Geitost;Norway;SIMOB;Denmark;16.0;1;0.0
+Geitost;Norway;GREAL;USA;16.0;1;0.0
+Rhönbräu Klosterbier;Germany;FOLIG;France;15.5;1;0.0
+Konbu;Japan;LAMAI;France;14.4;1;0.0
+Spegesild;Denmark;SIMOB;Denmark;14.399999999999999;1;0.0
+Filo Mix;Australia;SUPRD;Belgium;14.0;1;0.0
+Filo Mix;Australia;RATTC;USA;14.0;1;0.0
+Gorgonzola Telino;Italy;CACTU;Argentina;12.5;1;0.0
+Konbu;Japan;WELLI;Brazil;8.64;1;0.0
+Geitost;Norway;VICTE;France;8.5;1;0.0
+Teatime Chocolate Biscuits;UK;ROMEY;Spain;7.3;1;0.0
+Konbu;Japan;CONSH;UK;4.8;1;0.0

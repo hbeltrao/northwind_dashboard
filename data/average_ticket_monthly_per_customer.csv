@@ -1,0 +1,637 @@
+year_months;company_name;average_ticket;orders
+199607;Blondesddsl père et fils;1176.0;1
+199607;Centro comercial Moctezuma;100.8;1
+199607;Chop-suey Chinese;556.62;1
+199607;Ernst Handel;1744.34;2
+199607;Folk och fä HB;695.62;1
+199607;Frankenversand;3536.6;1
+199607;GROSELLA-Restaurante;1101.2;1
+199607;Hanari Carnes;1498.7;2
+199607;HILARION-Abastos;1119.9;1
+199607;Ottilies Käseladen;1504.65;1
+199607;Que Delícia;448.0;1
+199607;Rattlesnake Canyon Grocery;584.0;1
+199607;Richter Supermarkt;2490.5;1
+199607;Suprêmes délices;3597.9;1
+199607;Toms Spezialitäten;1863.4;1
+199607;Victuailles en stock;654.06;1
+199607;Vins et alcools Chevalier;440.0;1
+199607;Wartian Herkku;346.56;1
+199607;Wellington Importadora;517.8;1
+199607;White Clover Markets;642.2;1
+199608;B's Beverages;479.4;1
+199608;Berglunds snabbköp;1051.0;2
+199608;Comércio Mineiro;2169.0;1
+199608;Lehmanns Marktstand;760.69;2
+199608;LILA-Supermercado;1414.8;1
+199608;Magazzini Alimentari Riuniti;291.84;1
+199608;Morgenstern Gesundkost;1200.8;1
+199608;Que Delícia;497.52;1
+199608;QUICK-Stop;2265.55;3
+199608;Rattlesnake Canyon Grocery;1671.8;2
+199608;Reggiani Caseifici;80.1;1
+199608;Ricardo Adocicados;819.0;1
+199608;Romero y tomillo;120.95;2
+199608;Split Rail Beer & Ale;48.0;1
+199608;Tortuga Restaurante;634.35;2
+199608;Tradição Hipermercados;1296.0;1
+199608;Vins et alcools Chevalier;538.6;1
+199608;Wartian Herkku;1376.0;1
+199609;Ana Trujillo Emparedados y helados;88.8;1
+199609;Blondesddsl père et fils;1420.0;1
+199609;Die Wandernde Kuh;1184.9;2
+199609;Du monde entier;268.8;1
+199609;Godos Cocina Típica;1117.8;1
+199609;Hungry Owl All-Night Grocers;2203.5;2
+199609;Island Trading;516.8;1
+199609;LILA-Supermercado;1050.6;1
+199609;Lonesome Pine Restaurant;356.0;2
+199609;Magazzini Alimentari Riuniti;608.0;1
+199609;Old World Delicatessen;3741.3;1
+199609;QUICK-Stop;182.4;1
+199609;Rattlesnake Canyon Grocery;2464.65;2
+199609;Ricardo Adocicados;349.5;1
+199609;Romero y tomillo;498.5;1
+199609;Suprêmes délices;2708.8;1
+199609;The Big Cheese;336.0;1
+199609;Tortuga Restaurante;954.4;1
+199609;Vins et alcools Chevalier;121.6;1
+199610;Bólido Comidas preparadas;982.0;1
+199610;Bon app';1262.34;2
+199610;Folk och fä HB;1810.0;1
+199610;Frankenversand;2153.82;2
+199610;Furia Bacalhau e Frutos do Mar;1168.0;1
+199610;Hungry Owl All-Night Grocers;2036.16;1
+199610;Island Trading;192.2;2
+199610;Königlich Essen;830.7;2
+199610;Lehmanns Marktstand;1584.0;1
+199610;LILA-Supermercado;1649.0;1
+199610;Mère Paillarde;2570.44;2
+199610;Old World Delicatessen;934.5;1
+199610;Pericles Comidas clásicas;112.0;1
+199610;Princesa Isabel Vinhos;285.12;1
+199610;Save-a-lot Markets;5275.72;1
+199610;Simons bistro;352.6;1
+199610;Split Rail Beer & Ale;4578.43;1
+199610;Tortuga Restaurante;1191.2;1
+199610;Victuailles en stock;144.8;1
+199610;Wartian Herkku;696.6;2
+199611;Antonio Moreno Taquería;403.2;1
+199611;Around the Horn;480.0;1
+199611;Blondesddsl père et fils;7390.2;1
+199611;Bon app';1549.6;1
+199611;Die Wandernde Kuh;735.0;2
+199611;Drachenblut Delikatessen;447.2;1
+199611;Eastern Connection;950.0;1
+199611;Ernst Handel;3544.25;2
+199611;Familia Arquibaldo;814.42;1
+199611;Furia Bacalhau e Frutos do Mar;136.3;1
+199611;Galería del gastrónomo;136.0;1
+199611;La maison d'Asie;535.73;2
+199611;LILA-Supermercado;1167.68;1
+199611;Pericles Comidas clásicas;568.8;1
+199611;Piccolo und mehr;8593.28;1
+199611;QUICK-Stop;2485.52;2
+199611;Rattlesnake Canyon Grocery;1618.88;1
+199611;Seven Seas Imports;3471.68;1
+199611;Split Rail Beer & Ale;141.6;1
+199611;Vaffeljernet;834.2;1
+199611;White Clover Markets;2296.0;1
+199612;Around the Horn;899.0;1
+199612;Berglunds snabbköp;2222.4;1
+199612;Bottom-Dollar Markets;1832.8;1
+199612;Chop-suey Chinese;1117.6;1
+199612;Drachenblut Delikatessen;86.4;1
+199612;Ernst Handel;2495.44;2
+199612;Familia Arquibaldo;166.0;1
+199612;Folk och fä HB;103.2;1
+199612;Frankenversand;1903.8;1
+199612;HILARION-Abastos;2122.92;1
+199612;Hungry Coyote Import Store;390.0;2
+199612;Hungry Owl All-Night Grocers;1340.11;2
+199612;La maison d'Asie;72.96;1
+199612;LILA-Supermercado;112.0;1
+199612;Mère Paillarde;399.0;1
+199612;Piccolo und mehr;1440.0;1
+199612;Princesa Isabel Vinhos;716.72;1
+199612;Que Delícia;863.28;1
+199612;Queen Cozinha;9210.9;1
+199612;Santé Gourmet;1058.4;1
+199612;Save-a-lot Markets;2531.27;2
+199612;Seven Seas Imports;1046.2;2
+199612;Split Rail Beer & Ale;1540.8;2
+199612;Vaffeljernet;1765.6;1
+199612;Wolski  Zajazd;459.0;1
+199701;Bottom-Dollar Markets;1220.35;3
+199701;Eastern Connection;3063.0;1
+199701;Ernst Handel;2822.57;3
+199701;Familia Arquibaldo;224.83;1
+199701;Folies gourmandes;1622.4;1
+199701;Franchi S.p.A.;49.8;1
+199701;Galería del gastrónomo;338.2;1
+199701;Gourmet Lanchonetes;1020.0;1
+199701;Hungry Coyote Import Store;102.4;1
+199701;Hungry Owl All-Night Grocers;1441.38;1
+199701;La maison d'Asie;1241.6;2
+199701;LINO-Delicateses;400.0;1
+199701;Magazzini Alimentari Riuniti;1591.25;1
+199701;Mère Paillarde;9194.56;1
+199701;Océano Atlántico Ltda.;319.2;1
+199701;Ottilies Käseladen;1194.0;1
+199701;Piccolo und mehr;651.0;1
+199701;Que Delícia;1194.27;1
+199701;Queen Cozinha;1830.78;1
+199701;QUICK-Stop;1814.8;1
+199701;Rattlesnake Canyon Grocery;3868.6;1
+199701;Reggiani Caseifici;192.0;1
+199701;Richter Supermarkt;2097.6;1
+199701;Simons bistro;11188.4;1
+199701;Split Rail Beer & Ale;485.0;1
+199701;Wartian Herkku;527.4;2
+199701;Wellington Importadora;1707.84;1
+199702;Around the Horn;407.7;1
+199702;Berglunds snabbköp;603.3;2
+199702;Blondesddsl père et fils;1916.36;2
+199702;Consolidated Holdings;631.6;1
+199702;Ernst Handel;1792.0;1
+199702;Folk och fä HB;248.61;2
+199702;Königlich Essen;1070.8;2
+199702;La maison d'Asie;331.2;1
+199702;LILA-Supermercado;1538.7;1
+199702;Mère Paillarde;1078.0;1
+199702;Old World Delicatessen;1755.0;1
+199702;Princesa Isabel Vinhos;851.2;1
+199702;QUICK-Stop;3849.66;1
+199702;Rancho grande;443.4;1
+199702;Reggiani Caseifici;517.44;1
+199702;Ricardo Adocicados;914.4;1
+199702;Save-a-lot Markets;3471.32;2
+199702;Suprêmes délices;3891.0;1
+199702;Toms Spezialitäten;350.12;2
+199702;Victuailles en stock;1042.16;2
+199702;Wartian Herkku;1538.5;2
+199703;B's Beverages;857.1;2
+199703;Bon app';1820.8;1
+199703;Comércio Mineiro;216.0;1
+199703;Consolidated Holdings;156.0;1
+199703;Folies gourmandes;756.0;1
+199703;Frankenversand;1512.0;1
+199703;Furia Bacalhau e Frutos do Mar;934.39;2
+199703;HILARION-Abastos;1538.56;3
+199703;Island Trading;230.4;1
+199703;Königlich Essen;717.6;1
+199703;Lazy K Kountry Store;147.0;1
+199703;LINO-Delicateses;1584.0;1
+199703;Magazzini Alimentari Riuniti;235.2;1
+199703;Pericles Comidas clásicas;1249.1;1
+199703;Piccolo und mehr;439.2;1
+199703;Princesa Isabel Vinhos;558.0;1
+199703;Queen Cozinha;889.7;1
+199703;Rattlesnake Canyon Grocery;10495.6;1
+199703;Ricardo Adocicados;1472.0;1
+199703;Seven Seas Imports;1036.8;1
+199703;Suprêmes délices;1109.24;2
+199703;Vaffeljernet;2518.0;1
+199703;Victuailles en stock;471.2;1
+199703;White Clover Markets;812.74;2
+199704;Antonio Moreno Taquería;749.06;1
+199704;Blauer See Delikatessen;142.9;2
+199704;Bon app';2550.0;1
+199704;Bottom-Dollar Markets;851.2;1
+199704;Cactus Comidas para llevar;225.5;1
+199704;Chop-suey Chinese;2314.2;1
+199704;Comércio Mineiro;912.0;1
+199704;Die Wandernde Kuh;1942.0;1
+199704;Ernst Handel;8623.45;1
+199704;Familia Arquibaldo;525.3;1
+199704;HILARION-Abastos;575.0;1
+199704;Hungry Owl All-Night Grocers;2214.78;2
+199704;Königlich Essen;415.8;1
+199704;La maison d'Asie;565.83;2
+199704;Laughing Bacchus Wine Cellars;278.0;1
+199704;Lehmanns Marktstand;1849.42;2
+199704;LILA-Supermercado;1412.0;1
+199704;Mère Paillarde;147.9;1
+199704;North/South;352.0;1
+199704;Ottilies Käseladen;240.0;1
+199704;Pericles Comidas clásicas;816.3;1
+199704;QUICK-Stop;9921.3;1
+199704;Santé Gourmet;200.0;1
+199704;Save-a-lot Markets;4707.54;1
+199704;Tortuga Restaurante;4150.05;1
+199704;Tradição Hipermercados;190.0;1
+199704;White Clover Markets;1388.5;1
+199705;Antonio Moreno Taquería;1940.85;1
+199705;B's Beverages;247.65;2
+199705;Berglunds snabbköp;3192.65;1
+199705;Bon app';818.4;1
+199705;Eastern Connection;796.35;1
+199705;Folk och fä HB;2222.2;1
+199705;Furia Bacalhau e Frutos do Mar;1677.3;1
+199705;Godos Cocina Típica;683.3;1
+199705;Great Lakes Food Market;392.2;1
+199705;Hanari Carnes;1946.52;1
+199705;HILARION-Abastos;880.5;1
+199705;Königlich Essen;469.11;1
+199705;Lazy K Kountry Store;210.0;1
+199705;Lehmanns Marktstand;1055.35;2
+199705;LILA-Supermercado;1504.5;1
+199705;Lonesome Pine Restaurant;417.2;1
+199705;Maison Dewey;946.0;1
+199705;Océano Atlántico Ltda.;110.0;1
+199705;Ottilies Käseladen;1728.52;1
+199705;Piccolo und mehr;4180.0;1
+199705;QUICK-Stop;5082.99;3
+199705;Richter Supermarkt;1823.8;1
+199705;Seven Seas Imports;2118.55;2
+199705;Toms Spezialitäten;240.1;1
+199705;Victuailles en stock;2812.0;1
+199705;Wartian Herkku;1348.85;2
+199706;Antonio Moreno Taquería;2082.0;1
+199706;Around the Horn;2142.9;1
+199706;B's Beverages;477.0;1
+199706;Berglunds snabbköp;1501.08;1
+199706;Blauer See Delikatessen;330.0;1
+199706;Blondesddsl père et fils;958.39;3
+199706;Ernst Handel;550.59;1
+199706;Familia Arquibaldo;310.0;1
+199706;Folk och fä HB;2844.5;1
+199706;Frankenversand;1072.42;1
+199706;Galería del gastrónomo;155.0;1
+199706;Hungry Owl All-Night Grocers;2519.0;1
+199706;Lehmanns Marktstand;1152.5;1
+199706;Let's Stop N Shop;317.75;1
+199706;Mère Paillarde;1552.58;2
+199706;Morgenstern Gesundkost;2147.4;1
+199706;Ottilies Käseladen;1013.74;1
+199706;Rattlesnake Canyon Grocery;1062.03;2
+199706;Reggiani Caseifici;488.7;1
+199706;Ricardo Adocicados;965.0;1
+199706;Save-a-lot Markets;2944.4;1
+199706;Simons bistro;835.2;1
+199706;Tortuga Restaurante;838.45;1
+199706;Trail's Head Gourmet Provisioners;666.65;2
+199706;Wartian Herkku;2237.5;1
+199707;B's Beverages;493.0;1
+199707;Blauer See Delikatessen;464.0;1
+199707;Du monde entier;424.0;1
+199707;Ernst Handel;4725.0;1
+199707;Furia Bacalhau e Frutos do Mar;230.85;1
+199707;Great Lakes Food Market;2093.83;3
+199707;HILARION-Abastos;1319.1;2
+199707;Hungry Coyote Import Store;479.8;1
+199707;La maison d'Asie;299.25;1
+199707;Lehmanns Marktstand;1255.43;2
+199707;Mère Paillarde;2605.35;2
+199707;Old World Delicatessen;565.5;1
+199707;Piccolo und mehr;718.08;1
+199707;Que Delícia;807.38;1
+199707;QUICK-Stop;3120.0;1
+199707;Rattlesnake Canyon Grocery;2388.5;1
+199707;Reggiani Caseifici;23.8;1
+199707;Save-a-lot Markets;4777.8;3
+199707;Toms Spezialitäten;1064.0;1
+199707;Tradição Hipermercados;1130.4;1
+199707;Vaffeljernet;430.62;2
+199707;Wellington Importadora;142.5;1
+199707;White Clover Markets;1180.88;1
+199707;Wilman Kala;120.0;1
+199707;Wolski  Zajazd;808.0;1
+199708;Alfreds Futterkiste;814.5;1
+199708;Ana Trujillo Emparedados y helados;479.75;1
+199708;Berglunds snabbköp;1503.6;1
+199708;Blondesddsl père et fils;450.0;1
+199708;Die Wandernde Kuh;648.88;2
+199708;Ernst Handel;5510.59;1
+199708;Familia Arquibaldo;1779.2;1
+199708;Folies gourmandes;4985.5;1
+199708;Frankenversand;1336.95;1
+199708;Godos Cocina Típica;2775.05;1
+199708;Hanari Carnes;1535.0;1
+199708;HILARION-Abastos;2054.0;1
+199708;Hungry Owl All-Night Grocers;1446.0;1
+199708;Island Trading;758.5;1
+199708;Königlich Essen;903.6;1
+199708;La maison d'Asie;55.8;1
+199708;Laughing Bacchus Wine Cellars;57.5;1
+199708;LINO-Delicateses;2720.05;1
+199708;Magazzini Alimentari Riuniti;1326.22;1
+199708;Maison Dewey;1434.0;1
+199708;Mère Paillarde;1978.75;2
+199708;Que Delícia;636.0;1
+199708;Queen Cozinha;2761.94;1
+199708;Ricardo Adocicados;466.19;2
+199708;Santé Gourmet;500.0;1
+199708;Save-a-lot Markets;1185.75;1
+199708;Simons bistro;696.0;1
+199708;The Cracker Box;1393.24;1
+199708;Wartian Herkku;629.5;1
+199708;Wellington Importadora;1371.8;1
+199709;Antonio Moreno Taquería;594.43;2
+199709;Berglunds snabbköp;2208.54;2
+199709;Blondesddsl père et fils;660.0;1
+199709;Bon app';1930.4;1
+199709;Die Wandernde Kuh;511.54;2
+199709;Du monde entier;63.0;1
+199709;Ernst Handel;1536.8;1
+199709;France restauration;920.1;1
+199709;Frankenversand;1602.63;3
+199709;Furia Bacalhau e Frutos do Mar;1288.39;1
+199709;Gourmet Lanchonetes;559.97;2
+199709;Great Lakes Food Market;945.81;2
+199709;Hungry Coyote Import Store;1701.0;1
+199709;Hungry Owl All-Night Grocers;2761.75;2
+199709;Island Trading;45.0;1
+199709;Lonesome Pine Restaurant;710.0;2
+199709;Old World Delicatessen;1261.88;1
+199709;Ottilies Käseladen;1768.0;1
+199709;Piccolo und mehr;1404.45;1
+199709;Queen Cozinha;1227.02;1
+199709;QUICK-Stop;4464.6;1
+199709;Reggiani Caseifici;154.4;1
+199709;Richter Supermarkt;4666.94;1
+199709;Save-a-lot Markets;4814.05;2
+199709;Simons bistro;570.0;1
+199709;Tortuga Restaurante;534.85;1
+199709;Wilman Kala;412.35;1
+199710;Alfreds Futterkiste;604.0;2
+199710;Around the Horn;1641.0;1
+199710;Berglunds snabbköp;472.5;1
+199710;Bon app';1296.0;1
+199710;Ernst Handel;3436.44;1
+199710;Familia Arquibaldo;287.8;1
+199710;Folk och fä HB;2545.0;1
+199710;Franchi S.p.A.;93.5;1
+199710;Frankenversand;1270.75;1
+199710;Gourmet Lanchonetes;3424.0;1
+199710;Hanari Carnes;862.5;1
+199710;HILARION-Abastos;378.0;1
+199710;Hungry Owl All-Night Grocers;2048.99;2
+199710;Königlich Essen;3463.0;1
+199710;Let's Stop N Shop;844.25;1
+199710;LINO-Delicateses;805.42;1
+199710;Mère Paillarde;638.5;1
+199710;Morgenstern Gesundkost;114.0;1
+199710;Old World Delicatessen;1893.0;1
+199710;Que Delícia;550.0;1
+199710;Queen Cozinha;595.5;1
+199710;QUICK-Stop;5304.56;3
+199710;Rancho grande;706.0;1
+199710;Save-a-lot Markets;2538.75;5
+199710;The Big Cheese;180.4;1
+199710;Vaffeljernet;3160.6;1
+199710;White Clover Markets;1178.55;3
+199710;Wilman Kala;642.0;1
+199711;Ana Trujillo Emparedados y helados;320.0;1
+199711;Around the Horn;273.6;2
+199711;Berglunds snabbköp;1459.0;1
+199711;Bon app';930.92;3
+199711;Bottom-Dollar Markets;3118.0;1
+199711;Chop-suey Chinese;2101.1;2
+199711;Eastern Connection;655.0;1
+199711;Franchi S.p.A.;88.0;1
+199711;Gourmet Lanchonetes;1498.35;1
+199711;Hungry Owl All-Night Grocers;997.0;1
+199711;Island Trading;1080.0;1
+199711;Let's Stop N Shop;536.4;1
+199711;LINO-Delicateses;1850.0;1
+199711;Magazzini Alimentari Riuniti;55.2;1
+199711;North/South;252.0;1
+199711;Piccolo und mehr;1912.85;1
+199711;Queen Cozinha;1296.75;1
+199711;QUICK-Stop;4529.8;1
+199711;Reggiani Caseifici;1624.5;1
+199711;Richter Supermarkt;1638.04;2
+199711;Save-a-lot Markets;2639.0;2
+199711;Spécialités du monde;52.35;1
+199711;Split Rail Beer & Ale;1990.0;1
+199711;Vaffeljernet;736.0;1
+199711;Vins et alcools Chevalier;189.9;2
+199711;Wartian Herkku;1590.56;1
+199711;White Clover Markets;1416.0;1
+199712;Around the Horn;834.05;2
+199712;Berglunds snabbköp;96.5;1
+199712;Bólido Comidas preparadas;3026.85;1
+199712;Cactus Comidas para llevar;12.5;1
+199712;Drachenblut Delikatessen;420.0;1
+199712;Ernst Handel;2690.73;5
+199712;Folies gourmandes;2151.5;2
+199712;Folk och fä HB;2602.88;2
+199712;Franchi S.p.A.;18.4;1
+199712;Frankenversand;1829.76;1
+199712;Gourmet Lanchonetes;473.25;2
+199712;GROSELLA-Restaurante;387.5;1
+199712;Hanari Carnes;839.38;2
+199712;HILARION-Abastos;2341.36;1
+199712;Island Trading;446.6;1
+199712;Königlich Essen;1553.5;1
+199712;La maison d'Asie;2622.76;1
+199712;Lehmanns Marktstand;3603.22;1
+199712;LILA-Supermercado;720.0;1
+199712;Magazzini Alimentari Riuniti;1488.0;1
+199712;Maison Dewey;2917.0;1
+199712;Morgenstern Gesundkost;1335.0;1
+199712;Ottilies Käseladen;2310.0;1
+199712;Que Delícia;314.76;1
+199712;Queen Cozinha;1531.08;1
+199712;QUICK-Stop;1123.55;2
+199712;Rattlesnake Canyon Grocery;507.0;1
+199712;Seven Seas Imports;1873.67;2
+199712;Simons bistro;2942.81;1
+199712;Suprêmes délices;28.0;1
+199712;The Big Cheese;2775.0;1
+199712;The Cracker Box;228.0;1
+199712;Vaffeljernet;1684.28;1
+199712;Victuailles en stock;439.6;1
+199712;Wartian Herkku;975.88;1
+199712;Wellington Importadora;1193.01;1
+199712;Wolski  Zajazd;399.85;1
+199801;Alfreds Futterkiste;845.8;1
+199801;Antonio Moreno Taquería;660.0;1
+199801;Berglunds snabbköp;1556.36;2
+199801;Blauer See Delikatessen;625.0;1
+199801;Blondesddsl père et fils;730.0;1
+199801;Bon app';843.0;1
+199801;Cactus Comidas para llevar;477.0;1
+199801;Consolidated Holdings;931.5;1
+199801;Drachenblut Delikatessen;1030.76;1
+199801;Ernst Handel;3836.0;2
+199801;Folk och fä HB;250.8;1
+199801;France restauration;519.0;1
+199801;Frankenversand;1078.69;1
+199801;Great Lakes Food Market;8446.45;1
+199801;Island Trading;1764.0;1
+199801;Königlich Essen;5960.33;2
+199801;La corne d'abondance;649.0;1
+199801;La maison d'Asie;475.11;1
+199801;Laughing Bacchus Wine Cellars;187.0;1
+199801;Lehmanns Marktstand;581.0;1
+199801;LILA-Supermercado;2826.0;1
+199801;LINO-Delicateses;1000.52;3
+199801;Magazzini Alimentari Riuniti;833.0;1
+199801;Old World Delicatessen;1819.44;2
+199801;Ottilies Käseladen;906.93;1
+199801;Piccolo und mehr;735.0;1
+199801;QUICK-Stop;3812.7;1
+199801;Rancho grande;932.0;1
+199801;Rattlesnake Canyon Grocery;2062.0;2
+199801;Reggiani Caseifici;1692.8;1
+199801;Ricardo Adocicados;1602.7;2
+199801;Santé Gourmet;2684.4;1
+199801;Save-a-lot Markets;2485.96;2
+199801;Split Rail Beer & Ale;678.0;1
+199801;Suprêmes délices;2846.5;2
+199801;Tortuga Restaurante;975.0;1
+199801;Tradição Hipermercados;1411.42;3
+199801;Trail's Head Gourmet Provisioners;237.9;1
+199801;Victuailles en stock;858.82;3
+199801;Wellington Importadora;140.0;1
+199801;White Clover Markets;3523.4;1
+199802;Around the Horn;282.0;1
+199802;Berglunds snabbköp;902.87;2
+199802;Bon app';1448.12;2
+199802;Cactus Comidas para llevar;150.0;1
+199802;Du monde entier;860.1;1
+199802;Ernst Handel;6379.4;1
+199802;Folk och fä HB;1181.71;2
+199802;Galería del gastrónomo;70.0;1
+199802;Godos Cocina Típica;957.86;4
+199802;Hanari Carnes;2029.78;2
+199802;HILARION-Abastos;687.82;2
+199802;Hungry Owl All-Night Grocers;8517.9;2
+199802;Königlich Essen;5502.11;1
+199802;Lehmanns Marktstand;368.93;1
+199802;Let's Stop N Shop;1378.07;1
+199802;LILA-Supermercado;122.4;1
+199802;Lonesome Pine Restaurant;67.2;2
+199802;Maison Dewey;1420.25;2
+199802;Océano Atlántico Ltda.;30.0;1
+199802;Queen Cozinha;1075.62;3
+199802;QUICK-Stop;8963.25;2
+199802;Rancho grande;686.7;1
+199802;Rattlesnake Canyon Grocery;11380.0;1
+199802;Reggiani Caseifici;663.1;1
+199802;Ricardo Adocicados;1955.12;1
+199802;Santé Gourmet;670.0;1
+199802;Save-a-lot Markets;1822.87;2
+199802;Seven Seas Imports;1630.0;1
+199802;Spécialités du monde;108.5;1
+199802;Suprêmes délices;1209.0;1
+199802;Tortuga Restaurante;539.5;1
+199802;Wellington Importadora;187.88;2
+199802;White Clover Markets;1924.25;1
+199802;Wilman Kala;467.0;3
+199802;Wolski  Zajazd;293.75;2
+199803;Alfreds Futterkiste;471.2;1
+199803;Ana Trujillo Emparedados y helados;514.4;1
+199803;Around the Horn;2415.62;2
+199803;B's Beverages;465.5;2
+199803;Berglunds snabbköp;1835.7;1
+199803;Blauer See Delikatessen;677.0;1
+199803;Bólido Comidas preparadas;224.0;1
+199803;Bon app';1074.32;2
+199803;Bottom-Dollar Markets;1725.26;5
+199803;Cactus Comidas para llevar;644.8;1
+199803;Chop-suey Chinese;1098.46;1
+199803;Comércio Mineiro;108.0;1
+199803;Eastern Connection;2772.0;1
+199803;Ernst Handel;3110.75;2
+199803;Folk och fä HB;851.8;3
+199803;France restauration;1733.06;1
+199803;Frankenversand;1174.75;1
+199803;Furia Bacalhau e Frutos do Mar;57.8;1
+199803;Galería del gastrónomo;137.5;1
+199803;Godos Cocina Típica;2362.25;1
+199803;Gourmet Lanchonetes;131.75;1
+199803;Great Lakes Food Market;456.0;1
+199803;Hanari Carnes;5675.88;3
+199803;HILARION-Abastos;980.02;3
+199803;Hungry Owl All-Night Grocers;2023.38;1
+199803;Island Trading;920.6;1
+199803;La corne d'abondance;447.68;3
+199803;La maison d'Asie;748.8;1
+199803;Lehmanns Marktstand;500.0;1
+199803;LINO-Delicateses;1391.17;2
+199803;Magazzini Alimentari Riuniti;373.75;2
+199803;Maison Dewey;1303.2;1
+199803;Morgenstern Gesundkost;245.0;1
+199803;Océano Atlántico Ltda.;1500.5;2
+199803;Old World Delicatessen;848.0;1
+199803;Que Delícia;1353.6;1
+199803;Queen Cozinha;1119.9;1
+199803;QUICK-Stop;3157.94;2
+199803;Rattlesnake Canyon Grocery;3574.8;1
+199803;Reggiani Caseifici;560.0;1
+199803;Richter Supermarkt;628.98;2
+199803;Romero y tomillo;365.89;1
+199803;Save-a-lot Markets;2180.8;3
+199803;Spécialités du monde;2052.5;1
+199803;Split Rail Beer & Ale;439.0;1
+199803;Suprêmes délices;2255.5;1
+199803;Toms Spezialitäten;910.4;1
+199803;Vaffeljernet;1671.75;2
+199803;Wellington Importadora;619.5;1
+199804;Alfreds Futterkiste;933.5;1
+199804;Around the Horn;491.5;1
+199804;B's Beverages;1500.0;1
+199804;Blauer See Delikatessen;858.0;1
+199804;Bottom-Dollar Markets;904.08;3
+199804;Cactus Comidas para llevar;305.0;1
+199804;Chop-suey Chinese;1529.9;2
+199804;Comércio Mineiro;405.75;1
+199804;Die Wandernde Kuh;1485.8;1
+199804;Drachenblut Delikatessen;1692.0;1
+199804;Eastern Connection;2174.9;3
+199804;Ernst Handel;5239.92;3
+199804;Folk och fä HB;2824.81;3
+199804;Franchi S.p.A.;648.0;2
+199804;Frankenversand;2825.3;1
+199804;Godos Cocina Típica;338.25;2
+199804;Gourmet Lanchonetes;273.6;1
+199804;Great Lakes Food Market;346.56;3
+199804;Hanari Carnes;1367.0;2
+199804;HILARION-Abastos;1727.5;1
+199804;Hungry Owl All-Night Grocers;1342.95;1
+199804;Königlich Essen;2160.0;1
+199804;La maison d'Asie;36.0;1
+199804;LILA-Supermercado;1885.0;1
+199804;LINO-Delicateses;1666.59;2
+199804;Lonesome Pine Restaurant;1575.0;1
+199804;Maison Dewey;295.38;1
+199804;North/South;45.0;1
+199804;Old World Delicatessen;539.4;1
+199804;Ottilies Käseladen;915.18;2
+199804;Pericles Comidas clásicas;1196.0;1
+199804;Piccolo und mehr;3055.0;1
+199804;Princesa Isabel Vinhos;2633.9;1
+199804;QUICK-Stop;3054.08;3
+199804;Rancho grande;76.0;1
+199804;Rattlesnake Canyon Grocery;903.75;1
+199804;Reggiani Caseifici;525.7;2
+199804;Ricardo Adocicados;1838.0;1
+199804;Richter Supermarkt;3232.8;1
+199804;Romero y tomillo;361.0;1
+199804;Santé Gourmet;622.35;1
+199804;Save-a-lot Markets;5606.55;3
+199804;Spécialités du monde;210.0;1
+199804;Suprêmes délices;1243.55;2
+199804;The Big Cheese;69.6;1
+199804;The Cracker Box;326.0;1
+199804;Vaffeljernet;940.5;1
+199804;Wartian Herkku;270.0;1
+199804;White Clover Markets;8902.5;1
+199804;Wilman Kala;586.0;1
+199804;Wolski  Zajazd;638.8;2
+199805;Bon app';792.75;1
+199805;Drachenblut Delikatessen;86.85;1
+199805;Ernst Handel;5218.0;1
+199805;Lehmanns Marktstand;1629.98;1
+199805;LILA-Supermercado;336.96;2
+199805;Pericles Comidas clásicas;300.0;1
+199805;Queen Cozinha;2027.08;1
+199805;Rattlesnake Canyon Grocery;1255.72;1
+199805;Richter Supermarkt;498.1;1
+199805;Save-a-lot Markets;4330.4;1
+199805;Simons bistro;232.08;1
+199805;Tortuga Restaurante;360.0;1
+199805;White Clover Markets;928.75;1

@@ -1,0 +1,831 @@
+order_id;ship_country;customer_name;order_date;days_between_orders;days_since_last_order
+10643;Germany;Alfreds Futterkiste;1997-08-25;0;8883
+10692;Germany;Alfreds Futterkiste;1997-10-03;39;8883
+10702;Germany;Alfreds Futterkiste;1997-10-13;10;8883
+10835;Germany;Alfreds Futterkiste;1998-01-15;94;8883
+10952;Germany;Alfreds Futterkiste;1998-03-16;60;8883
+11011;Germany;Alfreds Futterkiste;1998-04-09;24;8883
+10308;Mexico;Ana Trujillo Emparedados y helados;1996-09-18;0;8919
+10625;Mexico;Ana Trujillo Emparedados y helados;1997-08-08;324;8919
+10759;Mexico;Ana Trujillo Emparedados y helados;1997-11-28;112;8919
+10926;Mexico;Ana Trujillo Emparedados y helados;1998-03-04;96;8919
+10365;Mexico;Antonio Moreno Taquería;1996-11-27;0;8954
+10507;Mexico;Antonio Moreno Taquería;1997-04-15;139;8954
+10535;Mexico;Antonio Moreno Taquería;1997-05-13;28;8954
+10573;Mexico;Antonio Moreno Taquería;1997-06-19;37;8954
+10677;Mexico;Antonio Moreno Taquería;1997-09-22;95;8954
+10682;Mexico;Antonio Moreno Taquería;1997-09-25;3;8954
+10856;Mexico;Antonio Moreno Taquería;1998-01-28;125;8954
+10355;UK;Around the Horn;1996-11-15;0;8882
+10383;UK;Around the Horn;1996-12-16;31;8882
+10453;UK;Around the Horn;1997-02-21;67;8882
+10558;UK;Around the Horn;1997-06-04;103;8882
+10707;UK;Around the Horn;1997-10-16;134;8882
+10741;UK;Around the Horn;1997-11-14;29;8882
+10743;UK;Around the Horn;1997-11-17;3;8882
+10768;UK;Around the Horn;1997-12-08;21;8882
+10793;UK;Around the Horn;1997-12-24;16;8882
+10864;UK;Around the Horn;1998-02-02;40;8882
+10920;UK;Around the Horn;1998-03-03;29;8882
+10953;UK;Around the Horn;1998-03-16;13;8882
+11016;UK;Around the Horn;1998-04-10;25;8882
+10289;UK;B's Beverages;1996-08-26;0;8878
+10471;UK;B's Beverages;1997-03-11;197;8878
+10484;UK;B's Beverages;1997-03-24;13;8878
+10538;UK;B's Beverages;1997-05-15;52;8878
+10539;UK;B's Beverages;1997-05-16;1;8878
+10578;UK;B's Beverages;1997-06-24;39;8878
+10599;UK;B's Beverages;1997-07-15;21;8878
+10943;UK;B's Beverages;1998-03-11;239;8878
+10947;UK;B's Beverages;1998-03-13;2;8878
+11023;UK;B's Beverages;1998-04-14;32;8878
+10278;Sweden;Berglunds snabbköp;1996-08-12;0;8919
+10280;Sweden;Berglunds snabbköp;1996-08-14;2;8919
+10384;Sweden;Berglunds snabbköp;1996-12-16;124;8919
+10444;Sweden;Berglunds snabbköp;1997-02-12;58;8919
+10445;Sweden;Berglunds snabbköp;1997-02-13;1;8919
+10524;Sweden;Berglunds snabbköp;1997-05-01;77;8919
+10572;Sweden;Berglunds snabbköp;1997-06-18;48;8919
+10626;Sweden;Berglunds snabbköp;1997-08-11;54;8919
+10654;Sweden;Berglunds snabbköp;1997-09-02;22;8919
+10672;Sweden;Berglunds snabbköp;1997-09-17;15;8919
+10689;Sweden;Berglunds snabbköp;1997-10-01;14;8919
+10733;Sweden;Berglunds snabbköp;1997-11-07;37;8919
+10778;Sweden;Berglunds snabbköp;1997-12-16;39;8919
+10837;Sweden;Berglunds snabbköp;1998-01-16;31;8919
+10857;Sweden;Berglunds snabbköp;1998-01-28;12;8919
+10866;Sweden;Berglunds snabbköp;1998-02-03;6;8919
+10875;Sweden;Berglunds snabbköp;1998-02-06;3;8919
+10924;Sweden;Berglunds snabbköp;1998-03-04;26;8919
+10501;Germany;Blauer See Delikatessen;1997-04-09;0;8863
+10509;Germany;Blauer See Delikatessen;1997-04-17;8;8863
+10582;Germany;Blauer See Delikatessen;1997-06-27;71;8863
+10614;Germany;Blauer See Delikatessen;1997-07-29;32;8863
+10853;Germany;Blauer See Delikatessen;1998-01-27;182;8863
+10956;Germany;Blauer See Delikatessen;1998-03-17;49;8863
+11058;Germany;Blauer See Delikatessen;1998-04-29;43;8863
+10265;France;Blondesddsl père et fils;1996-07-25;0;8970
+10297;France;Blondesddsl père et fils;1996-09-04;41;8970
+10360;France;Blondesddsl père et fils;1996-11-22;79;8970
+10436;France;Blondesddsl père et fils;1997-02-05;75;8970
+10449;France;Blondesddsl père et fils;1997-02-18;13;8970
+10559;France;Blondesddsl père et fils;1997-06-05;107;8970
+10566;France;Blondesddsl père et fils;1997-06-12;7;8970
+10584;France;Blondesddsl père et fils;1997-06-30;18;8970
+10628;France;Blondesddsl père et fils;1997-08-12;43;8970
+10679;France;Blondesddsl père et fils;1997-09-23;42;8970
+10826;France;Blondesddsl père et fils;1998-01-12;111;8970
+10326;Spain;Bólido Comidas preparadas;1996-10-10;0;8899
+10801;Spain;Bólido Comidas preparadas;1997-12-29;445;8899
+10970;Spain;Bólido Comidas preparadas;1998-03-24;85;8899
+10331;France;Bon app';1996-10-16;0;8856
+10340;France;Bon app';1996-10-29;13;8856
+10362;France;Bon app';1996-11-25;27;8856
+10470;France;Bon app';1997-03-11;106;8856
+10511;France;Bon app';1997-04-18;38;8856
+10525;France;Bon app';1997-05-02;14;8856
+10663;France;Bon app';1997-09-10;131;8856
+10715;France;Bon app';1997-10-23;43;8856
+10730;France;Bon app';1997-11-05;13;8856
+10732;France;Bon app';1997-11-06;1;8856
+10755;France;Bon app';1997-11-26;20;8856
+10827;France;Bon app';1998-01-12;47;8856
+10871;France;Bon app';1998-02-05;24;8856
+10876;France;Bon app';1998-02-09;4;8856
+10932;France;Bon app';1998-03-06;25;8856
+10940;France;Bon app';1998-03-11;5;8856
+11076;France;Bon app';1998-05-06;56;8856
+10389;Canada;Bottom-Dollar Markets;1996-12-20;0;8868
+10411;Canada;Bottom-Dollar Markets;1997-01-10;0;8868
+10410;Canada;Bottom-Dollar Markets;1997-01-10;21;8868
+10431;Canada;Bottom-Dollar Markets;1997-01-30;20;8868
+10492;Canada;Bottom-Dollar Markets;1997-04-01;61;8868
+10742;Canada;Bottom-Dollar Markets;1997-11-14;227;8868
+10918;Canada;Bottom-Dollar Markets;1998-03-02;108;8868
+10944;Canada;Bottom-Dollar Markets;1998-03-12;10;8868
+10949;Canada;Bottom-Dollar Markets;1998-03-13;1;8868
+10975;Canada;Bottom-Dollar Markets;1998-03-25;12;8868
+10982;Canada;Bottom-Dollar Markets;1998-03-27;2;8868
+11027;Canada;Bottom-Dollar Markets;1998-04-16;20;8868
+11045;Canada;Bottom-Dollar Markets;1998-04-23;7;8868
+11048;Canada;Bottom-Dollar Markets;1998-04-24;1;8868
+10521;Argentina;Cactus Comidas para llevar;1997-04-29;0;8864
+10782;Argentina;Cactus Comidas para llevar;1997-12-17;232;8864
+10819;Argentina;Cactus Comidas para llevar;1998-01-07;21;8864
+10881;Argentina;Cactus Comidas para llevar;1998-02-11;35;8864
+10937;Argentina;Cactus Comidas para llevar;1998-03-10;27;8864
+11054;Argentina;Cactus Comidas para llevar;1998-04-28;49;8864
+10259;Mexico;Centro comercial Moctezuma;1996-07-18;0;9513
+10254;Switzerland;Chop-suey Chinese;1996-07-11;0;8870
+10370;Switzerland;Chop-suey Chinese;1996-12-03;145;8870
+10519;Switzerland;Chop-suey Chinese;1997-04-28;146;8870
+10731;Switzerland;Chop-suey Chinese;1997-11-06;192;8870
+10746;Switzerland;Chop-suey Chinese;1997-11-19;13;8870
+10966;Switzerland;Chop-suey Chinese;1998-03-20;121;8870
+11029;Switzerland;Chop-suey Chinese;1998-04-16;27;8870
+11041;Switzerland;Chop-suey Chinese;1998-04-22;6;8870
+10290;Brazil;Comércio Mineiro;1996-08-27;0;8870
+10466;Brazil;Comércio Mineiro;1997-03-06;191;8870
+10494;Brazil;Comércio Mineiro;1997-04-02;27;8870
+10969;Brazil;Comércio Mineiro;1998-03-23;355;8870
+11042;Brazil;Comércio Mineiro;1998-04-22;30;8870
+10435;UK;Consolidated Holdings;1997-02-04;0;8959
+10462;UK;Consolidated Holdings;1997-03-03;27;8959
+10848;UK;Consolidated Holdings;1998-01-23;326;8959
+10301;Germany;Die Wandernde Kuh;1996-09-09;0;8869
+10312;Germany;Die Wandernde Kuh;1996-09-23;14;8869
+10348;Germany;Die Wandernde Kuh;1996-11-07;45;8869
+10356;Germany;Die Wandernde Kuh;1996-11-18;11;8869
+10513;Germany;Die Wandernde Kuh;1997-04-22;155;8869
+10632;Germany;Die Wandernde Kuh;1997-08-14;114;8869
+10640;Germany;Die Wandernde Kuh;1997-08-21;7;8869
+10651;Germany;Die Wandernde Kuh;1997-09-01;11;8869
+10668;Germany;Die Wandernde Kuh;1997-09-15;14;8869
+11046;Germany;Die Wandernde Kuh;1998-04-23;220;8869
+10363;Germany;Drachenblut Delikatessen;1996-11-26;0;8858
+10391;Germany;Drachenblut Delikatessen;1996-12-23;27;8858
+10797;Germany;Drachenblut Delikatessen;1997-12-25;367;8858
+10825;Germany;Drachenblut Delikatessen;1998-01-09;15;8858
+11036;Germany;Drachenblut Delikatessen;1998-04-20;101;8858
+11067;Germany;Drachenblut Delikatessen;1998-05-04;14;8858
+10311;France;Du monde entier;1996-09-20;0;8935
+10609;France;Du monde entier;1997-07-24;307;8935
+10683;France;Du monde entier;1997-09-26;64;8935
+10890;France;Du monde entier;1998-02-16;143;8935
+10364;UK;Eastern Connection;1996-11-26;0;8864
+10400;UK;Eastern Connection;1997-01-01;36;8864
+10532;UK;Eastern Connection;1997-05-09;128;8864
+10726;UK;Eastern Connection;1997-11-03;178;8864
+10987;UK;Eastern Connection;1998-03-31;148;8864
+11024;UK;Eastern Connection;1998-04-15;15;8864
+11047;UK;Eastern Connection;1998-04-24;9;8864
+11056;UK;Eastern Connection;1998-04-28;4;8864
+10258;Austria;Ernst Handel;1996-07-17;0;8857
+10263;Austria;Ernst Handel;1996-07-23;6;8857
+10351;Austria;Ernst Handel;1996-11-11;111;8857
+10368;Austria;Ernst Handel;1996-11-29;18;8857
+10382;Austria;Ernst Handel;1996-12-13;14;8857
+10390;Austria;Ernst Handel;1996-12-23;10;8857
+10402;Austria;Ernst Handel;1997-01-02;10;8857
+10403;Austria;Ernst Handel;1997-01-03;1;8857
+10430;Austria;Ernst Handel;1997-01-30;27;8857
+10442;Austria;Ernst Handel;1997-02-11;12;8857
+10514;Austria;Ernst Handel;1997-04-22;70;8857
+10571;Austria;Ernst Handel;1997-06-17;56;8857
+10595;Austria;Ernst Handel;1997-07-10;23;8857
+10633;Austria;Ernst Handel;1997-08-15;36;8857
+10667;Austria;Ernst Handel;1997-09-12;28;8857
+10698;Austria;Ernst Handel;1997-10-09;27;8857
+10764;Austria;Ernst Handel;1997-12-03;55;8857
+10771;Austria;Ernst Handel;1997-12-10;7;8857
+10773;Austria;Ernst Handel;1997-12-11;1;8857
+10776;Austria;Ernst Handel;1997-12-15;4;8857
+10795;Austria;Ernst Handel;1997-12-24;9;8857
+10836;Austria;Ernst Handel;1998-01-16;23;8857
+10854;Austria;Ernst Handel;1998-01-27;11;8857
+10895;Austria;Ernst Handel;1998-02-18;22;8857
+10968;Austria;Ernst Handel;1998-03-23;33;8857
+10979;Austria;Ernst Handel;1998-03-26;3;8857
+10990;Austria;Ernst Handel;1998-04-01;6;8857
+11008;Austria;Ernst Handel;1998-04-08;7;8857
+11017;Austria;Ernst Handel;1998-04-13;5;8857
+11072;Austria;Ernst Handel;1998-05-05;22;8857
+10347;Brazil;Familia Arquibaldo;1996-11-06;0;9043
+10386;Brazil;Familia Arquibaldo;1996-12-18;42;9043
+10414;Brazil;Familia Arquibaldo;1997-01-14;27;9043
+10512;Brazil;Familia Arquibaldo;1997-04-21;97;9043
+10581;Brazil;Familia Arquibaldo;1997-06-26;66;9043
+10650;Brazil;Familia Arquibaldo;1997-08-29;64;9043
+10725;Brazil;Familia Arquibaldo;1997-10-31;63;9043
+10408;France;Folies gourmandes;1997-01-08;0;8991
+10480;France;Folies gourmandes;1997-03-20;71;8991
+10634;France;Folies gourmandes;1997-08-15;148;8991
+10763;France;Folies gourmandes;1997-12-03;110;8991
+10789;France;Folies gourmandes;1997-12-22;19;8991
+10264;Sweden;Folk och fä HB;1996-07-24;0;8865
+10327;Sweden;Folk och fä HB;1996-10-11;79;8865
+10378;Sweden;Folk och fä HB;1996-12-10;60;8865
+10434;Sweden;Folk och fä HB;1997-02-03;55;8865
+10460;Sweden;Folk och fä HB;1997-02-28;25;8865
+10533;Sweden;Folk och fä HB;1997-05-12;73;8865
+10561;Sweden;Folk och fä HB;1997-06-06;25;8865
+10703;Sweden;Folk och fä HB;1997-10-14;130;8865
+10762;Sweden;Folk och fä HB;1997-12-02;49;8865
+10774;Sweden;Folk och fä HB;1997-12-11;9;8865
+10824;Sweden;Folk och fä HB;1998-01-09;29;8865
+10880;Sweden;Folk och fä HB;1998-02-10;32;8865
+10902;Sweden;Folk och fä HB;1998-02-23;13;8865
+10955;Sweden;Folk och fä HB;1998-03-17;22;8865
+10977;Sweden;Folk och fä HB;1998-03-26;9;8865
+10980;Sweden;Folk och fä HB;1998-03-27;1;8865
+10993;Sweden;Folk och fä HB;1998-04-01;5;8865
+11001;Sweden;Folk och fä HB;1998-04-06;5;8865
+11050;Sweden;Folk och fä HB;1998-04-27;21;8865
+10671;France;France restauration;1997-09-17;0;8899
+10860;France;France restauration;1998-01-29;134;8899
+10971;France;France restauration;1998-03-24;54;8899
+10422;Italy;Franchi S.p.A.;1997-01-22;0;8862
+10710;Italy;Franchi S.p.A.;1997-10-20;271;8862
+10753;Italy;Franchi S.p.A.;1997-11-25;36;8862
+10807;Italy;Franchi S.p.A.;1997-12-31;36;8862
+11026;Italy;Franchi S.p.A.;1998-04-15;105;8862
+11060;Italy;Franchi S.p.A.;1998-04-30;15;8862
+10267;Germany;Frankenversand;1996-07-29;0;8883
+10337;Germany;Frankenversand;1996-10-24;87;8883
+10342;Germany;Frankenversand;1996-10-30;6;8883
+10396;Germany;Frankenversand;1996-12-27;58;8883
+10488;Germany;Frankenversand;1997-03-27;90;8883
+10560;Germany;Frankenversand;1997-06-06;71;8883
+10623;Germany;Frankenversand;1997-08-07;62;8883
+10653;Germany;Frankenversand;1997-09-02;26;8883
+10670;Germany;Frankenversand;1997-09-16;14;8883
+10675;Germany;Frankenversand;1997-09-19;3;8883
+10717;Germany;Frankenversand;1997-10-24;35;8883
+10791;Germany;Frankenversand;1997-12-23;60;8883
+10859;Germany;Frankenversand;1998-01-29;37;8883
+10929;Germany;Frankenversand;1998-03-05;35;8883
+11012;Germany;Frankenversand;1998-04-09;35;8883
+10328;Portugal;Furia Bacalhau e Frutos do Mar;1996-10-14;0;8904
+10352;Portugal;Furia Bacalhau e Frutos do Mar;1996-11-12;29;8904
+10464;Portugal;Furia Bacalhau e Frutos do Mar;1997-03-04;112;8904
+10491;Portugal;Furia Bacalhau e Frutos do Mar;1997-03-31;27;8904
+10551;Portugal;Furia Bacalhau e Frutos do Mar;1997-05-28;58;8904
+10604;Portugal;Furia Bacalhau e Frutos do Mar;1997-07-18;51;8904
+10664;Portugal;Furia Bacalhau e Frutos do Mar;1997-09-10;54;8904
+10963;Portugal;Furia Bacalhau e Frutos do Mar;1998-03-19;190;8904
+10366;Spain;Galería del gastrónomo;1996-11-28;0;8918
+10426;Spain;Galería del gastrónomo;1997-01-27;60;8918
+10568;Spain;Galería del gastrónomo;1997-06-13;137;8918
+10887;Spain;Galería del gastrónomo;1998-02-13;245;8918
+10928;Spain;Galería del gastrónomo;1998-03-05;20;8918
+10303;Spain;Godos Cocina Típica;1996-09-11;0;8871
+10550;Spain;Godos Cocina Típica;1997-05-28;259;8871
+10629;Spain;Godos Cocina Típica;1997-08-12;76;8871
+10872;Spain;Godos Cocina Típica;1998-02-05;177;8871
+10874;Spain;Godos Cocina Típica;1998-02-06;1;8871
+10888;Spain;Godos Cocina Típica;1998-02-16;10;8871
+10911;Spain;Godos Cocina Típica;1998-02-26;10;8871
+10948;Spain;Godos Cocina Típica;1998-03-13;15;8871
+11009;Spain;Godos Cocina Típica;1998-04-08;26;8871
+11037;Spain;Godos Cocina Típica;1998-04-21;13;8871
+10423;Brazil;Gourmet Lanchonetes;1997-01-23;0;8868
+10652;Brazil;Gourmet Lanchonetes;1997-09-01;221;8868
+10685;Brazil;Gourmet Lanchonetes;1997-09-29;28;8868
+10709;Brazil;Gourmet Lanchonetes;1997-10-17;18;8868
+10734;Brazil;Gourmet Lanchonetes;1997-11-07;21;8868
+10777;Brazil;Gourmet Lanchonetes;1997-12-15;38;8868
+10790;Brazil;Gourmet Lanchonetes;1997-12-22;7;8868
+10959;Brazil;Gourmet Lanchonetes;1998-03-18;86;8868
+11049;Brazil;Gourmet Lanchonetes;1998-04-24;37;8868
+10528;USA;Great Lakes Food Market;1997-05-06;0;8862
+10589;USA;Great Lakes Food Market;1997-07-04;59;8862
+10617;USA;Great Lakes Food Market;1997-07-31;27;8862
+10616;USA;Great Lakes Food Market;1997-07-31;0;8862
+10656;USA;Great Lakes Food Market;1997-09-04;35;8862
+10681;USA;Great Lakes Food Market;1997-09-25;21;8862
+10816;USA;Great Lakes Food Market;1998-01-06;103;8862
+10936;USA;Great Lakes Food Market;1998-03-09;62;8862
+11006;USA;Great Lakes Food Market;1998-04-07;29;8862
+11040;USA;Great Lakes Food Market;1998-04-22;15;8862
+11061;USA;Great Lakes Food Market;1998-04-30;8;8862
+10268;Venezuela;GROSELLA-Restaurante;1996-07-30;0;8995
+10785;Venezuela;GROSELLA-Restaurante;1997-12-18;506;8995
+10250;Brazil;Hanari Carnes;1996-07-08;0;8865
+10253;Brazil;Hanari Carnes;1996-07-10;2;8865
+10541;Brazil;Hanari Carnes;1997-05-19;313;8865
+10645;Brazil;Hanari Carnes;1997-08-26;99;8865
+10690;Brazil;Hanari Carnes;1997-10-02;37;8865
+10770;Brazil;Hanari Carnes;1997-12-09;68;8865
+10783;Brazil;Hanari Carnes;1997-12-18;9;8865
+10886;Brazil;Hanari Carnes;1998-02-13;57;8865
+10903;Brazil;Hanari Carnes;1998-02-24;11;8865
+10922;Brazil;Hanari Carnes;1998-03-03;7;8865
+10925;Brazil;Hanari Carnes;1998-03-04;1;8865
+10981;Brazil;Hanari Carnes;1998-03-27;23;8865
+11022;Brazil;Hanari Carnes;1998-04-14;18;8865
+11052;Brazil;Hanari Carnes;1998-04-27;13;8865
+10257;Venezuela;HILARION-Abastos;1996-07-16;0;8864
+10395;Venezuela;HILARION-Abastos;1996-12-26;163;8864
+10476;Venezuela;HILARION-Abastos;1997-03-17;81;8864
+10486;Venezuela;HILARION-Abastos;1997-03-26;9;8864
+10490;Venezuela;HILARION-Abastos;1997-03-31;5;8864
+10498;Venezuela;HILARION-Abastos;1997-04-07;7;8864
+10552;Venezuela;HILARION-Abastos;1997-05-29;52;8864
+10601;Venezuela;HILARION-Abastos;1997-07-16;48;8864
+10613;Venezuela;HILARION-Abastos;1997-07-29;13;8864
+10641;Venezuela;HILARION-Abastos;1997-08-22;24;8864
+10705;Venezuela;HILARION-Abastos;1997-10-15;54;8864
+10796;Venezuela;HILARION-Abastos;1997-12-25;71;8864
+10863;Venezuela;HILARION-Abastos;1998-02-02;39;8864
+10901;Venezuela;HILARION-Abastos;1998-02-23;21;8864
+10957;Venezuela;HILARION-Abastos;1998-03-18;23;8864
+10960;Venezuela;HILARION-Abastos;1998-03-19;1;8864
+10976;Venezuela;HILARION-Abastos;1998-03-25;6;8864
+11055;Venezuela;HILARION-Abastos;1998-04-28;34;8864
+10375;USA;Hungry Coyote Import Store;1996-12-06;0;9096
+10394;USA;Hungry Coyote Import Store;1996-12-25;19;9096
+10415;USA;Hungry Coyote Import Store;1997-01-15;21;9096
+10600;USA;Hungry Coyote Import Store;1997-07-16;182;9096
+10660;USA;Hungry Coyote Import Store;1997-09-08;54;9096
+10298;Ireland;Hungry Owl All-Night Grocers;1996-09-05;0;8862
+10309;Ireland;Hungry Owl All-Night Grocers;1996-09-19;14;8862
+10335;Ireland;Hungry Owl All-Night Grocers;1996-10-22;33;8862
+10373;Ireland;Hungry Owl All-Night Grocers;1996-12-05;44;8862
+10380;Ireland;Hungry Owl All-Night Grocers;1996-12-12;7;8862
+10429;Ireland;Hungry Owl All-Night Grocers;1997-01-29;48;8862
+10503;Ireland;Hungry Owl All-Night Grocers;1997-04-11;72;8862
+10516;Ireland;Hungry Owl All-Night Grocers;1997-04-24;13;8862
+10567;Ireland;Hungry Owl All-Night Grocers;1997-06-12;49;8862
+10646;Ireland;Hungry Owl All-Night Grocers;1997-08-27;76;8862
+10661;Ireland;Hungry Owl All-Night Grocers;1997-09-09;13;8862
+10687;Ireland;Hungry Owl All-Night Grocers;1997-09-30;21;8862
+10701;Ireland;Hungry Owl All-Night Grocers;1997-10-13;13;8862
+10712;Ireland;Hungry Owl All-Night Grocers;1997-10-21;8;8862
+10736;Ireland;Hungry Owl All-Night Grocers;1997-11-11;21;8862
+10897;Ireland;Hungry Owl All-Night Grocers;1998-02-19;100;8862
+10912;Ireland;Hungry Owl All-Night Grocers;1998-02-26;7;8862
+10985;Ireland;Hungry Owl All-Night Grocers;1998-03-30;32;8862
+11063;Ireland;Hungry Owl All-Night Grocers;1998-04-30;31;8862
+10315;UK;Island Trading;1996-09-26;0;8917
+10318;UK;Island Trading;1996-10-01;5;8917
+10321;UK;Island Trading;1996-10-03;2;8917
+10473;UK;Island Trading;1997-03-13;161;8917
+10621;UK;Island Trading;1997-08-05;145;8917
+10674;UK;Island Trading;1997-09-18;44;8917
+10749;UK;Island Trading;1997-11-20;63;8917
+10798;UK;Island Trading;1997-12-26;36;8917
+10829;UK;Island Trading;1998-01-13;18;8917
+10933;UK;Island Trading;1998-03-06;52;8917
+10323;Germany;Königlich Essen;1996-10-07;0;8876
+10325;Germany;Königlich Essen;1996-10-09;2;8876
+10457;Germany;Königlich Essen;1997-02-25;139;8876
+10456;Germany;Königlich Essen;1997-02-25;0;8876
+10468;Germany;Königlich Essen;1997-03-07;10;8876
+10506;Germany;Königlich Essen;1997-04-15;39;8876
+10542;Germany;Königlich Essen;1997-05-20;35;8876
+10630;Germany;Königlich Essen;1997-08-13;85;8876
+10718;Germany;Königlich Essen;1997-10-27;75;8876
+10799;Germany;Königlich Essen;1997-12-26;60;8876
+10817;Germany;Königlich Essen;1998-01-06;11;8876
+10849;Germany;Königlich Essen;1998-01-23;17;8876
+10893;Germany;Königlich Essen;1998-02-18;26;8876
+11028;Germany;Königlich Essen;1998-04-16;57;8876
+10858;France;La corne d'abondance;1998-01-29;0;8899
+10927;France;La corne d'abondance;1998-03-05;35;8899
+10973;France;La corne d'abondance;1998-03-24;19;8899
+10972;France;La corne d'abondance;1998-03-24;0;8899
+10350;France;La maison d'Asie;1996-11-11;0;8865
+10358;France;La maison d'Asie;1996-11-20;9;8865
+10371;France;La maison d'Asie;1996-12-03;13;8865
+10413;France;La maison d'Asie;1997-01-14;42;8865
+10425;France;La maison d'Asie;1997-01-24;10;8865
+10454;France;La maison d'Asie;1997-02-21;28;8865
+10493;France;La maison d'Asie;1997-04-02;40;8865
+10500;France;La maison d'Asie;1997-04-09;7;8865
+10610;France;La maison d'Asie;1997-07-25;107;8865
+10631;France;La maison d'Asie;1997-08-14;20;8865
+10787;France;La maison d'Asie;1997-12-19;127;8865
+10832;France;La maison d'Asie;1998-01-14;26;8865
+10923;France;La maison d'Asie;1998-03-03;48;8865
+11051;France;La maison d'Asie;1998-04-27;55;8865
+10495;Canada;Laughing Bacchus Wine Cellars;1997-04-03;0;8981
+10620;Canada;Laughing Bacchus Wine Cellars;1997-08-05;124;8981
+10810;Canada;Laughing Bacchus Wine Cellars;1998-01-01;149;8981
+10482;USA;Lazy K Kountry Store;1997-03-21;0;9205
+10545;USA;Lazy K Kountry Store;1997-05-22;62;9205
+10279;Germany;Lehmanns Marktstand;1996-08-13;0;8857
+10284;Germany;Lehmanns Marktstand;1996-08-19;6;8857
+10343;Germany;Lehmanns Marktstand;1996-10-31;73;8857
+10497;Germany;Lehmanns Marktstand;1997-04-04;155;8857
+10522;Germany;Lehmanns Marktstand;1997-04-30;26;8857
+10534;Germany;Lehmanns Marktstand;1997-05-12;12;8857
+10536;Germany;Lehmanns Marktstand;1997-05-14;2;8857
+10557;Germany;Lehmanns Marktstand;1997-06-03;20;8857
+10592;Germany;Lehmanns Marktstand;1997-07-08;35;8857
+10593;Germany;Lehmanns Marktstand;1997-07-09;1;8857
+10772;Germany;Lehmanns Marktstand;1997-12-10;154;8857
+10862;Germany;Lehmanns Marktstand;1998-01-30;51;8857
+10891;Germany;Lehmanns Marktstand;1998-02-17;18;8857
+10934;Germany;Lehmanns Marktstand;1998-03-09;20;8857
+11070;Germany;Lehmanns Marktstand;1998-05-05;57;8857
+10579;USA;Let's Stop N Shop;1997-06-25;0;8939
+10719;USA;Let's Stop N Shop;1997-10-27;124;8939
+10735;USA;Let's Stop N Shop;1997-11-10;14;8939
+10884;USA;Let's Stop N Shop;1998-02-12;94;8939
+10283;Venezuela;LILA-Supermercado;1996-08-16;0;8857
+10296;Venezuela;LILA-Supermercado;1996-09-03;18;8857
+10330;Venezuela;LILA-Supermercado;1996-10-16;43;8857
+10357;Venezuela;LILA-Supermercado;1996-11-19;34;8857
+10381;Venezuela;LILA-Supermercado;1996-12-12;23;8857
+10461;Venezuela;LILA-Supermercado;1997-02-28;78;8857
+10499;Venezuela;LILA-Supermercado;1997-04-08;39;8857
+10543;Venezuela;LILA-Supermercado;1997-05-21;43;8857
+10780;Venezuela;LILA-Supermercado;1997-12-16;209;8857
+10823;Venezuela;LILA-Supermercado;1998-01-09;24;8857
+10899;Venezuela;LILA-Supermercado;1998-02-20;42;8857
+10997;Venezuela;LILA-Supermercado;1998-04-03;42;8857
+11065;Venezuela;LILA-Supermercado;1998-05-01;28;8857
+11071;Venezuela;LILA-Supermercado;1998-05-05;4;8857
+10405;Venezuela;LINO-Delicateses;1997-01-06;0;8871
+10485;Venezuela;LINO-Delicateses;1997-03-25;78;8871
+10638;Venezuela;LINO-Delicateses;1997-08-20;148;8871
+10697;Venezuela;LINO-Delicateses;1997-10-08;49;8871
+10729;Venezuela;LINO-Delicateses;1997-11-04;27;8871
+10811;Venezuela;LINO-Delicateses;1998-01-02;59;8871
+10838;Venezuela;LINO-Delicateses;1998-01-19;17;8871
+10840;Venezuela;LINO-Delicateses;1998-01-19;0;8871
+10919;Venezuela;LINO-Delicateses;1998-03-02;42;8871
+10954;Venezuela;LINO-Delicateses;1998-03-17;15;8871
+11014;Venezuela;LINO-Delicateses;1998-04-10;24;8871
+11039;Venezuela;LINO-Delicateses;1998-04-21;11;8871
+10307;USA;Lonesome Pine Restaurant;1996-09-17;0;8879
+10317;USA;Lonesome Pine Restaurant;1996-09-30;13;8879
+10544;USA;Lonesome Pine Restaurant;1997-05-21;233;8879
+10662;USA;Lonesome Pine Restaurant;1997-09-09;111;8879
+10665;USA;Lonesome Pine Restaurant;1997-09-11;2;8879
+10867;USA;Lonesome Pine Restaurant;1998-02-03;145;8879
+10883;USA;Lonesome Pine Restaurant;1998-02-12;9;8879
+11018;USA;Lonesome Pine Restaurant;1998-04-13;60;8879
+10275;Italy;Magazzini Alimentari Riuniti;1996-08-07;0;8907
+10300;Italy;Magazzini Alimentari Riuniti;1996-09-09;33;8907
+10404;Italy;Magazzini Alimentari Riuniti;1997-01-03;116;8907
+10467;Italy;Magazzini Alimentari Riuniti;1997-03-06;62;8907
+10635;Italy;Magazzini Alimentari Riuniti;1997-08-18;165;8907
+10754;Italy;Magazzini Alimentari Riuniti;1997-11-25;99;8907
+10784;Italy;Magazzini Alimentari Riuniti;1997-12-18;23;8907
+10818;Italy;Magazzini Alimentari Riuniti;1998-01-07;20;8907
+10939;Italy;Magazzini Alimentari Riuniti;1998-03-10;62;8907
+10950;Italy;Magazzini Alimentari Riuniti;1998-03-16;6;8907
+10529;Belgium;Maison Dewey;1997-05-07;0;8885
+10649;Belgium;Maison Dewey;1997-08-28;113;8885
+10760;Belgium;Maison Dewey;1997-12-01;95;8885
+10892;Belgium;Maison Dewey;1998-02-17;78;8885
+10896;Belgium;Maison Dewey;1998-02-19;2;8885
+10978;Belgium;Maison Dewey;1998-03-26;35;8885
+11004;Belgium;Maison Dewey;1998-04-07;12;8885
+10332;Canada;Mère Paillarde;1996-10-17;0;9044
+10339;Canada;Mère Paillarde;1996-10-28;11;9044
+10376;Canada;Mère Paillarde;1996-12-09;42;9044
+10424;Canada;Mère Paillarde;1997-01-23;45;9044
+10439;Canada;Mère Paillarde;1997-02-07;15;9044
+10505;Canada;Mère Paillarde;1997-04-14;66;9044
+10565;Canada;Mère Paillarde;1997-06-11;58;9044
+10570;Canada;Mère Paillarde;1997-06-17;6;9044
+10590;Canada;Mère Paillarde;1997-07-07;20;9044
+10605;Canada;Mère Paillarde;1997-07-21;14;9044
+10618;Canada;Mère Paillarde;1997-08-01;11;9044
+10619;Canada;Mère Paillarde;1997-08-04;3;9044
+10724;Canada;Mère Paillarde;1997-10-30;87;9044
+10277;Germany;Morgenstern Gesundkost;1996-08-09;0;8911
+10575;Germany;Morgenstern Gesundkost;1997-06-20;315;8911
+10699;Germany;Morgenstern Gesundkost;1997-10-09;111;8911
+10779;Germany;Morgenstern Gesundkost;1997-12-16;68;8911
+10945;Germany;Morgenstern Gesundkost;1998-03-12;86;8911
+10517;UK;North/South;1997-04-24;0;8863
+10752;UK;North/South;1997-11-24;214;8863
+11057;UK;North/South;1998-04-29;156;8863
+10409;Argentina;Océano Atlántico Ltda.;1997-01-09;0;8893
+10531;Argentina;Océano Atlántico Ltda.;1997-05-08;119;8893
+10898;Argentina;Océano Atlántico Ltda.;1998-02-20;288;8893
+10958;Argentina;Océano Atlántico Ltda.;1998-03-18;26;8893
+10986;Argentina;Océano Atlántico Ltda.;1998-03-30;12;8893
+10305;USA;Old World Delicatessen;1996-09-13;0;8872
+10338;USA;Old World Delicatessen;1996-10-25;42;8872
+10441;USA;Old World Delicatessen;1997-02-10;108;8872
+10594;USA;Old World Delicatessen;1997-07-09;149;8872
+10680;USA;Old World Delicatessen;1997-09-24;77;8872
+10706;USA;Old World Delicatessen;1997-10-16;22;8872
+10808;USA;Old World Delicatessen;1998-01-01;77;8872
+10855;USA;Old World Delicatessen;1998-01-27;26;8872
+10965;USA;Old World Delicatessen;1998-03-20;52;8872
+11034;USA;Old World Delicatessen;1998-04-20;31;8872
+10260;Germany;Ottilies Käseladen;1996-07-19;0;8878
+10407;Germany;Ottilies Käseladen;1997-01-07;172;8878
+10508;Germany;Ottilies Käseladen;1997-04-16;99;8878
+10554;Germany;Ottilies Käseladen;1997-05-30;44;8878
+10580;Germany;Ottilies Käseladen;1997-06-26;27;8878
+10684;Germany;Ottilies Käseladen;1997-09-26;92;8878
+10766;Germany;Ottilies Käseladen;1997-12-05;70;8878
+10833;Germany;Ottilies Käseladen;1998-01-15;41;8878
+10999;Germany;Ottilies Käseladen;1998-04-03;78;8878
+11020;Germany;Ottilies Käseladen;1998-04-14;11;8878
+10322;Mexico;Pericles Comidas clásicas;1996-10-04;0;8857
+10354;Mexico;Pericles Comidas clásicas;1996-11-14;41;8857
+10474;Mexico;Pericles Comidas clásicas;1997-03-13;119;8857
+10502;Mexico;Pericles Comidas clásicas;1997-04-10;28;8857
+10995;Mexico;Pericles Comidas clásicas;1998-04-02;357;8857
+11073;Mexico;Pericles Comidas clásicas;1998-05-05;33;8857
+10353;Austria;Piccolo und mehr;1996-11-13;0;8865
+10392;Austria;Piccolo und mehr;1996-12-24;41;8865
+10427;Austria;Piccolo und mehr;1997-01-27;34;8865
+10489;Austria;Piccolo und mehr;1997-03-28;60;8865
+10530;Austria;Piccolo und mehr;1997-05-08;41;8865
+10597;Austria;Piccolo und mehr;1997-07-11;64;8865
+10686;Austria;Piccolo und mehr;1997-09-30;81;8865
+10747;Austria;Piccolo und mehr;1997-11-19;50;8865
+10844;Austria;Piccolo und mehr;1998-01-21;63;8865
+11053;Austria;Piccolo und mehr;1998-04-27;96;8865
+10336;Portugal;Princesa Isabel Vinhos;1996-10-23;0;8884
+10397;Portugal;Princesa Isabel Vinhos;1996-12-27;65;8884
+10433;Portugal;Princesa Isabel Vinhos;1997-02-03;38;8884
+10477;Portugal;Princesa Isabel Vinhos;1997-03-17;42;8884
+11007;Portugal;Princesa Isabel Vinhos;1998-04-08;387;8884
+10261;Brazil;Que Delícia;1996-07-19;0;8892
+10291;Brazil;Que Delícia;1996-08-27;39;8892
+10379;Brazil;Que Delícia;1996-12-11;106;8892
+10421;Brazil;Que Delícia;1997-01-21;41;8892
+10587;Brazil;Que Delícia;1997-07-02;162;8892
+10647;Brazil;Que Delícia;1997-08-27;56;8892
+10720;Brazil;Que Delícia;1997-10-28;62;8892
+10794;Brazil;Que Delícia;1997-12-24;57;8892
+10989;Brazil;Que Delícia;1998-03-31;97;8892
+10372;Brazil;Queen Cozinha;1996-12-04;0;8858
+10406;Brazil;Queen Cozinha;1997-01-07;34;8858
+10487;Brazil;Queen Cozinha;1997-03-26;78;8858
+10637;Brazil;Queen Cozinha;1997-08-19;146;8858
+10659;Brazil;Queen Cozinha;1997-09-05;17;8858
+10704;Brazil;Queen Cozinha;1997-10-14;39;8858
+10728;Brazil;Queen Cozinha;1997-11-04;21;8858
+10786;Brazil;Queen Cozinha;1997-12-19;45;8858
+10868;Brazil;Queen Cozinha;1998-02-04;47;8858
+10913;Brazil;Queen Cozinha;1998-02-26;22;8858
+10914;Brazil;Queen Cozinha;1998-02-27;1;8858
+10961;Brazil;Queen Cozinha;1998-03-19;20;8858
+11068;Brazil;Queen Cozinha;1998-05-04;46;8858
+10273;Germany;QUICK-Stop;1996-08-05;0;8878
+10285;Germany;QUICK-Stop;1996-08-20;15;8878
+10286;Germany;QUICK-Stop;1996-08-21;1;8878
+10313;Germany;QUICK-Stop;1996-09-24;34;8878
+10345;Germany;QUICK-Stop;1996-11-04;41;8878
+10361;Germany;QUICK-Stop;1996-11-22;18;8878
+10418;Germany;QUICK-Stop;1997-01-17;56;8878
+10451;Germany;QUICK-Stop;1997-02-19;33;8878
+10515;Germany;QUICK-Stop;1997-04-23;63;8878
+10527;Germany;QUICK-Stop;1997-05-05;12;8878
+10540;Germany;QUICK-Stop;1997-05-19;14;8878
+10549;Germany;QUICK-Stop;1997-05-27;8;8878
+10588;Germany;QUICK-Stop;1997-07-03;37;8878
+10658;Germany;QUICK-Stop;1997-09-05;64;8878
+10691;Germany;QUICK-Stop;1997-10-03;28;8878
+10694;Germany;QUICK-Stop;1997-10-06;3;8878
+10721;Germany;QUICK-Stop;1997-10-29;23;8878
+10745;Germany;QUICK-Stop;1997-11-18;20;8878
+10765;Germany;QUICK-Stop;1997-12-04;16;8878
+10788;Germany;QUICK-Stop;1997-12-22;18;8878
+10845;Germany;QUICK-Stop;1998-01-21;30;8878
+10865;Germany;QUICK-Stop;1998-02-02;12;8878
+10878;Germany;QUICK-Stop;1998-02-10;8;8878
+10938;Germany;QUICK-Stop;1998-03-10;28;8878
+10962;Germany;QUICK-Stop;1998-03-19;9;8878
+10991;Germany;QUICK-Stop;1998-04-01;13;8878
+10996;Germany;QUICK-Stop;1998-04-02;1;8878
+11021;Germany;QUICK-Stop;1998-04-14;12;8878
+10448;Argentina;Rancho grande;1997-02-17;0;8879
+10716;Argentina;Rancho grande;1997-10-24;249;8879
+10828;Argentina;Rancho grande;1998-01-13;81;8879
+10916;Argentina;Rancho grande;1998-02-27;45;8879
+11019;Argentina;Rancho grande;1998-04-13;45;8879
+10262;USA;Rattlesnake Canyon Grocery;1996-07-22;0;8856
+10272;USA;Rattlesnake Canyon Grocery;1996-08-02;11;8856
+10294;USA;Rattlesnake Canyon Grocery;1996-08-30;28;8856
+10314;USA;Rattlesnake Canyon Grocery;1996-09-25;26;8856
+10316;USA;Rattlesnake Canyon Grocery;1996-09-27;2;8856
+10346;USA;Rattlesnake Canyon Grocery;1996-11-05;39;8856
+10401;USA;Rattlesnake Canyon Grocery;1997-01-01;57;8856
+10479;USA;Rattlesnake Canyon Grocery;1997-03-19;77;8856
+10564;USA;Rattlesnake Canyon Grocery;1997-06-10;83;8856
+10569;USA;Rattlesnake Canyon Grocery;1997-06-16;6;8856
+10598;USA;Rattlesnake Canyon Grocery;1997-07-14;28;8856
+10761;USA;Rattlesnake Canyon Grocery;1997-12-02;141;8856
+10820;USA;Rattlesnake Canyon Grocery;1998-01-07;36;8856
+10852;USA;Rattlesnake Canyon Grocery;1998-01-26;19;8856
+10889;USA;Rattlesnake Canyon Grocery;1998-02-16;21;8856
+10988;USA;Rattlesnake Canyon Grocery;1998-03-31;43;8856
+11000;USA;Rattlesnake Canyon Grocery;1998-04-06;6;8856
+11077;USA;Rattlesnake Canyon Grocery;1998-05-06;30;8856
+10288;Italy;Reggiani Caseifici;1996-08-23;0;8862
+10428;Italy;Reggiani Caseifici;1997-01-28;158;8862
+10443;Italy;Reggiani Caseifici;1997-02-12;15;8862
+10562;Italy;Reggiani Caseifici;1997-06-09;117;8862
+10586;Italy;Reggiani Caseifici;1997-07-02;23;8862
+10655;Italy;Reggiani Caseifici;1997-09-03;63;8862
+10727;Italy;Reggiani Caseifici;1997-11-03;61;8862
+10812;Italy;Reggiani Caseifici;1998-01-02;60;8862
+10908;Italy;Reggiani Caseifici;1998-02-26;55;8862
+10942;Italy;Reggiani Caseifici;1998-03-11;13;8862
+11010;Italy;Reggiani Caseifici;1998-04-09;29;8862
+11062;Italy;Reggiani Caseifici;1998-04-30;21;8862
+10287;Brazil;Ricardo Adocicados;1996-08-22;0;8863
+10299;Brazil;Ricardo Adocicados;1996-09-06;15;8863
+10447;Brazil;Ricardo Adocicados;1997-02-14;161;8863
+10481;Brazil;Ricardo Adocicados;1997-03-20;34;8863
+10563;Brazil;Ricardo Adocicados;1997-06-10;82;8863
+10622;Brazil;Ricardo Adocicados;1997-08-06;57;8863
+10648;Brazil;Ricardo Adocicados;1997-08-28;22;8863
+10813;Brazil;Ricardo Adocicados;1998-01-05;130;8863
+10851;Brazil;Ricardo Adocicados;1998-01-26;21;8863
+10877;Brazil;Ricardo Adocicados;1998-02-09;14;8863
+11059;Brazil;Ricardo Adocicados;1998-04-29;79;8863
+10255;Switzerland;Richter Supermarkt;1996-07-12;0;8856
+10419;Switzerland;Richter Supermarkt;1997-01-20;192;8856
+10537;Switzerland;Richter Supermarkt;1997-05-14;114;8856
+10666;Switzerland;Richter Supermarkt;1997-09-12;121;8856
+10751;Switzerland;Richter Supermarkt;1997-11-24;73;8856
+10758;Switzerland;Richter Supermarkt;1997-11-28;4;8856
+10931;Switzerland;Richter Supermarkt;1998-03-06;98;8856
+10951;Switzerland;Richter Supermarkt;1998-03-16;10;8856
+11033;Switzerland;Richter Supermarkt;1998-04-17;32;8856
+11075;Switzerland;Richter Supermarkt;1998-05-06;19;8856
+10281;Spain;Romero y tomillo;1996-08-14;0;8883
+10282;Spain;Romero y tomillo;1996-08-15;1;8883
+10306;Spain;Romero y tomillo;1996-09-16;32;8883
+10917;Spain;Romero y tomillo;1998-03-02;532;8883
+11013;Spain;Romero y tomillo;1998-04-09;38;8883
+10387;Norway;Santé Gourmet;1996-12-18;0;8882
+10520;Norway;Santé Gourmet;1997-04-29;132;8882
+10639;Norway;Santé Gourmet;1997-08-20;113;8882
+10831;Norway;Santé Gourmet;1998-01-14;147;8882
+10909;Norway;Santé Gourmet;1998-02-26;43;8882
+11015;Norway;Santé Gourmet;1998-04-10;43;8882
+10324;USA;Save-a-lot Markets;1996-10-08;0;8861
+10393;USA;Save-a-lot Markets;1996-12-25;78;8861
+10398;USA;Save-a-lot Markets;1996-12-30;5;8861
+10440;USA;Save-a-lot Markets;1997-02-10;42;8861
+10452;USA;Save-a-lot Markets;1997-02-20;10;8861
+10510;USA;Save-a-lot Markets;1997-04-18;57;8861
+10555;USA;Save-a-lot Markets;1997-06-02;45;8861
+10603;USA;Save-a-lot Markets;1997-07-18;46;8861
+10607;USA;Save-a-lot Markets;1997-07-22;4;8861
+10612;USA;Save-a-lot Markets;1997-07-28;6;8861
+10627;USA;Save-a-lot Markets;1997-08-11;14;8861
+10657;USA;Save-a-lot Markets;1997-09-04;24;8861
+10678;USA;Save-a-lot Markets;1997-09-23;19;8861
+10700;USA;Save-a-lot Markets;1997-10-10;17;8861
+10711;USA;Save-a-lot Markets;1997-10-21;11;8861
+10713;USA;Save-a-lot Markets;1997-10-22;1;8861
+10714;USA;Save-a-lot Markets;1997-10-22;0;8861
+10722;USA;Save-a-lot Markets;1997-10-29;7;8861
+10748;USA;Save-a-lot Markets;1997-11-20;22;8861
+10757;USA;Save-a-lot Markets;1997-11-27;7;8861
+10815;USA;Save-a-lot Markets;1998-01-05;39;8861
+10847;USA;Save-a-lot Markets;1998-01-22;17;8861
+10882;USA;Save-a-lot Markets;1998-02-11;20;8861
+10894;USA;Save-a-lot Markets;1998-02-18;7;8861
+10941;USA;Save-a-lot Markets;1998-03-11;21;8861
+10983;USA;Save-a-lot Markets;1998-03-27;16;8861
+10984;USA;Save-a-lot Markets;1998-03-30;3;8861
+11002;USA;Save-a-lot Markets;1998-04-06;7;8861
+11031;USA;Save-a-lot Markets;1998-04-17;0;8861
+11030;USA;Save-a-lot Markets;1998-04-17;11;8861
+11064;USA;Save-a-lot Markets;1998-05-01;14;8861
+10359;UK;Seven Seas Imports;1996-11-21;0;8947
+10377;UK;Seven Seas Imports;1996-12-09;18;8947
+10388;UK;Seven Seas Imports;1996-12-19;10;8947
+10472;UK;Seven Seas Imports;1997-03-12;83;8947
+10523;UK;Seven Seas Imports;1997-05-01;50;8947
+10547;UK;Seven Seas Imports;1997-05-23;22;8947
+10800;UK;Seven Seas Imports;1997-12-26;217;8947
+10804;UK;Seven Seas Imports;1997-12-30;4;8947
+10869;UK;Seven Seas Imports;1998-02-04;36;8947
+10341;Denmark;Simons bistro;1996-10-29;0;8856
+10417;Denmark;Simons bistro;1997-01-16;79;8856
+10556;Denmark;Simons bistro;1997-06-03;138;8856
+10642;Denmark;Simons bistro;1997-08-22;80;8856
+10669;Denmark;Simons bistro;1997-09-15;24;8856
+10802;Denmark;Simons bistro;1997-12-29;105;8856
+11074;Denmark;Simons bistro;1998-05-06;128;8856
+10738;France;Spécialités du monde;1997-11-12;0;8870
+10907;France;Spécialités du monde;1998-02-25;105;8870
+10964;France;Spécialités du monde;1998-03-20;23;8870
+11043;France;Spécialités du monde;1998-04-22;33;8870
+10271;USA;Split Rail Beer & Ale;1996-08-01;0;8898
+10329;USA;Split Rail Beer & Ale;1996-10-15;75;8898
+10349;USA;Split Rail Beer & Ale;1996-11-08;24;8898
+10369;USA;Split Rail Beer & Ale;1996-12-02;24;8898
+10385;USA;Split Rail Beer & Ale;1996-12-17;15;8898
+10432;USA;Split Rail Beer & Ale;1997-01-31;45;8898
+10756;USA;Split Rail Beer & Ale;1997-11-27;300;8898
+10821;USA;Split Rail Beer & Ale;1998-01-08;42;8898
+10974;USA;Split Rail Beer & Ale;1998-03-25;76;8898
+10252;Belgium;Suprêmes délices;1996-07-09;0;8871
+10302;Belgium;Suprêmes délices;1996-09-10;63;8871
+10458;Belgium;Suprêmes délices;1997-02-26;169;8871
+10463;Belgium;Suprêmes délices;1997-03-04;6;8871
+10475;Belgium;Suprêmes délices;1997-03-14;10;8871
+10767;Belgium;Suprêmes délices;1997-12-05;266;8871
+10841;Belgium;Suprêmes délices;1998-01-20;46;8871
+10846;Belgium;Suprêmes délices;1998-01-22;2;8871
+10885;Belgium;Suprêmes délices;1998-02-12;21;8871
+10930;Belgium;Suprêmes délices;1998-03-06;22;8871
+11035;Belgium;Suprêmes délices;1998-04-20;45;8871
+11038;Belgium;Suprêmes délices;1998-04-21;1;8871
+10310;USA;The Big Cheese;1996-09-20;0;8891
+10708;USA;The Big Cheese;1997-10-17;392;8891
+10805;USA;The Big Cheese;1997-12-30;74;8891
+10992;USA;The Big Cheese;1998-04-01;92;8891
+10624;USA;The Cracker Box;1997-08-07;0;8886
+10775;USA;The Cracker Box;1997-12-12;127;8886
+11003;USA;The Cracker Box;1998-04-06;115;8886
+10249;Germany;Toms Spezialitäten;1996-07-05;0;8900
+10438;Germany;Toms Spezialitäten;1997-02-06;216;8900
+10446;Germany;Toms Spezialitäten;1997-02-14;8;8900
+10548;Germany;Toms Spezialitäten;1997-05-26;101;8900
+10608;Germany;Toms Spezialitäten;1997-07-23;58;8900
+10967;Germany;Toms Spezialitäten;1998-03-23;243;8900
+10276;Mexico;Tortuga Restaurante;1996-08-08;0;8858
+10293;Mexico;Tortuga Restaurante;1996-08-29;21;8858
+10304;Mexico;Tortuga Restaurante;1996-09-12;14;8858
+10319;Mexico;Tortuga Restaurante;1996-10-02;20;8858
+10518;Mexico;Tortuga Restaurante;1997-04-25;205;8858
+10576;Mexico;Tortuga Restaurante;1997-06-23;59;8858
+10676;Mexico;Tortuga Restaurante;1997-09-22;91;8858
+10842;Mexico;Tortuga Restaurante;1998-01-20;120;8858
+10915;Mexico;Tortuga Restaurante;1998-02-27;38;8858
+11069;Mexico;Tortuga Restaurante;1998-05-04;66;8858
+10292;Brazil;Tradição Hipermercados;1996-08-28;0;8963
+10496;Brazil;Tradição Hipermercados;1997-04-04;219;8963
+10606;Brazil;Tradição Hipermercados;1997-07-22;109;8963
+10830;Brazil;Tradição Hipermercados;1998-01-13;175;8963
+10834;Brazil;Tradição Hipermercados;1998-01-15;2;8963
+10839;Brazil;Tradição Hipermercados;1998-01-19;4;8963
+10574;USA;Trail's Head Gourmet Provisioners;1997-06-19;0;8974
+10577;USA;Trail's Head Gourmet Provisioners;1997-06-23;4;8974
+10822;USA;Trail's Head Gourmet Provisioners;1998-01-08;199;8974
+10367;Denmark;Vaffeljernet;1996-11-28;0;8890
+10399;Denmark;Vaffeljernet;1996-12-31;33;8890
+10465;Denmark;Vaffeljernet;1997-03-05;64;8890
+10591;Denmark;Vaffeljernet;1997-07-07;124;8890
+10602;Denmark;Vaffeljernet;1997-07-17;10;8890
+10688;Denmark;Vaffeljernet;1997-10-01;76;8890
+10744;Denmark;Vaffeljernet;1997-11-17;47;8890
+10769;Denmark;Vaffeljernet;1997-12-08;21;8890
+10921;Denmark;Vaffeljernet;1998-03-03;85;8890
+10946;Denmark;Vaffeljernet;1998-03-12;9;8890
+10994;Denmark;Vaffeljernet;1998-04-02;21;8890
+10251;France;Victuailles en stock;1996-07-08;0;8959
+10334;France;Victuailles en stock;1996-10-21;105;8959
+10450;France;Victuailles en stock;1997-02-19;121;8959
+10459;France;Victuailles en stock;1997-02-27;8;8959
+10478;France;Victuailles en stock;1997-03-18;19;8959
+10546;France;Victuailles en stock;1997-05-23;66;8959
+10806;France;Victuailles en stock;1997-12-31;222;8959
+10814;France;Victuailles en stock;1998-01-05;5;8959
+10843;France;Victuailles en stock;1998-01-21;16;8959
+10850;France;Victuailles en stock;1998-01-23;2;8959
+10248;France;Vins et alcools Chevalier;1996-07-04;0;9031
+10274;France;Vins et alcools Chevalier;1996-08-06;33;9031
+10295;France;Vins et alcools Chevalier;1996-09-02;27;9031
+10737;France;Vins et alcools Chevalier;1997-11-11;435;9031
+10739;France;Vins et alcools Chevalier;1997-11-12;1;9031
+10266;Finland;Wartian Herkku;1996-07-26;0;8877
+10270;Finland;Wartian Herkku;1996-08-01;6;8877
+10320;Finland;Wartian Herkku;1996-10-03;63;8877
+10333;Finland;Wartian Herkku;1996-10-18;15;8877
+10412;Finland;Wartian Herkku;1997-01-13;87;8877
+10416;Finland;Wartian Herkku;1997-01-16;3;8877
+10437;Finland;Wartian Herkku;1997-02-05;20;8877
+10455;Finland;Wartian Herkku;1997-02-24;19;8877
+10526;Finland;Wartian Herkku;1997-05-05;70;8877
+10553;Finland;Wartian Herkku;1997-05-30;25;8877
+10583;Finland;Wartian Herkku;1997-06-30;31;8877
+10636;Finland;Wartian Herkku;1997-08-19;50;8877
+10750;Finland;Wartian Herkku;1997-11-21;94;8877
+10781;Finland;Wartian Herkku;1997-12-17;26;8877
+11025;Finland;Wartian Herkku;1998-04-15;119;8877
+10256;Brazil;Wellington Importadora;1996-07-15;0;8914
+10420;Brazil;Wellington Importadora;1997-01-21;190;8914
+10585;Brazil;Wellington Importadora;1997-07-01;161;8914
+10644;Brazil;Wellington Importadora;1997-08-25;55;8914
+10803;Brazil;Wellington Importadora;1997-12-30;127;8914
+10809;Brazil;Wellington Importadora;1998-01-01;2;8914
+10900;Brazil;Wellington Importadora;1998-02-20;50;8914
+10905;Brazil;Wellington Importadora;1998-02-24;4;8914
+10935;Brazil;Wellington Importadora;1998-03-09;13;8914
+10269;USA;White Clover Markets;1996-07-31;0;8861
+10344;USA;White Clover Markets;1996-11-01;93;8861
+10469;USA;White Clover Markets;1997-03-10;129;8861
+10483;USA;White Clover Markets;1997-03-24;14;8861
+10504;USA;White Clover Markets;1997-04-11;18;8861
+10596;USA;White Clover Markets;1997-07-11;91;8861
+10693;USA;White Clover Markets;1997-10-06;87;8861
+10696;USA;White Clover Markets;1997-10-08;2;8861
+10723;USA;White Clover Markets;1997-10-30;22;8861
+10740;USA;White Clover Markets;1997-11-13;14;8861
+10861;USA;White Clover Markets;1998-01-30;78;8861
+10904;USA;White Clover Markets;1998-02-24;25;8861
+11032;USA;White Clover Markets;1998-04-17;52;8861
+11066;USA;White Clover Markets;1998-05-01;14;8861
+10615;Finland;Wilman Kala;1997-07-30;0;8885
+10673;Finland;Wilman Kala;1997-09-18;50;8885
+10695;Finland;Wilman Kala;1997-10-07;19;8885
+10873;Finland;Wilman Kala;1998-02-06;122;8885
+10879;Finland;Wilman Kala;1998-02-10;4;8885
+10910;Finland;Wilman Kala;1998-02-26;16;8885
+11005;Finland;Wilman Kala;1998-04-07;40;8885
+10374;Poland;Wolski  Zajazd;1996-12-05;0;8869
+10611;Poland;Wolski  Zajazd;1997-07-25;232;8869
+10792;Poland;Wolski  Zajazd;1997-12-23;151;8869
+10870;Poland;Wolski  Zajazd;1998-02-04;43;8869
+10906;Poland;Wolski  Zajazd;1998-02-25;21;8869
+10998;Poland;Wolski  Zajazd;1998-04-03;37;8869
+11044;Poland;Wolski  Zajazd;1998-04-23;20;8869

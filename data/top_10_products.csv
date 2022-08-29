@@ -1,0 +1,78 @@
+product_name;origin_country;supplier;revenue;total_orders;revenue_share(%)
+Côte de Blaye;France;Aux joyeux ecclésiastiques;141396.735;24;11.17
+Thüringer Rostbratwurst;Germany;Plutzer Lebensmittelgroßmärkte AG;80368.672;32;6.35
+Raclette Courdavault;France;Gai pâturage;71155.7;54;5.62
+Tarte au sucre;Canada;Forêts d'érables;47234.97;48;3.73
+Camembert Pierrot;France;Gai pâturage;46825.48;51;3.7
+Gnocchi di nonna Alice;Italy;Pasta Buttini s.r.l.;42593.06;50;3.36
+Manjimup Dried Apples;Australia;G'day, Mate;41819.65;39;3.3
+Alice Mutton;Australia;Pavlova, Ltd.;32698.379999999997;37;2.58
+Carnarvon Tigers;Australia;Pavlova, Ltd.;29171.875;27;2.3
+Rössle Sauerkraut;Germany;Plutzer Lebensmittelgroßmärkte AG;25696.640000000007;33;2.03
+Mozzarella di Giovanni;Italy;Formaggi Fortini s.r.l.;24900.13;38;1.97
+Ipoh Coffee;Singapore;Leka Trading;23526.699999999997;28;1.86
+Sir Rodney's Marmalade;UK;Specialty Biscuits, Ltd.;22563.359999999997;16;1.78
+Uncle Bob's Organic Dried Pears;USA;Grandma Kelly's Homestead;22044.3;29;1.74
+Wimmers gute Semmelknödel;Germany;Plutzer Lebensmittelgroßmärkte AG;21957.967500000002;30;1.73
+Gudbrandsdalsost;Norway;Norske Meierier;21942.36;31;1.73
+Ikura;Japan;Tokyo Traders;20867.340000000004;33;1.65
+Perth Pasties;Australia;G'day, Mate;20574.170000000006;30;1.63
+Gumbär Gummibärchen;Germany;Heli Süßwaren GmbH & Co. KG;19849.144500000002;32;1.57
+Flotemysost;Norway;Norske Meierier;19551.024999999998;42;1.54
+Boston Crab Meat;USA;New England Seafood Cannery;17910.63;41;1.41
+Pâté chinois;Canada;Ma Maison;17426.4;33;1.38
+Pavlova;Australia;Pavlova, Ltd.;17215.775499999996;43;1.36
+Vegie-spread;Australia;Pavlova, Ltd.;16701.095;17;1.32
+Chang;UK;Exotic Liquids;16355.96;44;1.29
+Lakkalikööri;Finland;Karkki Oy;15760.44;39;1.25
+Schoggi Schokolade;Germany;Heli Süßwaren GmbH & Co. KG;15099.875;9;1.19
+Gorgonzola Telino;Italy;Formaggi Fortini s.r.l.;14920.875;51;1.18
+Sirop d'érable;Canada;Forêts d'érables;14352.6;24;1.13
+Louisiana Fiery Hot Pepper Sauce;USA;New Orleans Cajun Delights;13869.890000000001;32;1.1
+Steeleye Stout;USA;Bigfoot Breweries;13643.999999999998;36;1.08
+Inlagd Sill;Sweden;Svensk Sjöföda AB;13458.460000000001;31;1.06
+Nord-Ost Matjeshering;Germany;Nord-Ost-Fisch Handelsgesellschaft mbH;13424.197500000002;32;1.06
+Queso Cabrales;Spain;Cooperativa de Quesos 'Las Cabras';12901.77;38;1.02
+Chai;UK;Specialty Biscuits, Ltd.;12788.1;38;1.01
+Northwoods Cranberry Sauce;USA;Grandma Kelly's Homestead;12772.0;13;1.01
+Chartreuse verte;France;Aux joyeux ecclésiastiques;12294.54;30;0.97
+Queso Manchego La Pastora;Spain;Cooperativa de Quesos 'Las Cabras';12257.660000000002;14;0.97
+Outback Lager;Australia;Pavlova, Ltd.;10672.65;39;0.84
+Gula Malacca;Singapore;Leka Trading;9915.945000000002;24;0.78
+Maxilaku;Finland;Karkki Oy;9244.6;21;0.73
+Original Frankfurter grüne Soße;Germany;Plutzer Lebensmittelgroßmärkte AG;9171.63;38;0.72
+Sir Rodney's Scones;UK;Specialty Biscuits, Ltd.;9104.0;39;0.72
+Scottish Longbreads;UK;Specialty Biscuits, Ltd.;8714.0;34;0.69
+Jack's New England Clam Chowder;USA;New England Seafood Cannery;8680.345000000005;47;0.69
+Singaporean Hokkien Fried Mee;Singapore;Leka Trading;8575.0;30;0.68
+Chef Anton's Cajun Seasoning;USA;New Orleans Cajun Delights;8567.900000000001;20;0.68
+Mascarpone Fabioli;Italy;Formaggi Fortini s.r.l.;8404.16;15;0.66
+Rhönbräu Klosterbier;Germany;Plutzer Lebensmittelgroßmärkte AG;8177.489999999999;46;0.65
+Tofu;Japan;Mayumi's;7991.489999999999;22;0.63
+Ravioli Angelo;Italy;Pasta Buttini s.r.l.;7661.549999999999;23;0.61
+Mishi Kobe Niku;Japan;Tokyo Traders;7226.5;5;0.57
+Grandma's Boysenberry Spread;USA;Grandma Kelly's Homestead;7137.0;12;0.56
+Gustaf's Knäckebröd;Sweden;PB Knäckebröd AB;7122.360000000001;14;0.56
+Sasquatch Ale;USA;Bigfoot Breweries;6350.4;19;0.5
+Spegesild;Denmark;Lyngbysild;5882.999999999999;27;0.46
+Escargots de Bourgogne;France;Escargots Nouveaux;5881.674999999999;18;0.46
+Teatime Chocolate Biscuits;UK;Specialty Biscuits, Ltd.;5862.619999999998;37;0.46
+Chef Anton's Gumbo Mix;USA;New Orleans Cajun Delights;5347.200000000001;10;0.42
+Konbu;Japan;Mayumi's;4960.4400000000005;40;0.39
+Tourtière;Canada;Ma Maison;4728.2375;36;0.37
+Tunnbröd;Sweden;PB Knäckebröd AB;4601.7;20;0.36
+Guaraná Fantástica;Brazil;Refrescos Americanas LTDA;4504.365;51;0.36
+Rogede sild;Denmark;Lyngbysild;4338.175;14;0.34
+Röd Kaviar;Sweden;Svensk Sjöföda AB;3997.2;14;0.32
+Zaanse koeken;Netherlands;Zaanse Snoepfabriek;3958.08;21;0.31
+NuNuCa Nuß-Nougat-Creme;Germany;Heli Süßwaren GmbH & Co. KG;3704.3999999999996;18;0.29
+Valkoinen suklaa;Finland;Karkki Oy;3437.6875;10;0.27
+Louisiana Hot Spiced Okra;USA;New Orleans Cajun Delights;3383.0;8;0.27
+Filo Mix;Australia;G'day, Mate;3232.9500000000003;29;0.26
+Aniseed Syrup;UK;Exotic Liquids;3044.0;12;0.24
+Gravad lax;Sweden;Svensk Sjöföda AB;2688.3999999999996;6;0.21
+Longlife Tofu;Japan;Tokyo Traders;2432.5;13;0.19
+Laughing Lumberjack Lager;USA;Bigfoot Breweries;2396.8;10;0.19
+Genen Shouyu;Japan;Mayumi's;1784.825;6;0.14
+Geitost;Norway;Norske Meierier;1648.125;32;0.13
+Chocolade;Netherlands;Zaanse Snoepfabriek;1368.7125;6;0.11
